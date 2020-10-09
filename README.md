@@ -1,2 +1,1 @@
-# mt-esp-quy
-MT for Spanish - Quechua Ayacucho
+# MT for Spanish (es) - Quechua Ayacucho (quy)
