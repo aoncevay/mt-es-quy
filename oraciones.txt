@@ -1,0 +1,5079 @@
+ari.	claro.
+abas.	habas.
+abiha.	abeja.
+abiyay.	avivar.
+abril.	abril.
+abugadu.	abogado.
+abunu.	abono.
+abusay.	abusar.
+achalachiy.	adornar.
+achalakuy.	adornarse.
+achalasqa.	adornado.
+achá.	ciertamente.
+achaka.	juguete.
+achákala.	abecedario.
+achiku.	desnudo.
+achikyay.	amanecer.
+achikyay.	crepúsculo.
+achikyay.	aclarar.
+achikyay.	iluminar.
+achka.	mucho.
+achka.	mucha.
+achka.	muchos.
+achka.	muchas.
+achka.	bastante.
+achka.	abundante.
+achka.	mucho.
+achka.	varios.
+achka.	demasiado.
+achka.	cuantioso.
+achka.	numeroso.
+achka.	tanto.
+achki.	luz.
+achki.	claridad.
+achki.	resplandor.
+aqu.	arena.
+araña.	araña.
+ariq.	volcán.
+aka.	excremento.
+aka.	guano.
+aka.	estiércol.
+aka.	caca.
+aka.	escoria.
+akakichki.	estreñimiento.
+akatanqa.	escarabajo.
+akawara.	pañal.
+akllanakuy.	elecciones.
+akllay.	elegir.
+akllay.	seleccionar.
+akllay.	escoger.
+akllay.	clasificar.
+akllay.	separar.
+aqllu.	tartamudo.
+aqllu.	gago.
+aklluy.	enmudecer.
+aktiy.	extraer.
+akuy.	masticar.
+asnaq.	apestoso.
+papa.	papa.
+papa.	patata.
+asnu.	burro.
+asnu.	asno.
+allin.	mejor.
+allin.	bueno.
+allin.	bien.
+allin.	excelente.
+allin.	sano.
+allin.	muy bien.
+allin qillqay.	ortografía.
+allinyay.	reconciliarse.
+allinyay.	curar.
+allinyay.	amistarse.
+alleq.	derecha.
+allpa.	tierra.
+allpa.	polvo.
+allpa.	suelo.
+allpa.	terreno.
+alpaka.	alpaca.
+allqamari.	cuervo.
+allqo.	perro.
+allqo.	perra.
+allqo.	can.
+allwi.	urdimbre.
+ama.	no.
+amachay.	defender.
+amachay.	proteger.
+amachay.	abogar.
+amachay.	amparar.
+amachay.	apaciguar.
+amaku.	garrapata.
+amaña.	ya no.
+amaru.	culebra.
+amaru.	serpiente.
+amaru.	reptil.
+amawta.	maestro.
+amawta.	profesor.
+Amachu.	prohibido.
+ameq.	empalagoso.
+amiy.	hostigarse.
+amlla.	desabrido.
+ampu.	alcohólico.
+amu.	mudo.
+amu.	callado.
+ancha.	muy.
+ancha.	demasiado.
+ancha.	mucho.
+ancha.	abundante.
+ancha.	bastante.
+anchiy.	suspirar.
+anchiy.	gemir.
+anchiy.	sollozar.
+animal.	animal.
+anka.	águila.
+anka.	ave rapaz.
+anka kay.	paz.
+ankallay.	echarse.
+ankallay.	tropezarse.
+ankalli.	insurgente.
+ankalli.	rebelde.
+ankallikuy.	oponerse.
+ankallikuy.	rebelarse.
+ankallikuy.	sublevarse.
+anku.	duro.
+ankas.	azul.
+ankas.	color azul.
+anri.	cierto.
+anri.	bueno.
+anqusay.	convidar.
+anqusay.	brindar.
+anqusay.	libar.
+anta.	cobre.
+anta.	metal cobre.
+antaqa.	rojizo.
+anta sitwa.	julio.
+Antawaylla.	Andahuaylas.
+Anti.	Andes.
+Anti.	los Andes.
+anukay.	destetar.
+anukchi.	menudo.
+anyachiy.	amonestar.
+anyachiy.	exhortar.
+anyay.	ladrar.
+anyay.	reñir.
+anyay.	reprender.
+anyay.	advertir.
+anyay.	convencer.
+añaka.	miel.
+añaka.	golosina.
+añaka.	caramelo.
+añanqa.	hormiga.
+añas.	zorrino.
+añas.	zorrillo.
+apachikuy.	enviar.
+apachikuy.	encomienda.
+apachikuy.	encargar.
+apakuy.	llevate.
+apamuy.	traer.
+apay.	llevar.
+apay.	conducir.
+apay.	transportar.
+apay.	portar.
+apay.	trasladar.
+api.	mazamorra.
+api.	budin.
+aptay.	agarrar.
+aptay.	atrapar.
+aptay.	coger.
+apu.	poderoso.
+apu.	supremo.
+apu.	altisimo.
+apu.	soberano.
+apu.	líder.
+apu.	señor.
+apu.	deidad.
+apu.	dios.
+apusonqo.	engreído.
+apusonqo.	envanecido.
+apusonqo.	orgulloso.
+apusonqo.	soberbio.
+apuyaykuna.	riqueza.
+apuyaykuna.	riquezas.
+apyay.	aplastar.
+aqalli.	intestinos.
+aqalli.	intestino.
+aqaruraykuna.	plagas.
+aqaruway.	saltamontes.
+aqaruway.	langosta.
+aqchi.	gavilán.
+aqta.	garrapata.
+aqtuy.	vomitar.
+aqtuy.	escupir.
+aqo.	arena.
+aqo.	cascajo.
+aqo.	guijo.
+aqa.	chicha.
+araq.	sucio.
+araway.	ahorcar.
+araway.	colgar.
+arí.	sí.
+arinsa.	arriendo.
+arinsa.	alquiler.
+armay.	bañar.
+armay.	bañarse.
+armay.	lavar.
+arwi.	adobe.
+asikuy.	reirse.
+asikuy.	sonreir.
+asina willakuy.	anécdota.
+asinda.	hacienda.
+aseq.	risueño.
+aseq.	burlon.
+asiy.	risa.
+asiy.	reír.
+asiy.	reir.
+asiy.	carcajada.
+asnay.	apestar.
+asnay.	oler.
+asnay.	olfatear.
+aspiy.	escarbar.
+aspiy.	desenterrar.
+aspiy.	cavar.
+astawan.	además.
+astawan.	demasiado.
+astawan.	también.
+astawan.	algo más.
+astawan.	mucho más.
+astay.	acarrear.
+astay.	traer.
+astay.	trasladar.
+astay.	transportar.
+astiy.	atizar.
+asuka.	foca marina.
+asuka.	foca.
+asuka.	lobo marino.
+asukar.	azúcar.
+asuriy.	arrimarse.
+asuriy.	alejarse.
+asuy.	retirarse.
+asuykuy.	acercarse.
+asuykuy.	aproximarse.
+asuykuy.	acudir.
+asuykuy.	allegarse.
+aswan pisi.	menos.
+aswan pisi.	menor.
+alma pampana.	panteón.
+allqa.	blanquinegro.
+allachiy.	cavar.
+allachiy.	cosechar.
+allachiy.	escarbar.
+allichay.	reparar.
+allichay.	arreglar.
+allichay.	acomodar.
+allichay.	adornar.
+allichay.	componer.
+allichay.	ordenar.
+allichay.	acondicionar.
+allichay.	conciliar.
+ataka.	pata.
+atichay.	llevar.
+atika.	economía.
+atipanakuy.	competencia.
+atipanakuy.	competir.
+atipanakuy.	disputarse.
+atipanakuy.	porfiarse.
+atuq.	astuto.
+atuq.	zorro.
+atuq china.	zorra.
+ataw.	dicha.
+ataw.	suerte.
+atawchi.	distinguido.
+atawchi.	notable.
+atawchi.	importante.
+ati.	fatalidad.
+ati.	desgracia.
+ati.	adversidad.
+atipa.	victoria.
+atipaq.	poderoso.
+atipaq.	vencedor.
+atipaq.	ganador.
+atipaq.	triunfador.
+atipay.	poder.
+atipay.	sobresalir.
+ateqlla.	dato.
+ateqlla.	prueba.
+ateqlla.	requerimiento.
+ateqlla.	citación.
+atiruna.	perverso.
+atiruna.	desalmado.
+atisanka.	prisionero.
+atisanka.	cautivo.
+atisankawasi.	cárcel.
+atisankawasi.	prisión.
+atiysapa.	poderoso.
+atiysapa.	rico.
+atuqpa papan.	papa del zorro.
+aswanchasqa.	extraordinario.
+awakuq.	tejedor.
+Awankay.	Abancay.
+awa.	tela.
+awa.	tejido.
+away.	tejer.
+awana.	telar.
+awaq.	tejedor.
+awaq.	tejedora.
+awicha.	anciana.
+awichu.	abuelo.
+awki.	príncipe.
+awllay.	aullar.
+awkilla.	bisabuela.
+awkillu.	bisabuelo.
+awkillu.	abuelo.
+awkillu.	anciano.
+awqa.	enemigo.
+awqa.	rebelde.
+awqa.	salvaje.
+awqa.	bárbaro.
+awqa.	adversario.
+awqa.	rival.
+awqa.	contrario.
+awqana.	guerra.
+awqana.	beligerancia.
+awqanakoq.	guerrero.
+awqanakoq.	beligerante.
+awqanakuy.	pelear.
+awqanakuy.	enfrentarse.
+awqanakuy.	batallar.
+awqanakuy.	combatir.
+awqay.	luchar.
+awqay.	combatir.
+awqay.	pelear.
+awriki.	por supuesto.
+aya.	alma.
+aya.	cadáver.
+aya.	muerto.
+aya.	difunto.
+aya.	espíritu.
+ayachukuchiy.	embalsamar.
+Ayakuchu.	Ayacucho.
+aya uma.	calavera.
+aycha.	carne.
+aycha.	musculo.
+aycha.	cuerpo.
+ayapaka.	sepulturero.
+aychamikuq.	carnívoro.
+aycha rantikuq.	carnicero.
+aychawasi.	carnicería.
+aychasapa.	carnoso.
+aychasapa.	musculoso.
+ayllu.	familia.
+ayllu.	parientes.
+ayllu.	comunidad.
+ayllu.	tribu.
+aylluchay.	emparentar.
+ayma.	procesión.
+aymura.	cosecha.
+aymuray.	cosechar.
+aynikuy.	ayudarse.
+aynikuy.	colaborar.
+ayniy.	ayudar.
+ayniy.	prestar.
+ayniy.	convivir.
+ayniy.	corresponder.
+ayñiy.	oponerse.
+ayñiy.	contradecir.
+ayñiy.	rezongar.
+ayunay.	ayunar.
+ayaqra.	cadavérico.
+ayawaka.	sepulcro.
+ayawantu.	avispa.
+ayawasi.	tumba.
+ayawasi.	cementerio.
+ayawasi.	panteón.
+aywiy.	lavar.
+aywiy.	enjuagar.
+aywiy.	batir.
+aywiy.	agitar.
+aya watu.	ataud.
+aya watu.	feretro.
+aypay.	alcanzar.
+aypay.	abastecer.
+aypuy.	distribuir.
+aypuy.	repartir.
+aypuy.	convidar.
+aypuy.	agasajar.
+ayqe.	evasión.
+ayqe.	huída.
+ayqep.	fugitivo.
+ayqey.	huir.
+ayqey.	escapar.
+ayqey.	fugar.
+ayqey.	evadir.
+ayqey.	fugarse.
+ayqey.	escaparse.
+aysana.	canasta.
+aysana.	cesta.
+aysana.	caja.
+aysana.	recipiente.
+aysana.	asa.
+aysay.	estirar.
+Ayiyanchu.	Hola.
+bandira.	bandera.
+baratu.	barato.
+basyu.	vacío.
+biriti.	gorra.
+brinkay.	saltar.
+brinkay.	brincar.
+chaka.	puente.
+chakatasqa.	crucificado.
+chakatay.	crucificar.
+chachi.	rigor.
+chachi.	severidad.
+chaki.	pie.
+chakikuy.	secarse.
+chakisapa.	patón.
+chakra.	campo.
+chakra.	terreno.
+chakra.	maizal.
+chakra.	chacra.
+chakrayuq.	hacendado.
+chakrayuq.	terrateniente.
+chakra runa.	campesino.
+chakra warmi.	campesina.
+chakata.	cruz.
+chakatay.	crucificar.
+chakay.	cruzar.
+chaku.	rodeo.
+chaku.	cacería.
+chakichina.	secador.
+chakichina.	servilleta.
+chakchay.	masticar.
+challwakuy.	pescar.
+chala.	intercambio.
+chala suyu.	costa.
+challwa.	pescado.
+chamkay.	tocar.
+chamqay.	echar.
+chamqay.	arrojar.
+chamqay.	tirar.
+chamqay.	lanzar.
+chamqay.	apedrear.
+chamqay.	chancar.
+chamchay.	despedazar.
+chamisu.	retama.
+chana.	menor.
+chani.	precio.
+chani.	valor.
+chani.	costo.
+chanin.	bastante.
+chaninchay.	reconocer.
+chaninchay.	respetar.
+chaninchay.	valorar.
+chaninchay.	premiar.
+chaninchay.	renumerar.
+chaninchay.	apreciar.
+chaninchay.	reconocer.
+chankaka.	melaza.
+chanka moqo.	rodilla.
+chapchay.	palpar.
+chapra.	rama.
+chapra.	ramo.
+chaqchuy.	regar.
+chaqchuy.	rociar.
+chaqchuy.	esparcir.
+chapiy.	soldar.
+chapla.	aplastado.
+chapoqeyoq.	lunático.
+chapoqeyoq.	maniático.
+chapuy.	mojar.
+chapuy.	sumergir.
+chaqlla.	estera.
+chaqa.	pues.
+chaqna.	cuerda.
+chaqna.	lazo.
+chaqnay.	atar.
+chaqchay.	mascar.
+chaqu.	parcela.
+chaquy.	talar.
+charanku.	charango.
+chaqruy.	mezclar.
+chaqruy.	entreverar.
+chakitaklla.	azada.
+chakitaklla.	tirapié.
+charapa.	tortuga.
+chaskikuy.	merecer.
+chaski wasi.	correo.
+chaski.	mensajero.
+chaskina.	aceptable.
+chaskina.	admisible.
+chakmay.	arar.
+chaskiq.	digno.
+chaski qillqa.	carta.
+chaskiy.	recibir.
+chaskiy.	aceptar.
+chaskiy.	admitir.
+chaskiy.	reconocer.
+chaska.	estrella.
+chaska.	astro.
+chaspay.	raptar.
+chaspay.	rapiñar.
+chawa.	crudo.
+chakra.	campo.
+chaway.	ordeñar.
+chaway.	exprimir.
+chaway.	escurrir.
+chaway.	estrujar.
+chawpi.	central.
+chilliku.	grillo.
+chilliku.	saltamontes.
+chillpi.	fragmento.
+chillpi.	minima parte.
+chipana.	brazalete.
+chipana.	manilla.
+chipana.	anillo.
+chipu.	tacaño.
+chipu.	ajustado.
+cheqta.	hedija.
+cheqta.	hendidura.
+cheqta.	abertura.
+cheqta.	grieta.
+cheqtay.	rajar.
+cheqtay.	dividir.
+cheqtay.	partir.
+cheqtay.	hendar.
+chawpichay.	centrar.
+chawpinasqa.	mediante.
+chawpi punchaw.	mediodia.
+chawpi tuta.	medianoche.
+chawpi wata.	medio año.
+chay.	ese.
+chayana.	meta.
+chayamuy.	llegar.
+chayamuy.	venir.
+chayapu.	crónico.
+chayasqa.	cocido.
+chayasqa.	cocinado.
+chay hina.	asi.
+chay huk.	otro.
+chayay.	llegar.
+chayay.	arribar.
+chaykuna.	esos.
+chaymantaqa.	despues.
+chayraq runa.	forastero.
+chaysi.	entonces.
+chaychá.	acaso.
+chaychá.	quizá.
+chay-chayta	aproximadamente.
+chayna.	así.
+chaylla.	breve.
+chaylla.	único.
+chaylla.	inmediatamente.
+challay.	salpicar.
+challay.	rociar.
+challay.	brindar.
+challay.	asperjar.
+chaymanta.	luego.
+chaymanta.	después.
+chaymanta.	entonces.
+chaypi.	ahí.
+chaypi.	allí.
+chaypi.	allá.
+chayqa.	ese.
+chayqa.	esa.
+chayqa.	eso.
+chayqa.	ello.
+chayqa.	ése.
+chaysi.	entonces.
+chayoq.	pozo.
+cheqniy.	odiar.
+cheqniy.	aborrecer.
+cheqniy.	despreciar.
+chichupacha.	gestación.
+china kuchi.	cerda.
+china kuchi.	puerca.
+Chiklayu.	Chiclayo.
+wichiy.	caer.
+chiqullu.	ruiseñor.
+chiraw.	verano.
+chicha.	chicha.
+chichu.	embarazada.
+chichu.	preñada.
+chichu.	encinta.
+chikankaray.	gigantesco.
+chikchi.	granizo.
+chikchi.	granizada.
+chikchiy.	granizar.
+chikchiy.	granisar.
+chiki.	desgracia.
+chiki.	mal agüero.
+chiki.	adversidad.
+chiki.	riesgo.
+chiki.	desventura.
+chikuchay.	cosquillear.
+chikikoq.	envidioso.
+chinkachiy.	perder.
+chinkachiy.	extraviar.
+chinkachiy.	desorientar.
+chinkakuy.	desaparecer.
+chinkakuy.	evadirse.
+chinkakuy.	fugarse.
+chinkakuy.	perderse.
+chinkasqa.	perdido.
+chinkasqa.	extraviado.
+chinkasqa.	desorientado.
+chinkana.	caverna.
+chinkasqa.	perdido.
+chinkasqa.	extraviado.
+chinkasqa.	desorientado.
+chiqnisqa.	odiado.
+chiqnisqa.	aborrecido.
+chinwa.	ortiga.
+chipi.	mono.
+chiptiy.	pellizcar.
+chiputi.	ano.
+chipipipiy.	brillar.
+chipipipiy.	reverberar.
+chintiy.	encogerse.
+chinkay.	perderse.
+chinkay.	desaparecer.
+chinkay.	extraviarse.
+chinkay.	evadir.
+chiqniy.	odiar.
+chiqniy.	despreciar.
+chimpa.	al frente.
+chimpa.	enfrente.
+chimpa.	opuesto.
+chimpa.	costa.
+chimpa.	orilla.
+chimpa.	opuesta.
+chimpay.	atravesar.
+chimpay.	cruzar.
+chimpay.	vadear.
+chimpay.	pasar.
+chimsu.	achinado.
+china.	hembra.
+chiraw.	primavera.
+chiri.	frio.
+chiri.	helado.
+chiri.	frigido.
+chirichay.	enfriar.
+chiri humpi.	escalofrío.
+chita.	oveja.
+chita.	cordero.
+chitakamaq.	pastor.
+chiwaku.	zorzal.
+chiwchi.	polluelo.
+chiwchi.	pollito.
+chichi.	seno.
+chichi.	pezón.
+chichi.	teta.
+chichi.	mama.
+chichiy.	mamar.
+chichiy.	lactar.
+chufir.	chofer.
+chiwi.	piña.
+cheqa.	verdadero.
+cheqa.	cierto.
+cheqa.	evidente.
+cheqa.	veraz.
+cheqa.	positivo.
+cheqachakuy.	justificarse.
+cheqachay.	enderezar.
+cheqachay.	ordenar.
+cheqachay.	aclarar.
+cheqachay.	rectificar.
+cheqachay.	justificar.
+cheqan.	segmento.
+cheqap.	verdadero.
+cheqap.	positivo.
+cheqap.	cierto.
+cheqap.	efectivo.
+cheqap.	verdad.
+cheqap.	evidencia.
+cheqap.	cierto.
+cheqapchaq.	justificador.
+cheqay.	verdadero.
+cheqchay.	gastar.
+cheqchikachay.	coquetería.
+cheqchiku.	coqueta.
+cheqmisqa.	turbado.
+cheqnikuq.	xenófobo.
+cheqnikuq.	rencoroso.
+chiqnisqa.	odiado.
+chiqnisqa.	aborrecido.
+chiqnisqa.	malquerido.
+cheqniy.	encono.
+cheqniy.	aborrecido.
+cheqniy.	malquerido.
+cheqniy.	odiar.
+cheqniy.	despreciar.
+cheqniy.	detestar.
+cheqo.	cincel
+chullu.	hielo.
+chulluchiy.	disolver.
+chirakruyuyu.	llantén.
+chiran.	invierno.
+chirapa.	llovizna.
+chirapa.	arco iris.
+chiri.	frío.
+chiri.	helado.
+chiri.	frigido.
+chiri.	frígido.
+chiri.	helada.
+chiri miski.	helado.
+chiri miski.	chupete.
+chirimuyu.	chirimoyo.
+chirimuyu.	chirimoya.
+chiririnka.	moscardón.
+chiririnka.	moscón.
+chiriy.	helar.
+chirmay.	dañar.
+chirmay.	perjudicar.
+chiru.	lado.
+chiru.	lateral.
+chiru.	costado.
+chisinku.	madrugada.
+chisi.	anoche.
+chisi.	ayer en la noche.
+chita.	oveja.
+chita.	cordero.
+chiwaku.	tordo.
+chiwaku.	zorzal.
+chiwanway.	rojo intenso.
+chumiy.	aplastar.
+chunka.	diez.
+chukcha.	cabello.
+chukcha.	cabellos.
+chukcha.	pelo.
+chukchu.	paludismo.
+chukchu.	malaria.
+chukchu.	escalofríos.
+chukchu.	terciana.
+chukchu.	convulsión.
+chukchuy.	estremecerse.
+chukchuy.	temblar.
+chukchuy.	tiritar.
+chukchuykuy.	arrodillarse.
+chukru.	duro.
+chuku.	casco.
+chuku.	sombrero.
+chuku.	capa.
+chukullu.	gorro.
+chukullu.	solideo.
+chukupi.	maní.
+chullqe.	olluco.
+chulluy.	licuarse.
+chulluy.	disolver.
+chulluy.	remojar.
+chulluy.	derretirse.
+chulluy.	derretir.
+chulla.	impar.
+chulla.	único.
+chulla.	disímil.
+chullu.	gorra.
+chullu.	gorro.
+chunchu.	salvaje.
+chunchu.	inculto.
+chunchu.	salvajes.
+chunchuli.	intestinos.
+chunchuli.	intestino.
+chunchuli.	tripa.
+chuñu.	chuño.
+chiriy.	hacer frío.
+chiriy.	estar frío.
+chulla.	uno solo.
+chuñu.	papas secas.
+chuñu.	papas deshidratadas.
+churu.	caracol.
+chusu.	cero.
+chusu.	nada.
+chusu.	que no existe.
+chusiq.	lechuza.
+chusiq.	buho.
+chuspi.	mosca.
+chuspi.	mosco.
+chuspi.	mosquito.
+chuspi.	insecto.
+chutu.	indígena.
+chutu.	indio.
+chutu.	malatrasa.
+chuya.	claro.
+chuya.	transparente.
+chuya.	limpio.
+chuya.	inmaculado,
+chuya.	puro.
+chuya.	santo.
+chumpi.	castaño.
+chumay.	desaguar.
+chumay.	drenar.
+chumay.	filtrar.
+chumay.	escurrir.
+chumchiy.	enjuagarse la boca.
+chompa.	chompa.
+chumpi.	faja.
+chumpi.	cinturón.
+chumpi.	correa.
+chumpi.	cinto.
+chumpiy.	fajar.
+chunka.	diez.
+chunkachasqa.	decimal.
+chunkacha tatki.	decímetro.
+chunka kaq.	décimo.
+chunkakuna.	decenas.
+chunka hukniyuq.	once.
+chunka iskayniyuq.	doce.
+chunka iskayniyuq ura.	las doce.
+chunka isqunniyuq.	diecinueve.
+chunka kimsayuq.	trece.
+chunka tawayoq.	catorce.
+chunka pichqayuq.	quince.
+chunka pusaqniyuq.	dieciocho.
+chunka qanchisniyoq.	diecisiete.
+chunka soqtayoq.	dieciséis.
+chunka soqtayoq.	dieciseis.
+chunka tatki.	decámetro.
+chunka tawayuq.	catorce.
+chunka waranqa.	diez mil.
+chunkachiru.	decágono.
+chunni.	solitario.
+chunni.	desierto.
+chupa.	cola.
+chupa.	rabo.
+chupa.	coxis.
+chupa.	mango.
+chupi.	vagina.
+chupqachay.	disponer.
+chuqay.	tirar.
+chuqay.	arrojar.
+chuqay.	lanzar.
+chuqay.	botar.
+choqchi.	flacucho.
+choqchi.	esquelético.
+choqchi.	escuálido.
+choqchi.	flaco.
+choqchi.	raquítico.
+choqepillu.	llama guía.
+chuqllu.	choclo.
+chuqllu.	maíz.
+churachiy.	vestir.
+churakuy	ponerse.
+churakuna.	armario.
+churakuna.	estante.
+churakuna.	recipiente.
+churakuy.	guardar.
+churana.	ropa.
+churaq.	ponedora.
+churay.	poner.
+churay.	colocar.
+churay.	depositar.
+churay.	guardar.
+churi.	hijo.
+churi.	hija.
+churichaq.	prohijador.
+churkuy.	elevar.
+churkuy.	levantar.
+churkuy.	cargar.
+churanakunata siraq.	sastre.
+churana wasi.	despensa.
+churapuy.	devolver.
+churasqa.	puesto.
+churasqa.	colocado.
+churi.	hijo.
+churi.	hija.
+churkuy.	elevar.
+chusku.	mestizo.
+chusku pachak.	cuatrocientos.
+chutamuy.	jala.
+chutariqlla.	elástico.
+chutasqa.	eliminado.
+chutasqa.	despedido.
+chuyaq yaku.	agua clara.
+chuya sunqu kay.	se inocente.
+chaki.	seco.
+chaki.	seca.
+chutuy.	quitarse.
+chakichiy.	desecar.
+chakichiy.	deshidratar.
+chakichiy.	secar.
+chakichiy.	desaguar.
+challay.	salpicar
+chisikama.	hasta el atardecer.
+dansaq.	bailarín.
+dansay.	bailar.
+dañuq.	brujo.
+dañuq.	hechicero.
+dilikaw.	delicado.
+duktur.	doctor.
+Dyus.	dios.
+Dyusninchik.	nuestro Dios.
+Dyusmanta mañakuy.	rezar.
+Dyusmanta mañakuy.	orar.
+Dyuspa akllankuna.	monjas.
+Dyuspa Simin Qillqa.	Biblia.
+eqo.	antepasado.
+erqe.	débil.
+erqe.	enfermizo.
+erqe.	raquítico.
+erqe.	flaco.
+erqe.	engreído.
+erqe.	párvulo.
+gringu simi.	inglés.
+hachiy.	estornudar.
+¡Haku!.	¡Vamos!.
+¡Haku!.	¡Vámonos!.
+¡Haku!.	¡Marchemos!.
+hamka.	maíz tostado.
+hamkasqa.	tostado.
+hampi.	remedio.
+hampi.	medicina.
+hampi.	medicamento.
+hampi.	insecticida.
+hampiy.	curar.
+hampiy.	tratar.
+hampiy.	fertilizar.
+hampiy.	dar remedio.
+hampi kamayuq.	curandero.
+hampi kamayuq.	farmacéutico.
+hampi kamayuq.	boticario.
+hampi kamayuq.	médico.
+hampichiy.	hacer curar.
+hampikuq.	curador.
+hampikuq.	curandero.
+hampiq wasi.	hospital.
+hampi qhatuq wasi.	farmacia.
+hampis.	menstruación.
+hampiway.	cúrame.
+hampatu.	sapo.
+hampatu.	batracio.
+hampatu.	ambato.
+hampatu.	rana.
+Hamupay!	¡Bienvenido!
+hamuq killa.	próximo mes.
+hamuq pacha.	futuro.
+hamuq pacha.	porvenir.
+hamuq wata.	próximo año.
+hamuypallay.	deducir.
+hanan.	elevado.
+hanan.	alto.
+hanan.	superior.
+hanan.	arriba.
+hanan pacha.	cielo.
+hanan suyu.	parte alta.
+hapiy.	agarrar.
+hapiy.	capturar.
+hapiy.	tomar.
+hapiy.	sostener.
+hapiy.	chapar.
+hapiy.	empuñar.
+hapikuy.	agarrate.
+hapinakuy.	rivalidad.
+hapipakuy.	adueñarse.
+hapipakuy.	apoderarse.
+hapipakuy.	apropiarse.
+harawi.	poesía.
+harawi.	poema.
+harawiq.	poeta.
+harawiy.	poema.
+harkapay.	atajar.
+harkay.	atajar.
+harkay.	retener.
+harkay.	impedir.
+harkay.	atajar.
+harkay.	obstaculizar.
+harkay.	cercar.
+harkay.	obstruir.
+hatariy.	levantarse.
+hatariy.	erguirse.
+hatariy.	alzarse.
+hatariy.	progresar.
+hataripakuq.	guerrillero.
+hatun.	grande.
+hatun.	vasto.
+hatun.	amplio.
+hatun.	alto.
+hatun.	corpulento.
+hatun.	enorme.
+hatun.	inmenso.
+hatunchay.	aumentar.
+hatunchay.	engrandecer.
+hatun kamachi.	constitución.
+hatun kamachiq.	presidente.
+hatun kamachiq.	jefe.
+hatun kana.	magnitud.
+hatun llaqta.	ciudad.
+hatun llulla.	embustero.
+hatun mama.	abuela.
+hatun ñan.	calle.
+hatun ukucha.	rata.
+hatun unquy.	epidemia.
+hatun wayra.	huracán.
+hatun yachay wasi.	universidad.
+hatun yaku.	río.
+hawanta.	sobre.
+hawa.	fuera.
+hawa.	afuera.
+hawa.	fuera de.
+hawapi.	exterior.
+hawapi.	encima.
+hawapi.	afuera.
+¿hayka?	¿cuántos?
+¿hayka?	¿cuánto?
+¿hayka?	¿cuánto?
+haykapi?	¿cuándo?
+haykapitaq?	¿cuándo?
+haypay.	alcanzar.
+haypuy.	distribuir.
+hayta.	puntapié.
+hayta.	patada.
+haytay.	patear.
+hayway.	alcanzar.
+hayway.	entregar.
+hayway.	ofrecer.
+hina.	así.
+hina.	de esa manera.
+hina.	de este modo.
+hina.	de esta manera.
+hinaptin.	entonces.
+hinata.	aunque.
+hita.	labios.
+hita.	labio.
+huk.	una.
+huk.	uno.
+huk.	1.
+huk.	un.
+huk.	a.
+huklla.	solo.
+huklla.	desamparado.
+huklla.	huérfano.
+huklla.	viudo.
+huklla.	soltero.
+huklla.	único.
+huklla.	singular.
+huklla.	uno solo.
+huklla.	uno sóla.
+huklla.	único.
+huklla.	uno nomas.
+hukllaway.	juntar.
+hukllaway.	unir.
+hukllaway.	reunir.
+hukllaway.	unificar.
+hukllaway.	congregar.
+hulyu.	julio.
+hunta.	lleno.
+hunta.	pleno.
+hunta.	repleto.
+hunta.	colmado.
+hunta.	cabal.
+hunta.	completo.
+hunta.	lleno de.
+huntay.	llenarse.
+huntay.	colmarse.
+hunyu.	junio.
+huñunakuy.	asociación.
+huñunakuy.	organización.
+huñuy.	juntarse.
+huñuy.	reunir.
+huñuy.	juntar.
+huñuy.	congregar.
+huñuy.	sumar.
+huñuy.	aunar.
+huybis.	jueves.
+inti.	sol.
+intichay.	este.
+inti chinkay.	eclipse.
+inti chinkay.	oeste.
+inti palpuy.	crepúsculo.
+inti raymi killa.	junio.
+inti lloqsiy.	oriente.
+intipa chinkanan.	occidente.
+intipa chinkanan.	poniente.
+intipa chinkanan.	oeste.
+intipa lloqsinan.	oriente.
+intipa lloqsinan.	este.
+irqinchu.	llorón.
+iruy.	girar.
+iskay.	dos.
+iskay.	par.
+iskay.	2.
+iskayasqa.	duplicado.
+iskay kaq.	segundo.
+ispay puru.	vejiga.
+iskay chunka.	veinte.
+iskay chunka hukniyuq.	veintiuno.
+iskay chunka iskayniyuq.	veintidós.
+iskay chunka isqunniyuq.	veintinueve.
+iskay chunka kimsayuq.	veintitres.
+iskay chunka pichqayuq.	veinticinco.
+iskay chunka pusaqniyuq.	veintiocho.
+iskay chunka qanchisniyuq.	veintisiete.
+iskay chunka suqtayuq.	veintiseis.
+iskay chunka tawayuq.	vienticuatro.
+iskay chunka waranqa.	veinte mil.
+iskay pachak.	doscientos.
+iskay pachak waranqa.	doscientos mil.
+iskay sunqu.	vacilante.
+iskay sunqu.	indeciso.
+iskay waranqa.	dos mil.
+isku.	cal.
+isku.	yeso.
+isku.	tiza.
+isku.	caliza.
+ismuy.	corrupción.
+ispay.	orina.
+ispay.	mear.
+ispay.	defecar.
+ispay.	miccionar.
+ispay.	expeler.
+Ispaña.	España.
+isqun.	nueve.
+isqun.	número nueve.
+isqun.	9.
+isqun.	el número 9.
+isqun chunka hukniyuq.	noventa y uno.
+isqun chunka iskayniyuq.	noventa y dos
+isqun chunka waranqa.	noventa mil.
+isqun ñiqin.	noveno.
+isqun pachak.	novecientos.
+isqun pachak waranqa.	novecientos mil.
+istudyay.	estudiar.
+Iwrupa.	Europa.
+icha.	pero.
+icha.	o.
+ichaya.	quizás.
+ichaya.	quizá.
+ichaya.	talvez.
+ichoq.	izquierda.
+ichoq.	izquierdo.
+ichu.	paja.
+ichu.	heno.
+ichu.	icho.
+idukasyun.	educación.
+illapu.	relámpago.
+illapu.	rayo.
+illapu.	trueno.
+illaq.	viajante.
+illaq.	caminante.
+illay.	viajar.
+illay.	caminar.
+ima?	¿qué?
+ima?	¿qué cosa?
+ima?	¿cuál?
+imayna?	¿cómo?
+imaynanpi?	¿porqué?
+imapas.	algo.
+imata?	¿qué?
+imata?	¿qué cosa?
+imata?	¿a qué?
+imatapas.	algo.
+imataq?	¿qué?
+imatataq?	¿qué?
+imay?	¿cuándo?
+Imay sonqo!	¡Pobrecito!
+Imay sonqo!	¡Pobrecita!
+iniru.	enero.
+Inka.	inca.
+irriru.	herrero.
+Isisis!	¡Qué enorme!
+Isisis!	¡Qué grande!
+Isisis!	¡Qué inmenso!
+kachaq.	emisor.
+kacharikuy.	soltarse.
+kacharkachiy.	libertar.
+kacharpaya.	despedida.
+kachkani.	estoy.
+kaypi kachkani.	aqui estoy.
+kachu.	cuerno.
+kachaku.	guardia.
+kachaku.	policía.
+kachapu.	obsequio.
+kacharikuy.	soltar.
+kacharikuy.	aflojar.
+kachariy.	soltar.
+kachariy.	permitir.
+kachariy.	soltarse.
+kacharpariy.	despedida.
+kachi.	sal.
+kachimanta.	de sal.
+kachiy.	salar.
+kachiy.	poner sal.
+kachiyuq.	salado.
+kachisapa.	salado.
+kachkan.	está.
+kachkay.	estar.
+kachkay.	existir.
+kallpa.	fuerte.
+kallpachay.	alentar.
+kallpachay.	fortalecer.
+kallpachay.	vigorizar.
+kallpachay.	inspirar.
+kallpamanay.	desaliento.
+kallpamanay.	adinamia.
+kallpayllaña.	muy de prisa.
+kamachikusqa simi.	mandamiento.
+kamachikusqa simi.	ley.
+kamachikuykuna.	leyes.
+kamachikuykuna.	normas legales.
+kamachiq.	autoridad.
+kamachiq.	gobernador.
+kamachiqkuna.	autoridades.
+kamachisqa.	mandamiento.
+kamachiy.	ordenanza.
+kamachiy.	ley.
+kamaq.	administrador.
+kamaq.	dios.
+kamaq.	dios.
+kamari.	organización.
+kan.	es.
+kan.	está.
+kan.	hay.
+kanan.	en seguida.
+kanan.	luego.
+kanan.	ahora.
+kanan.	hoy.
+kanan punchaw.	hoy.
+kani.	soy.
+kani.	estoy.
+kancha.	patio.
+kancha.	cancha.
+kancha.	corral.
+kancha.	canchón.
+kancha.	cerca.
+kancha.	cerco.
+kanchik.	somos.
+kanchik.	estamos.
+kanku.	son.
+kanku.	están.
+kakuy.	quedarse.
+kakuy.	permanecer.
+kakuy.	quedar.
+kakuy.	quedarse.
+kanman.	sería.
+kanqa.	será.
+kankay.	asar.
+kanka.	asado.
+kanka.	carne asada.
+kanka.	churrasco.
+kanka.	asadura.
+kanki.	eres.
+kanki.	estás.
+kankichik.	sois.
+kankichik.	estáis.
+kanku.	son.
+kanku.	están.
+kañay.	quemar.
+kañay.	incendiar.
+kañay.	incinerar.
+kañay.	atizar.
+kapka.	duro.
+kapuli.	capulí.
+kantaray killa.	octubre.
+kapuqninkuna.	riqueza.
+kapuqniyoq.	rico.
+kaq.	el que es.
+kaq.	ella que es.
+kaq.	normal.
+kaq.	habitual.
+kaq.	el era.
+karpintiru.	carpintero.
+karqa.	era.
+karqa.	estaba.
+karqa.	había.
+karqani.	era.
+karqani.	estaba.
+karqanki.	eras.
+karqanki.	estabas.
+karru.	coche.
+karru.	carro.
+karru.	automóvil.
+karu.	distante.
+karu.	lejano.
+karu.	lejos.
+karu.	apartado.
+karu.	extenso.
+kasarakuy.	casarse.
+kasarakuy.	matrimonio.
+kantu.	extremo.
+karwa.	dinero.
+kantu.	limite.
+kanuwa.	canoa.
+kañay.	quemar.
+karpawasi.	carpa.
+karu.	lejos.
+karu.	distante.
+karu.	lejano.
+karullapi.	a distancia.
+karu llaqtamanta.	internacional.
+karu llaqtamanta runa.	forastero.
+karu llaqtamanta runa.	extranjero.
+karuman rina.	viaje.
+karu runa.	forastero.
+kastilla simi.	castellano.
+kasukuq.	obediente.
+kasukuy.	obedecer.
+kasuy.	obedecer.
+kasuy.	oír.
+kasuy.	hacer caso.
+Kashamarka.	Cajamarca.
+kawpaq runa.	político.
+kawpay.	política.
+kawsay.	vida.
+kawsay.	existencia.
+kawsay.	vivencia.
+kawsay.	vivir.
+kawsay.	habitar.
+kawsay.	existir.
+kawsaykuna.	víveres.
+kawsaykuna.	comestibles.
+kawsaykuna.	alimentos.
+kawsaykuna.	semillas.
+kay hina.	así.
+kawsay yachay.	cultura.
+kawsay yachaykuna.	cultura.
+katatatay.	graznar.
+katatatay.	tiritar.
+kay.	este.
+kay.	esta.
+kay.	esto.
+kay.	éste.
+kayna.	así.
+kaniku.	somos.
+kaykuna.	estos.
+kaykuna.	estas.
+kayllapi.	aquí.
+kayman.	hacia aquí.
+kayman.	acá.
+kayman.	aquí.
+kaypi.	aquí.
+kaypi.	acá.
+kaypi.	en este lugar.
+kay qatiq.	siguiente.
+kayta chayta puriq.	vagabundo.
+kichari.	abierto.
+¡Kawsachun!	¡Qué viva!
+¡Kawsachun!	¡viva!
+kawsaqimasi.	prójimo.
+kicharina.	llave.
+qillqay.	escribir.
+qillqarimay.	leer.
+kicharisqa.	abierto.
+kichariy.	abre.
+kichasqa.	abierto.
+kichay.	abrir.
+kichay.	destapar.
+kichka.	espina.
+kichka.	púa.
+kichka.	zarsa.
+kichka-kichka.	espinoso.
+kikillanmanta.	por sí mismo.
+kikillmasi.	homogéneo.
+kikinchasqa.	igualado.
+kikin.	mismo.
+kikinhina.	idéntico.
+kikin kay.	autonomía.
+kikinmanta.	por sí mismo.
+kikin munaywan.	voluntariamente.
+kikin rurasqa.	casero.
+kikiy.	yo mismo.
+kikiyki.	tú mismo.
+killa.	luna.
+killachaw.	lunes.
+killa hunt'a.	luna llena.
+killa nanay.	menstruación.
+kimsa.	tres.
+kimsa.	3.
+kimsachasqa.	triplicado.
+kimsachay.	triplicar.
+kimsa chunka.	treinta.
+kimsa waranqa.	tres mil.
+kimsa kaq.	tercero.
+kimsak'uchu.	triángulo.
+kimsa ura.	las tres.
+kinray.	ladera.
+kinrachiy.	inclinar.
+killki.	ángel.
+kintu.	ramo.
+kipchan.	hígado.
+kiru.	diente.
+kiru.	muela.
+kiru.	colmillo.
+kiru chakuy.	dentición.
+kiru hurquq.	dentista.
+kiru hutk'u.	caries.
+tikray.	traducir.
+muspay.	delirar.
+llulla.	mentiroso.
+llullay.	mentir.
+llullay.	engañar.
+llullay.	falsear.
+maraypi.	en el batan.
+paqarin.	mañana.
+paqarin.	el día de mañana.
+paqarin.	dia siguiente.
+paqarin.	aurora.
+paqarinkama.	hasta mañana.
+paqariy.	amanecer.
+paqariy.	hacerse de día.
+rimaykuy.	saludar.
+rimay.	hablar.
+ripuy.	irse.
+ripuy.	marcharse.
+ripuy.	salir.
+riy.	ir.
+riy.	acudir.
+riy.	partir.
+riy.	asistir.
+riy.	andar.
+riy.	viajar.
+riy.	partir.
+orqoy.	extracción.
+orqoy.	substracción.
+orqoy.	sacar.
+orqoy.	extraer.
+orqoy.	obtener.
+orqoy.	restar.
+orqoy.	disminuir.
+onqoy.	enfermedad.
+onqosqa.	enfermo.
+onqoy.	peste.
+suyay.	esperar.
+suyay.	aguardar.
+orqo.	cerro.
+orqo.	monte.
+orqo.	colina.
+oqe.	gris.
+wischuy.	botar.
+hamuy.	venir.
+kutimuy.	volver.
+kutichiy.	retornar.
+kutiy.	regresar.
+kutiy.	retornar.
+kachaykuqrusqa.	abandonado.
+kachi.	sal.
+kachisapa.	salado.
+waqay.	llorar.
+asiy.	reir.
+musmuy.	olfatear.
+yuyay.	recordar.
+qunqay.	olvidar.
+kawsay.	vive.
+wañuy.	morir.
+apay.	llevar.
+upyay.	beber.
+mikuy.	comer.
+ruway.	hacer.
+puñuy.	dormir.
+maskay.	buscar.
+maskay.	investigar.
+maskay.	averiguar.
+maskay.	examinar.
+Manaraq.	Todavía.
+paqariy.	amanecer.
+paray.	llover.
+piñakuy.	enojarse.
+putkay.	enturbiar.
+pukuy.	soplar.
+puka.	rojo.
+puka.	colorado.
+rikchay.	despertar.
+rantiy.	comprar.
+munay.	querer.
+waylluy.	amar.
+chiqniy.	odiar.
+maqay.	golpear.
+llamkay.	trabajar.
+pukyay.	jugar.
+challway.	pescar.
+tarpuy.	sembrar.
+tawa.	cuatro.
+tawa.	4.
+tawa chunka.	cuarenta.
+uña.	ternero.
+uña.	becerro.
+upallay.	callarse.
+upallay.	cállate.
+upallay.	silencio.
+upyay.	beber.
+upyay.	tomar.
+urin.	sur.
+urin.	abajo.
+urin.	bajo.
+urmay.	caer.
+urmay.	caerse.
+urmay.	tropezarse.
+urmay.	desplomarse.
+uru.	bichos.
+uru.	gusano.
+utulu.	gallo.
+usa.	piojo.
+usakuy.	empiojarse.
+uska.	mendigo.
+uska.	limosnero.
+ustuy.	ingresar.
+ustuy.	introducir.
+usuchisqa.	desperdiciado.
+usuchisqa.	despreciado.
+usuchiy.	desperdiciar.
+uktubri.	octubre.
+utku utku.	algodonal
+utku.	algodón.
+uchuy.	pequeño.
+uchuy.	bajo.
+urmay.	caer.
+urmay.	caerse.
+urmay.	derrumbarse.
+urmay.	desplomarse.
+ubiha.	cordero.
+ubiha.	oveja.
+ubiha.	carnero.
+uya.	cara.
+uya.	rostro.
+uya.	tez.
+uya.	semblante.
+uyachiy.	doblegar.
+uyachiy.	convencer.
+uyariy.	oír.
+uyariy.	escuchar.
+uyariy.	sentir.
+uyllay.	rezo.
+uyllay.	oración.
+uyllay.	rezar.
+uyllay.	orar.
+uytu.	buche.
+uyway.	criar.
+uyway.	cuidar.
+uyway.	proteger.
+uywa.	ganado.
+uyway.	criar.
+uywayoq.	ganadero.
+ispay.	orinar.
+ñaqchay.	peinar.
+machay.	embriagar.
+pitay.	fumar.
+pukllay.	jugar.
+pukllay.	recrearse.
+sirkay.	sangrar.
+wañuchiy.	matar.
+takiy.	cantar.
+tusuy.	bailar.
+tuta.	noche.
+tuta.	tiniebla.
+tutayay.	anochecer.
+tutayay.	oscurecer.
+tutayay.	oscurecerse.
+tutayay.	anochecer.
+Tusuni.	Bailo.
+Tusurqani.	Bailé.
+tususaq.	Bailaré.
+wachachiy.	hacer parir.
+wachachiy.	partear.
+wachay.	parir.
+wachay.	dar a luz.
+wachay.	nacer.
+wachay.	brotar.
+wachu.	columna.
+wachwa.	pato.
+wachwa.	ganso.
+wachi.	flecha.
+wachi.	saeta.
+wachi.	dardo.
+wachi.	arco.
+wak.	aquella.
+wak.	aquello.
+wak.	otro.
+wak.	aquel.
+wak.	esa.
+wak.	ese.
+waka.	vaca.
+wakakuna.	vacas.
+wakapura.	entre vacas.
+wakacha.	vaquita.
+wakachakuna.	vaquitas.
+
+wakcha.	pobre.
+wakcha.	indigente.
+wakcha kay.	pobreza.
+wakcha kay.	orfandad.
+wakcha kay.	mendicidad.
+wakcha kay.	pobre.
+wakcha warma.	huérfano.
+waki.	unos.
+waki.	unas.
+wakin.	morfema gramatical.
+wakin.	sufijo.
+waki-wakillanta.	lento.
+wakkuna.	aquellos.
+wakkuna.	aquellas.
+wakmanta.	desde allá.
+wakpi.	allá.
+wakpi.	en otro lugar.
+wakpi.	en otro sitio.
+wali.	falda.
+wallpa.	gallina.
+wallwaksu.	áxila.
+wallwaksu.	sobaco.
+waman.	gavilán.
+waman.	halcón.
+waman.	aguilucho.
+Wamanga.	Huamanga.
+wamaq.	extraño.
+wamaq.	forastero.
+wamaq.	raro.
+wamaq.	singular.
+wamaq.	alguna vez.
+wamaq.	rara vez.
+wampar.	pirámide.
+wampu.	barca.
+wampu.	barco.
+wampu.	bote.
+wampu.	lancha.
+wampu.	piragua.
+wampuy.	nadar.
+wampuy.	flotar.
+wampuy.	navegar.
+warma.	niño.
+warma.	niña.
+wanachiykuna.	sanciones.
+wanaku.	guanaco.
+wanaku.	auquénido.
+Wankapi.	Huancapi.
+wanay.	mejorarse.
+wanay.	convertirse.
+wanay.	corregir.
+wanay.	enmendar.
+wankara.	tambor.
+wankara.	bombo.
+wankichay.	juntar.
+wankichay.	unir.
+wankiy.	apretar.
+wankiy.	prensar.
+wankiy.	modelar.
+wankiy.	esculpir.
+wankiy.	moldear.
+wanku.	correa de cuero.
+wanku.	cinturon.
+wanku.	venda.
+wanka.	roca.
+wanka.	peña.
+wanka.	piedra.
+wanka.	peñon.
+Wankawilika.	Huancavelica.
+Wanta.	Huanta.
+wantuy.	trasladar.
+wantuy.	portar.
+wantuy.	trasladar en hombre.
+wanwa.	zancudo.
+wanwa.	mosquito.
+wañuchiq.	asesino.
+wañuchiq.	matador.
+wañuchiy.	asesinar.
+wañuchiy.	matar.
+wañuchiy.	extinguir.
+wañusqa.	muerto.
+wañusqa.	extinto.
+wañusqa.	finado.
+wañuy.	muerte.
+wañuy.	fallecimiento.
+wañuy.	morir.
+wañuy.	fallecer.
+wañuy.	apagarse.
+wañuy.	expirar.
+wañuy.	perecer.
+wañuykuy.	mortandad.
+wañuy wañuy.	mortalmente.
+wañuy wañuy.	de muerte.
+waspi.	vapor.
+waspi.	gas.
+waspi.	humareda.
+waspiy.	evaporarse.
+waspiy.	vaporizarse.
+waspiy.	evaporar.
+waqati.	maricón.
+waqati.	cobarde.
+waqati.	llorón.
+waqay.	llorar.
+waqay.	trinar.
+waqay.	mujir.
+waqay.	sollozar.
+waqay.	lamentar.
+waqay.	sonar.
+waqra.	cuerno.
+waqra.	asta.
+waqra.	cornamenta.
+waqra.	cacho.
+waqra puku.	trompa.
+waqray.	cornear.
+waqsu.	colmillo.
+waqta.	costilla.
+waqta.	costado.
+waqta.	flanco.
+waqta.	lado.
+waqtapay.	descansar.
+waqtapay.	estar echado.
+waqtapay.	estar acostado.
+waqtapay.	acostarse.
+waqtay.	golpear.
+waqtay.	dar golpes.
+waqtay.	pegar.
+waqtay.	azotar.
+waqtay.	flagelar.
+waqo.	mejilla.
+waqo.	mandibula.
+waqo.	quijada.
+waqo.	muela de juicio.
+waqo.	muela cordal.
+wara.	pantalón.
+wara.	pantalones.
+wara.	pañete.
+waraka.	honda.
+warakaq.	hondero.
+waralli.	calzoncillo.
+waranqa.	mil.
+waranqa.	1000.
+waranqa aqnu.	kilogramo.
+waranqa aqnu.	kilo.
+waranqacha tatki.	milímetro.
+waranqa tatki.	kilómetro.
+wari.	vicuña.
+waranku.	tamarisco.
+waranku.	huarango.
+waraqu.	cactus.
+waraqu.	cacto.
+warayuq.	concejal.
+warayuq.	varayo.
+wareqolli.	vela.
+wareqolli.	antorcha.
+warkuy.	colgar.
+warkuy.	pender.
+warkuy.	tenderse.
+warkunay.	descolgar.
+warmi.	femenino.
+warmi.	mujer.
+warmi.	esposa.
+warmi.	hembra.
+warmi churi.	hija.
+warmi wawa.	hija. 
+warmi wawa.	niña. 
+warmi willka.	nieta.
+waru waru.	camellones.
+warwar.	floripondio.
+wasa.	espalda.
+wasa.	dorso.
+wasa ruru.	riñón.
+wakcha.	sin tierra.
+wakcha.	mendigo.
+wasi.	casa.
+wasi.	albergue.
+wasi.	vivienda.
+wasi.	posada.
+wasi.	nido.
+wasi.	cueva.
+wasi.	habitación.
+wasi.	residencia.
+wasi.	hogar.
+wak.	aquella.
+wak.	aquello.
+wak.	otro.
+wasqey.	abdicar.
+wasqey.	renunciar.
+wata.	año.
+wata.	edad.
+watana.	atadero.
+watana.	amarradero.
+watana.	lazo.
+watana.	cuerda.
+watana.	soga.
+watanay qellqa.	calendario.
+watan watan.	anualmente.
+watay.	atar.
+watay.	amarrar.
+watay.	sujetar.
+watay.	liar.
+watay.	encadenar.
+watay.	enlazar.
+watinkay.	apresar.
+wateq.	investigador.
+watiqay.	observar.
+watiqay.	examinar.
+watiqay.	espiar.
+watiqay.	investigar.
+watiqay.	vigilar.
+watiqay.	acechar.
+watmu.	padrino.
+watmulliy.	apadrinar.
+watu.	cordel.
+watu.	faja.
+watu.	cinturón.
+watu.	hilo.
+watu.	pita.
+watu.	cordón.
+Watuchikuna.	Adivinanzas.
+watuchi.	adivinanza.
+watuchi.	acertijo.
+watukuy.	visitar.
+watukuy.	preguntar.
+watukuy.	extrañar.
+watuq.	adivino.
+watuq.	adivina.
+watuq.	mágico.
+watuq.	agorero.
+watuq.	hechicero.
+watuq.	brujo.
+watyay.	asar.
+wata.	isla.
+wawa.	niño.
+wawa.	infante.
+wawa.	bebe.
+waya.	suelto.
+waya.	flojo.
+waya.	flojamente amarrado.
+wawqe.	hermano.
+wayanakuy.	golondrina.
+wayayay.	afligirse.
+wayayay.	talega.
+wayayay.	saquillo.
+wayayay.	saco.
+wayayay.	bolsa.
+waylis.	avispa.
+waylla.	prado.
+waylla.	césped.
+waylla.	pradera.
+waylla.	llanura.
+waylla.	pasto.
+wayllani.	pradera.
+wayllani.	sábana.
+wayma.	antaño.
+wayna.	amante.
+wayna.	enamorado.
+wayna.	querido.
+wayna.	adolescente.
+wayna runa.	varón joven.
+wayna runa.	muchacho.
+wayna runa.	chico.
+waynayay.	rejuvenecer.
+waynayay.	volverse joven.
+wayñu.	huayno.
+wayqa.	saco.
+wayqa.	bolsa.
+wayqo.	quebrada.
+wayqo.	hondonada.
+wayqo.	barranco.
+wayqo.	cuenca.
+wayqo.	cañon.
+wayra.	viento.
+wayra.	aire.
+wayra.	brisa.
+wayra.	atmosfera.
+wayralla.	apresuradamente.
+wayralla.	rápido.
+wayralla.	agilmente.
+wayronqo.	abejorro.
+wayronqo.	moscardon.
+wayronqo.	abeja.
+wayta.	flor.
+wayta.	flor silvestre.
+wayta.	flor campestre.
+weqaw.	cintura.
+weqaw.	talle.
+weqe.	lágrima.
+weqe.	llanto.
+weqe.	rugido.
+weqechay.	hacer lagrimear.
+weqe pacha.	valle de lágrimas.
+weqruy.	torcer los pies.
+weqruy.	cojear.
+waytay.	florecer.
+wayu.	nadar.
+wayu.	musgo.
+waywa.	disminución.
+waywa.	resta.
+waywa.	merma.
+waywacha.	ardilla.
+waywaku.	ardilla.
+Way way!	¡ay!
+Way way!	¡vaya!
+wichay.	subir.
+wichay.	ascender.
+wichay.	trepar.
+wichay.	escalar.
+wichay.	superior.
+wichiy.	caer.
+wichiy.	hundirse.
+wichiy.	perecer.
+wichqay.	cerrar.
+wichqay.	trancar.
+wichqay.	taponar.
+wichqay.	encerrar.
+wichqay.	encarcelar.
+wichqay.	clausura.
+wichqay.	encorralar.
+wikapay.	descartar.
+wikapay.	arrojar.
+wikapay.	aventar.
+wikapay.	lanzar.
+wikapay.	tirar.
+wikapay.	derribar.
+wikuña.	vicuña.
+wilali.	leche.
+willachikuqkuna.	medios de comunicación.
+wischurayay.	descansar.
+wischurayay.	estar echado.
+wischurayay.	estar acostado.
+wischurayay.	yacer.
+wischurayay.	permanecer tirado.
+wischuy.	acostarse.
+wischuy.	echar.
+wischuy.	arrojar.
+wischuy.	abandonar.
+wischuy.	botar.
+wischuy.	desechar.
+wischuy.	expulsar.
+wischuy.	destituir.
+wiksa.	estómago.
+wiksa.	barriga.
+wiksa.	vientre.
+wiksa.	abdomen.
+wiksa.	panza.
+wiksu.	torcido.
+wiksu.	curvo.
+wiksu.	inclinado.
+wiksu.	doblado.
+wiksu.	oblícuo.
+wiksuy.	torcer.
+wiksuy.	encorvar.
+wiksuy.	curvar.
+wiksuy.	inclinar.
+wiksuy.	ladear.
+wiksuy.	sesgar.
+willakuy.	cuento.
+willakuy.	leyenda.
+willakuy.	aviso.
+willakuy.	historia.
+willakuy.	noticia.
+willakuy.	relato.
+willakuy rapi.	afiche.
+willara.	volumen.
+willay.	avisar.
+willay.	advertir.
+willay.	prevenir.
+willay.	anunciar.
+willay.	comunicar.
+willay.	notificar.
+willay.	avisar.
+willay.	confesar.
+willka.	nieta.
+willka.	nieto.
+willka.	bisnieto.
+willka.	bisnieta.
+willka.	biznieta.
+willka.	biznieto.
+willka.	sagrado.
+willu.	manco.
+winku.	torcido.
+winku.	virolo.
+winku.	bizco.
+wiñakuy.	crecer.
+wiña-wiñaypaq.	eterno.
+wiñay.	criarse.
+wiñay.	desarrollarse.
+wiñay kachamuy.	retornar.
+wiñaypaq.	eterno.
+wiñay.	crecer.
+wiñaypaq.	para siempre.
+wiñaypaq.	eternamente.
+wiruka.	perdiz.
+wiqu.	encorvado.
+wiqu.	incorrecto.
+wiqu.	torcido.
+wira.	gordo.
+wira.	grueso.
+wira.	obeso.
+wira.	corpulento.
+wira.	grasa.
+wira.	sebo.
+wira.	manteca.
+wira.	aceite.
+wira.	cebo.
+wirachay.	ensebar.
+wirachay.	engrasar.
+wirataka.	mugriento.
+wirpa.	labio inferior.
+wirpa.	labios.
+wirpa.	labio.
+wisa.	militar.
+wisa.	miliciano.
+wisapaq.	soldado.
+wiskacha.	vizcacha.
+wiskaku.	vizcacha.
+wiskaku.	viscacha.
+willay.	avisar.
+wislla.	cuchara.
+wislla.	cucharón.
+wislla.	cucharón de madera.
+wispa.	gemelo.
+wispa.	mellizo.
+wispa.	gemelos.
+wispanin.	cada mellizo.
+wistu.	torcido.
+wistu.	chueco.
+wistu.	curvo.
+wistu.	cojo.
+wisu.	liquen.
+wiswi.	seboso.
+wiswi.	grasiento.
+wiswi.	grasoso.
+wiswichay.	engrasar.
+wiswichay.	lubricar.
+wiyis.	buey.
+rantiy.	comprar.
+yacha.	noción.
+yacha.	noticia.
+yacha.	sabiduria.
+yachachikuq.	alumno.
+yachachikuq.	estudiante.
+yachachiq.	maestro.
+yachachiq.	profesor.
+yachachiq.	educador.
+yachachiq.	maestra.
+yachachiq.	preceptor.
+yachachiq.	pedagogo.
+yachachiq.	pedagoga.
+yachachiq.	instructor.
+yachacheq masi.	compañero.
+yachachiy.	enseñanza.
+yachachiy.	instrucción.
+yachachiy.	educación.
+yachachiy.	enseñar.
+yachachiy.	capacitar.
+yachachiy.	educar.
+yachachiy.	instruir.
+yachachiy.	disciplinar.
+yachachiy.	explicar.
+yachachiy.	anunciar.
+yachakuq.	alumno.
+yachakuq.	alumna.
+yachakuq.	aprendiz.
+yachakuq.	estudiante.
+yachakuq.	discípulo.
+yachakuq.	principiante.
+yachakuy.	acostumbrarse.
+yachakuy.	aclimatarse.
+yachakuy.	adaptarse.
+yachakuy.	aprender.
+yachakuy.	estudiar.
+yachakuy.	habituarse.
+yachana wasi.	escuela.
+yachana wasi.	aula.
+Yachani.	yo sé.
+yachanki.	tú sabes.
+yaku.	agua.
+yaku.	aguas.
+yaku.	manantial.
+yaku.	agual.
+yakunayaq.	sediento.
+yachaq.	sabio.
+yachaq.	conocedor.
+yachaq.	curandero.
+yachaq.	hechicero.
+yachaq.	hechicera.
+yachaq.	cientifico.
+yachaq.	sabedor.
+yachay.	vivir.
+yachay.	morar.
+yachay.	residir.
+yachay.	saber.
+yachay.	aprender.
+yachay.	conocer.
+yachay.	enterarse.
+yachay.	entender.
+yachay.	anoticiarse.
+yachayniyoq.	sabio.
+yachayniyoq.	experto.
+yachayniyoq.	conocedor.
+yachayniyoq.	profesional.
+yachay wasi.	escuela.
+yachay wasi.	colegio.
+yachay wasi.	universidad
+yakunayay.	sed.
+yakunayay.	tener sed.
+yakunayay.	estar sediento.
+yaku papa.	papa mojada.
+yakuta apamuy.	trae agua.
+yankikuy.	trocar.
+yanakuna.	esclavos.
+yanakuna.	oprimidos.
+yanakuna.	criados.
+yanakuna.	esclavos.
+yanakuna.	esclavos.
+yana.	negro.
+yana.	obscura.
+yana.	negra.
+yanapanakuy.	auxiliarse.
+yanapanakuy.	socorrerse.
+yanapanakuy.	ayudarse.
+yanapay.	ayudar.
+yanapay.	auxiliar.
+yanapay.	cooperar.
+yanapay.	servir.
+yanapay.	apoyar.
+yanapay.	socorrer.
+yanapay.	ayudar.
+yankikuy.	intercambiar.
+yanqa.	inútil.
+yanqa.	en vano.
+yanqa.	tonto.
+Yanqataq!	¡Cuidado!
+Yanqataq!	¡Atención!
+yanuq.	cocinero.
+yanuq.	cocinera.
+yanuy.	cocinar.
+yanuy.	sancochar.
+yanuy.	guisar.
+yapa.	de nuevo.
+yapa.	otra vez.
+yapa.	añadidura.
+yapa.	aumento.
+yapa.	agregado.
+yapa.	suplemento.
+yapay.	adicionar.
+yapay.	agregar.
+yapay.	sumar.
+yapay.	añadir.
+yapa-yapa.	a menudo.
+yapa-yapa.	repetidamente.
+yapuq.	campesino.
+yapuq.	arador.
+yapuq.	labrador.
+yapuy.	arar.
+yapuy.	arar la tierra.
+yapuy.	roturar.
+yaqa.	casi.
+yakulla.	capa.
+yakulla.	mantón.
+yakulla.	manto.
+yakulla.	manta.
+yarayma.	estrofa.
+yarqay.	hambre.
+yarqay.	apetito.
+yarqay.	hambriento.
+Yaw!	¡Eh!
+Yaw!	¡Oye!
+Yaw!	oiga!
+Yaw!	¡escucha!
+yawar.	sangre.
+yawri.	aguja grande.
+yawri.	agujón.
+yawri.	aguja gruesa.
+yaya.	dios.
+yaya.	sabio.
+yaya.	mayor.
+yaya.	sacerdote.
+yaya.	cura.
+rantikuy.	vender.
+ruyaq.	albo.
+Yayayku.	Padrenuestro.
+yaykuy.	entrar.
+yaykuy.	adentrarse.
+yaykuy.	penetrar.
+yaykuy.	ingresar.
+yaykuy.	caber.
+yaykuy.	inundar.
+yaykuy.	pasar dentro.
+yugu.	yugo.
+yunka.	yunga.
+yunta.	yunta.
+yunta.	arado.
+yunta.	amigos.
+yupay.	contar.
+yupay.	enumerar.
+yupay.	numerar.
+yupay.	aumentar.
+yupay.	calcular.
+yupaychay.	agradecer.
+yupaychay.	honrar.
+yupaychay.	alabar.
+yupaychay.	adorar.
+yupaychay.	venerar.
+yupaychay.	ensalzar.
+yupaychay.	valorar.
+yupi.	huella.
+yupi.	pisada.
+yupi.	pista.
+yupi.	rastro.
+yura.	planta.
+yuraq.	blanco.
+yutu.	perdiz.
+yuyay.	recordar.
+yuyay.	memorar.
+yuyay.	pensar.
+yuyay.	suponer.
+yuyay.	idear.
+yuyay.	imaginar.
+yuyay.	expectar.
+yuyu.	hortaliza.
+yuyu.	verdura.
+yuyu.	hierba.
+yuyu.	yuyo.
+Yachaqamunki.	Aprenderás.
+Sisichamanta.	Hormiguita.
+Takisun.	Cantemos.
+Tiyaychik.	Asiento.
+Uyariychik.	escuchen.
+Kutichiychik.	Repitan.
+¡Upallaychik!	¡Cállense!
+Imamanta.	De qué.
+Sayariychik.	De pie.
+Tutayay.	Anochecer.
+Agustu.		Agosto.
+Aka tanqa.	Escarabajo.
+Akana wasi.	Letrina.
+Riqsisqa.	Conocido.
+Aqayay.	Avinagrarse.
+Mayllakuy.	Lavarse.
+Nuyuchiy.	Remojar.
+Tawa chaki.	Cuadrúpedo.
+Aycha mikuq.	Carníboro.
+Aycha kuchuq.	Carnicero.
+Mana qaway atina.	Microscópico.
+Ñawpaq.	Adelante.
+Chiri sunqu.	Indiferente.
+Chiri sunqu.	Insensible.
+Sapan churi.	Unigénito.
+Sapan churi.	Unigénita.
+Chuya sunqu.	Honesto.
+Qacha.	Sucio.
+Tanqay.	Empujar.
+Uchuy.	Pequeño.
+Qunqay.	Olvidarse.
+Suyay.	Esperar.
+Taqtay.	Echar.
+Wischuy.	Botar.
+Huñunakuy.	Reunirse.
+Rakiy.	Separarse.
+Sapanchakuy.	Aislarse.
+Mana ima.	Nada.
+Uhu.	Tos.
+Chaki ñan.	Sendero.
+Karu ñan.	Carretera.
+Ñan.	Camino.
+Mana kasuy.	Desobedecer.
+Harwi.	Granos.
+Qayna punchaw.	Ayer.
+Hamuq pacha.	Futuro.
+Qayna punchaw.	Ayer.
+Achikyay.	Amanecer.
+Llantuy.	Ensombrecer.
+Yanayay.	Oscurecerse.
+Kañakuy.	Incendiarse.
+Rupachiy.	Prender fuego.
+Llipyay.	Relampaguear.
+Llamkaq.	Trabajador.
+Llipyay.	Relampaguear.
+Musuq.	Nuevo.
+Mana ñawiyuq.	Analfabeto. 
+Mana piniyuq.	Huérfano.
+Manchachiku.	Fantasma.
+Manuy.	Dar fiado. 
+Manuyla.	Manuela. 
+Manwil.	Manuel.
+Marsilina.	Marcelina.
+Marsilu.	Marcelo. 
+Marsu. 	Marzo.
+Marya.	María.
+Maryanu.	Mariano.
+Manka.	Olla.
+Nawaru.	Navarro.
+Ñawsa.	Ciego.
+Puquy pacha.	Otoño.
+Wischuy.	Perder.
+Ramun.	Ramón.
+Ransis.	Francés.
+Ransisku.	Francisco.
+Ransiya.	Francia.
+Taytalláy.	Oh, Dios mío.
+Taytaku.	Anciano.
+Taytacha.	Dios.
+Uray.	Abajo.
+Saqiy.	Abandonar.
+Simi. 	Abertura.
+Tuma. 	Abertura.
+Kichay. 	Abrir.
+Panchiy.	Abrirse.
+Sinchi.	Abundante. 
+Chaskiy. 	Aceptar.
+Yarqa.	Acequia.
+Asuy. 	Acercarse.
+Willay. 	Acusar.
+Aruwi. 	Adobe.
+Runa. 	Adulto.
+Waylluy.	Afecto.
+Hawa.	Afuera.
+Aptiy.	Agarrar. 
+Aptay.	Agarrar. 
+Timpuy.	Agitarse.
+Agustu.	Agosto.
+Yaku.	Agua.
+Chirli.	Aguado.
+Ullu. 	Aguijón.
+Ñawchi.	Agusado.
+Kunan. 	Ahora.
+Tuquy. 	Ahuecar.
+Chunniq. 	Aislado.
+Uchu. 	Ají.
+Tiquy.	Ajustar.
+Rapra. 	Ala.
+Alwirtu.	Alberto.
+Taripay.	Alcance.
+Hayway.	Alcanzar.
+Haypay.	Alcanzar.
+Kusiy.	Alegrarse.
+Asuy.	Alejarse.
+Ripuy.	Alejarse.
+Rapapapay.	Aletear.
+Alwunsu.	Alfonso.
+Alisya.	Alicia.
+Samay.	Aliento.
+Mikuchiy.	Alimentar.
+Qaray. 	Alimentar.
+Allichakuy.	Alistarse.
+Samachiy.	Alojar.
+Samay.	Alojarse.
+Muyuriq.	Alrededores.
+Hatun.	Hatun.
+Sayay.	Altura.
+Alumnu.	Alumno.
+Wayna.	Amada.
+Yana.	Amado.
+Achiyay.	Amanecer.
+Achikyay.	Amanecerse.
+Kuyay.	Amar. 
+Qillu.	Amarillo. 
+Amigu.	Amigo.
+Muntuy.	Amontonar.
+Yapay.	Añadir.
+Ankach.	Ancach. 
+Kinray.	Anchura.
+Puriy. 	Andar.
+Andris. 	Andrés.
+Wantu. 	Angarillas.
+Anhil. 	Ángel.
+Uywa. 	Animal.
+Uchkiti. 	Ano.
+Ansilmu. 	Anselmo.
+Qayna. 	Antes. 
+Wata. 	Año.
+Wachay. 	Aovar. 
+Wañuy.	Apagarse.
+Llakiy. 	Apenarse.
+Ñitiy. 	Aplastar.
+Hikutay. 	Apremiar.
+Utqay. 	Apurarse.
+Wak. 	Aquel. 
+Kaypi. 	Aquí.
+Chakitaklla. 	Arado de pie.
+Taklla. 	Arado.
+Achpiy. 	Arañar.
+Aspiy.	Arañar.
+Yapuy. 	Arar. 
+Sacha.	Árbol.
+Aqu. 	Arena.
+Arhintina. 	Argentina. 
+Arika. 	Arica. 
+Tipiy. 	Arrancar.
+Qaykuy. 	Arrear. 
+Qichuy.	Arrebatar.
+Hanaq.	Arriba.
+Liwiy.	Arrojar.
+Sirka.	Arteria.
+Rinri. 	Asa.
+Kanka.	Asado.
+Hina. 	Así.
+Pata.	Asiento.
+Hapiy.	Asir.
+Manchakuy. 	Asustarse.
+Watay. 	Atar.
+Kichkipakuy. 	Atorarse.
+Hapiy. 	Atrapar.
+Pisqu.	Ave.
+Ananaw.	Ay. 
+Ayakuchu. 	Ayacucho.
+Minkakuy. 	Ayuda.
+Yanapay. 	Ayudar.
+Lampa.	Azada.
+Miski.	Azúcar.
+Anqas.	Azul.
+Tusuy. 	Bailar.
+Uray.	Bajar.
+Armakuy. 	Bañarse.
+Waratu.	Barato.
+Sapra. 	Barba.
+Achachallawya. 	Barbaridad.
+Pichay. 	Barrer.
+Mitu. 	Barro.
+Siki. 	Base.
+Tanwa. 	Bastón.
+Maray.	Batán.
+Wawa.	Bebé.
+Upyay. 	Beber.
+Upyay. 	Bebida.
+Chiwanway. 	Bermellón.
+Muchay. 	Besar.
+Allin.	Bien.
+Sapra. 	Bigote.
+Yuraq. 	Blanco.
+Simi.	Boca.
+Sumaq. 	Bonito.
+Waqta. 	Borde.
+Wischuy. 	Botar.
+Buynas tardis. 	Buenas tardes.
+Miski.	Bueno.
+Anri.	Bueno.
+Buyis. 	Buey.
+Buwis.	Buey.
+Chaqway. 	Bulla.
+Qipi. 	Bulto.
+Asnu.	Burro.
+Maskay.	Buscar.
+Kawallu. 	Caballo.
+Chukcha. 	Cabello.
+Uma. 	Cabeza.
+Kawra. 	Cabra.
+Sapa.	Cada.
+Wichiy. 	Caerse.
+Kawi. 	Café.
+Puru. 	Calabaza.
+Quñiy. 	Calentarse.
+Quñi. 	Caliente.
+Upallay.	Callado.
+Kalli. 	Calle.
+Wichay. 	Caminar hacia arriba.
+Ñan. 	Camino.
+Wayqu. 	Cañada.
+Pisipay. 	Cansarse.
+Takiy.	Cantar.
+Puyñu.	Cántaro.
+Kapural. 	Capataz.
+Tinkay. 	Capirotazo.
+Uya. 	Cara.
+Karaqu.	Carajo.
+Mamalláy. 	Caramba.
+Qipi.	Carga.
+Qipiy.	Cargar. 
+Karmin.	Carmen.
+Aycha. 	Carne.
+Inka. 	Carnero.
+Chanin. 	Caro.
+Karpintiru.	Carpintero.
+Wasi. 	Casa.
+Qara. 	Cáscara.
+Sillu. 	Casco.
+Yaqa. 	Casi. 
+Kastillanu. 	Castellano.
+Maqay.	Castigar.
+Siwara. 	Cebada.
+Sibulla.	Cebolla.
+Charki. 	Cecina.
+Chawpi.	Centro.
+Chaqllay. 	Cerca.
+Kuchi.	Cerdo.
+Chusaq. 	Cero.
+Wichqay. 	Cerrar.
+Matanka.	Cerviz.
+Taniy. 	Cesar.
+Tustun.	Cuarenta centavos.
+Chakra. 	Chacra.
+Chakra.	alquería.
+Aqa. 	Chicha.
+Wisikyay. 	Chillar.
+Chuqllu. 	Choclo.
+Chufir. 	Chofer.
+Chusika.	Chosica.
+Pachak. 	Cien.
+Sigarru. 	Cigarrillos.
+Pichqa. 	Cinco.
+Sini.	Cine.
+Wiqaw. 	Cintura.
+Chumpi.	Cinturón.
+Llaqta. 	Ciudad.
+Rikchaq.	Clase.
+Klasi.	Clase.
+Mañay. 	Cobrar.
+Kuka. 	Coca.
+Haytay. 	Cocear.
+Chayay. 	Cocerse.
+Yanuy. 	Cocinar.
+Kuchus.	Codo.
+Kulis. 	Col.
+Chupa.	Cola.
+Piñakuy. 	Cólera.
+Muqu. 	Colina.
+Mikuy. 	Comer.
+Imaynalla. 	Cómo está(s).
+Hina.	Como.
+Imayna. 	Cómo.
+Masi. 	Compañero.
+Sayachiy. 	Compensar.
+Rantiy.	Comprar.
+Riqsiy. 	Conocer.
+Qispiy. 	Concluirse.
+Kuntur. 	Cóndor.
+Muspay. 	Confundido.
+Muspay.	Confusión.
+Huñuy. 	Congregar.
+Nispachaqa. 	Consecuentemente.
+Yupay.	Contar.
+Tinkuy. 	Converger. 
+Sunqu. 	 Corazón.
+Waqrapuku.	Corneta.
+Kural. Kurral.	Corral.
+Kallpay. 	Correr.
+Turu pukllay. 	Corrida de toros.
+Kuchuy. 	Cortar.
+Wiptiy.	Cortar.
+Qara. 	Corteza.
+Ima. 	Cosa.
+Pallay. 	Cosechar.
+Allay.	Cosechar.
+Pallay.	Cosechar.
+Siray.	Coser.
+Waqta.	Costado.
+Wiñay.	Crecer.
+Uyway.	Criar.
+Chuya.	Cristalino.
+Chakatay.	Crucificar.
+Chawa. 	Crudo.
+Wadirnu. 	Cuaderno.
+Mayqin. 	Cuál.
+Haykapi. 	Cuándo.
+Imaynapi.	Cuánto.
+Haykayna.	Cuánto.
+Hayka. 	Cuánto.
+Tawa. 	Cuatro.
+Qatay. 	Cubrir.
+Taqay. 	Cucharear.
+Wislla. 	Cucharón.
+Kuchillu. 	Cuchillo.
+Kunka. 	Cuello.
+Wanku.	Cuerda.
+Waqra.	Cuerno.
+Qara. 	Cuero.
+Yanqataq.	Cuidado.
+Allillamanta.	Cuidadosamente.
+Tarpuy.	Cultivar.
+Hampiy.	Curar.
+Kututu.	Cuy macho.
+Quwi.	Cuy.
+Kusku.	Cuzco.
+Mama.	Dama.
+Quy.	Dar.
+Chaymanta.	De ahí.
+Punchaw.	De día.
+Umpu. 	Decaído.
+Niy. 	Decir.
+Willay. 	Decir. 
+Didu.	Dedo.
+Akay.	Defecar.
+Nanachikuy. 	Defenderse.
+Millpuy. 	Millpuy. 
+Ñawpaq.	Delante.
+Llañu.	Delgado.
+Tullu.	Delgado.
+Llumpay.	Demasiado.
+Ancha. 	Demasiado.
+Talliy.	Derramar.
+Qarquy.	Desalojar. 
+Chinkay. 	Desaparecer.
+Paskay. 	Desatar.
+Samay. 	Descansar.
+Nakay. 	Descuartizar.
+Qala.	Descubierto.
+Tipiy. 	Deshojar. 
+Chamchay. 	Desmenuzar.
+Qalatu. 	Desnudo.
+Chutuy. 	Desollar.
+Chaqway. 	Desordenar.
+Allillamanta.	Despacio.
+Usuy.	Desperdiciarse.
+Rikchay.	Despertarse.
+Llatanay.	Despojar.
+Wischupakuy. 	Despreciar.
+Chipipipiy. 	Destellar.
+Chutuy.	Desverstirse.
+Harkay. 	Detener.
+Sayay.	Detenerse.
+Takyay.	Detenerse.
+Qipa.	Detrás.
+Kutichiy.	Devolver.
+Punchaw.	Día.
+Supay.	Diablo.
+Qicha.	Diarrea.
+Qillqay. 	Dibujar.
+Nispapi hina.	Dice.
+Kiru. 	Diente.
+Riyal. 	Diez centavos.
+Chunka. 	Diez.
+Sapaq. 	Diferente.
+Sasa.	Difícil.
+Hukchu. 	Difícilmente. 
+Ñakayta. 	Dificultad.
+Qullqi. 	Dinero.
+Liryay.	Discutir.
+Haypuy. 	Distribuir.
+Pataray. 	Doblar.
+Nanay. 	Doler. 
+Dumingu. 	Domingo.
+May. 	Dónde.
+Maypi. 	Dónde.
+Puñuy. 	Dormir.
+Iskay. 	Dos.
+Miski.	Dulce.
+Kapka. 	Duro.
+Sinka.	Ebrio.
+Talliy.	Echar.
+Waqtapay.	Echarse.
+Yaw. 	Eh.
+Pay.	Él.
+Ilina. 	Elena.
+Pata. 	Elevación.
+Pay.	Ella.
+Paykuna. 	Ellos.
+Wiksayuq. 	Embarazada.
+Sumaqchay. 	Embellecer.
+Hampiy.	Embrujar.
+Qallariy.	Empezar.
+Hinkiy.	Empinarse.
+Tanqay.	Empujar.
+Ratay. 	Encenderse.
+Kusu.	Encierro.
+Unquy.	Encinta.
+Tariy.	Encontrar.
+Tupay.	Encontrarse.
+Manukuy.	Endeudarse.
+Awqa.	Enemigo.
+Unquy.	Enfermarse.
+Piña. 	Enojado.
+Piñakuy.	Enojarse.
+Chikachachaq.	Enorme.
+Yawarchay. 	Ensangrentar.
+Yachachiy. 	Enseñar.
+Qachachay. 	Ensuciar.
+Hapiy. 	Entender.
+Pampay.	Enterrar.
+Hinaspa.	Entonces.
+Aqalli.	Entrañas.
+Yaykuy.	Entrar.
+Chawpi.	Entre.
+Puru.	Envase.
+Hampiy.	Envenenar.
+Kachay.	Enviar.
+Pacha.	Época.
+Pantay.	Equivocar.
+Usyay.	Escampar.
+Lluptiy.	Escapar.
+Akllay.	Escoger.
+Pakay.	Esconder.
+Qillqay.	Escribir.
+Uyariy.	Escuchar.
+Iskuyla.	Escuela.
+Chay.	Eso.
+Tunquchu.	Esófago.
+Wasa.	Espalda.
+Ispañul.	Español.
+Kastillanu.	Español.
+Suyay.	Esperar.
+Kichka.	Espina.
+Warmi.	Esposa.
+Qusa.	Esposo.
+Kuchu.	Esquina.
+Kay.	Estar.
+Na.	Este.
+Kay.	Este.
+Istir.	Ester.
+Aysay. 	Estirar.
+Wiñay. 	Estirarse.
+Wiksa. 	Estómago.
+Tiquy. 	Estrangular.
+Quyllur. 	Estrella.
+Alumnu.	Estudiante.
+Istudyay.	Estudiar.
+Waspiy.	Evaporarse.
+Aspiy.	Excavar.
+Achpiy. 	Excavar.
+Aka. 	Excremento.
+Willay.	Explicar.
+Rimay. Expresión.	
+Pasaypaq.	Extremadamente.
+Qatiy.	Seguir.
+Mastay.	Extenderse.
+Wali.	Falda.
+Ayllu.	Familia.
+Ayllu. 	Familiar.
+Puqusqa. 	Fermentado.
+Quqaw. 	Fiambre.
+Tukuy. 	Fingir.
+Rapapapay.	Flamear.
+Wayta. 	Flor.
+Tullpa.	Fogón.
+Ransis.	Francés. 
+Siqi.	Franja.
+Chimpa. 	Frente.
+Urku. 	Frente.
+Wachay. 	Parir.
+Ruru. 	Fruto.
+Nina.	Fuego.
+Kallpa. 	Fuerza.
+Puriy. 	Caminar.
+Muyuy.	dar vuelta.
+Wallpa. 	Gallina.
+Kukchpa. 	Galga.
+Utulu.	Gallo.
+Llalliy.	Ganar.
+Sillu.	Garra.
+Gastay.	Gastar.
+Misi. 	Gato.
+Waqtapay. 	Golpear.
+Wira. 	Gordo.
+Dyuspagrasunki.	Gracias.
+Lliwa. 	Grama.
+Hatun. 	Grande.
+Wira. 	Grasa.
+Uqi.	Gris.
+Qapariy.	Gritar.
+Raku.	Grueso.
+Qirqiryay. 	Gruñir.
+Churay.	Guardar.
+Pikanti.	Guiso picante.
+Utuskuru.	Gusano.
+Munay. 	Gustar.
+Puspu. 	Haba.
+Kay.	Haber.
+Rimay. 	Hablar.
+Imanay. 	Hacer (qué).
+Chiriy.	Frio.
+Ruway. 	Hacer.
+Asinda. 	Hacienda.
+Yarqay. 	Hambre (tener).
+Yarqay. 	Hambre.
+Yarqay. 	Hambruna.
+Kuta.	Harina.
+Uya. 	Haz.
+China. 	Hembra.
+Kiri.	Herida.
+Herida.	Herir.
+Pani.	Hermana.
+Turi. 	Hermano de una mujer.
+Wawqi.	Hermano.
+Añallaw. 	Delicioso.
+Aka. 	Herrumbre.
+Timpuy. 	Hervir.
+Riti. 	Hielo.
+Qura.	Hierba.
+Kipchan. 	Hígado. 
+Churi. 	Hijo.
+Wawa. 	Hijo. 
+Puchkay. 	Hilar.
+Siqi. 	Hilera.
+Watu. 	Hilo.
+Usiku. 	Hocico.
+Allillachu. 	Hola.
+Runa. 	Hombre.
+Ura. 	Hora. 
+Untiy.	Hozar.
+Wanta. 	Huanta. 
+Yupi.	Huella.  
+Wakcha.	Huérfano.
+Tullu.	Hueso.
+Runtu.	Huevo.
+Ayqiy. 	Huir.
+Qusniy.	Humear.
+Puchka. 	Huso.
+Ika.	Ica.
+Chaynalla.	Igual.
+Chay rikchaq.	Igual. 
+Kanchiy. 	Iluminar. 
+Michakuy. 	Impedir.
+Harkay.	Atajar.
+Inka.	Inca.
+Kichkachi.	Incitación.
+Kumuy. 	Inclinarse.
+Uqllay. 	Incubar.
+Sapaq. 	Independiente.
+Sapaq. 	Independientemente.
+Riki. 	Indudablemente.
+Qamya. 	Insípido.
+Pisi. 	Insuficiente.
+Anyay. 	Insultar.
+Nisyu.	Intensamente. 
+Yankiy.	Intercambiar. 
+Uku.	Interior.
+Chunchul. 	Intestinos.
+Hinay. 	Introducir. 
+Yanqa. 	Inútilmene.
+Hayway. 	Invitar.
+Riy. 	Ir.
+Hasintu. 	Jacinto.
+Aysay.	Jalar.
+Chutay. 	Jalar.
+Sipas. 	Joven (mujer).
+Pukllay. 	Jugar.
+Yuyay. 	Juicio.
+Hulyu. 	Julio.
+Kuska. 	Juntos.
+Uña. 	Lactante. 
+Anyay. 	Ladrar.
+Ladrillu. 	Ladrillo.
+Suwa. 	Ladrón.
+Qucha.	Lago.
+Wiqi. 	Lágrima.
+Tiksi.	Lana (Pedacito inútil de __).
+Aqaruway. 	Langosta.
+Hatun. 	Largo.
+Siqullu. 	Látigo.
+Taqsay. 	Lavar. 
+Upakuy. 	Lavarse.
+Karu. 	Lejos.
+Yanta. 	Leña.
+Qallu. 	Lengua.
+Quqariy. 	Levantar. 
+Liwru. 	Libro. 
+Chuya.	Limpio.
+Yawar. 	Linaje. 
+Siqi.	Línea.
+Llama.	Llama.
+Qayay. 	Llamar.
+Pampa. 	Llanura.
+Chayay. 	Llegar.
+Huntay.	Llenarse.
+Hunta. 	Lleno.
+Chukuy-chukuy.	Lleno.
+Umbruy.	Llevar al hombro.
+Pusay.	Llevar.
+Waqay. 	Llorar.
+Paray. 	Llover.
+Para. 	Lluvia.
+Sayay.	Longitud.
+Hinaspa. 	Luego. 
+Huk lawlla.	Lugar.
+Wichay.	Lugar alto.
+Luwis.	Luis.
+Luwisa. 	Luisa.
+Killa. 	Luna.
+Lunis. 	Lunes.
+Urqu. 	Macho.
+Kullu. 	Madera.
+Mama. 	Madre.
+Puqusqa. 	Maduro.
+Mayistru. 	Maestro.
+Ancha allin. 	Magnífico.
+Muti. 	Maíz cocido.
+Sara.	Maíz.
+Chiki. 	Mal agüero.
+Paqarin.	Mañana.
+Pukyu. 	Manantial.
+Chiqchi.	Manchado.
+Kamachiy. 	Mandar.
+Kakichu.	Mandíbula.
+Maki.	Mano.
+Lliklla. 	Manta para cargar.
+Manwil. 	Manuel.
+Marsilina.	Marcelina.
+Marya. 	María.
+Maryanu. 	Mariano.
+Chumpi.	Marrón.
+Marsu. 	Marzo.
+Aswan. 	Más. 
+Kachuy.	Masticar.
+Sipiy.	Matar. 
+Mayu. 	Mayo. 
+Mikaniku. 	Mecánico.
+Midiku.	Médico.
+Chiqta. 	Medida.
+Chawpi. 	Medio.
+Tupuy.	Medir.
+Aywiy.	Menear.
+Ñutu.	Menudo.
+Plaza.	Mercado.
+Killa. 	Mes.
+Waranqa.	Mil.
+Añas.	Mofeta.
+Nuyuy.	Mojar.
+Kutay.	Moler.
+Kanallan.	Momento.
+Chipi.	Mono.
+Urqu.	Montaña.
+Sillakuy. 	Montar. 
+Kachuy. 	Morder.
+Wañuy. 	Morir.
+Muru. 	Moteado.
+Aywiy. 	Mover.
+Kuyuy. 	Moverse.
+Warma. 	Muchacho.
+Achka. 	Muchos. 
+Ñuti.	Mucosidad.
+Warmi. 	Mujer.
+Pacha. 	Mundo.
+Ancha. 	Muy.
+Wiñay. 	Nacer.
+Siki.	Nalgas.
+Sinqa. 	Nariz.
+Munay. 	Necesitar.
+Allqa. 	Negro sobre fondo blanco.
+Yana. 	Negro.
+Chillu. 	Negro.
+Sirka.	Nervadura.
+Ritiy. 	Nevar.
+Qisa. 	Nido.
+Mana.	No.
+Ama.	No.
+Tuta. 	Noche.
+Suti. 	Nombre.
+Ñuqanchik.	Nosotros.
+Puyu. 	Nube. 
+Isqun. 	Nueve.
+Achka. 	Numerosos.
+Utaq.	O.
+Kasuy. 	Obedecer.
+Warku.	Ochenta centavos.
+Pusa.	Ocho.
+Amaláy. 	Ojalá.
+Rinri. 	Ojo de la aguja. 
+Ñawi. 	Ojo.
+Muskiy.	Oler.
+Manka.	Olla. 
+Puputi. 	Ombligo.
+Rimay. 	Oración.
+Rinri. 	Oreja.
+Tuta.	Oscuridad.
+Tutayaq. 	Oscuro.
+Uwiha. 	Oveja.
+Akay. 	Oxidarse.
+Pablu.	Pablo.
+Tayta. 	Padre. 
+Tayta-mama. 	Padres.
+Pagay. 	Pagar.
+Llaqta. 	País.
+Simi. 	Palabra.
+Kaspi. 	Palo. 
+Urpay. 	Paloma.
+Chukchu. 	Paludismo.
+Tanta. 	Pan.
+Wara. 	Pantalones. 
+Chupa. 	Pantorrilla.
+Pawla. 	Paola.
+Runtus papa.	Papa amarilla.
+Chuñu.	Papa deshidratada.
+Runtus.	Ritipa sisan.
+Watya. 	Flores.
+Papil. 	Papel. 
+Sayachiy.	Parar.
+Hatariy.	Pararse.
+Rikchakuy. 	Parecerse.
+Hina.	Parecido. 
+Pirqa. 	Pared.
+Wachay. 	Parir.
+Waki. 	Parte.
+Pasay. 	Partir.
+Mincha. 	Pasado mañana.
+Pastu. 	Pasto.
+Pasto.	Pastorear.
+Ataka.	Pata.
+Haytay.	Patear.
+Patrun.	Patrón.
+Pawlina. 	Paulina.
+Qasqu. 	Pecho.
+Mañay. 	Pedir.
+Supi. 	Pedo.
+Pidru. 	Pedro.
+Ñaqcha. 	Peine. 
+Munday.	Pelar.
+Tipllay. 	Pelar.
+Chukcha. 	Pelo.
+Piluta. 	Pelota.
+Lani.	Pene.
+Niy.	Pensar.
+Muru.	Pepa.
+Taksa.	Pequeño.
+Musyay. 	Percibir.
+Wischuy.	Perder.
+Qillakuy. 	Pereza.
+Qilla.	Perezosa.
+Qapay. 	Perfumar.
+Muyuriq. 	Perímetro.
+Pasaykullasqayki. 	Permiso.
+Ichaqa. 	Pero.
+Chuli. 	Perro pastor.
+Allqu.	Perro.
+Pirul. 	Perol.
+Piruw. 	Perú.
+Pirwanu.	Peruano.
+Llasaq.	Pesado.
+Llasay.	Pesar.
+Challwa. 	Pescado.
+Qichipra. 	Pestaña.
+Challwa. 	Pez.
+Hayay. 	Picar.
+Kachuy. 	Picar.
+Mallqu.	Pichón.
+Tupsa.	Pico.
+Tupsay. 	Picotear.
+Chaki.	Pie.
+Rumi. 	Piedra.
+Qara. 	Piel.
+Chanka.	Pierna.
+Chaki.	Pie.
+Tariy.	Pillar.
+Pampa. 	Piso.
+Tarpuy. 	Plantar.
+Mati. 	Plato.
+Puru.	Pluma.
+Imay sunqu.	Pobre.
+Wakcha. 	Pobre.
+Tumpa.	Poco.
+Atiy.	Poder.
+Pumpu. 	Podrido.
+Wardiya. 	Policía.
+Chiwchi. 	Pollo.
+Allpa. 	Polvo.
+Punchu. 	Poncho.
+Churay.	Poner.
+Chaymi.	Por eso.
+Ama hina kaspa. 	Por favor.
+Imanasqa.	 Por qué. 
+Tiyay. 	Posarse.
+Tapuy.	Preguntar.
+Manchakuy. 	Preocuparse.
+Aqay. 	Preparar chicha.
+Qaylla.	Presencia.
+Yaykupaku. 	Presente.
+Malliy. 	Probar.
+Uku.	Profundo.
+Michakuy.	Prohibir.  
+Llaqta.	Pueblo.
+Punku. 	Puerta.
+Qatu. 	Puesto de venta.
+Qapsan. 	Pulmones.
+Punu. 	Puno.
+Taka. 	Puño.
+Haytay. 	Puntapié.
+Ñawiruru. 	Pupila.
+Imay. 	Qué.
+Maychika. 	Qué cantidad.
+May law. 	Qué lado.
+Ima. 	Qué.
+Runasimi. 	Quechua. 
+Qipay. 	Quedarse.
+Kañay.	Quemar.
+Munay.	Querer.
+Kirusin. 	Queroseno.
+Pi.	Quién.
+Qasi. 	Quieto.
+Ralmiryu. 	Quince centavos.
+Chapra. 	Rama seca.
+Tullu. 	Rama.
+Chaylla. 	Rápidamente.
+Ukucha.	Ratón.
+Rawul.	Raúl.
+Hatariy. 	Rebelarse. 
+Chaskiy. 	Recibir.
+Pallay. 	Recoger. 
+Yuyay. 	Recordar. 
+Parquy.	Regar.
+Llaqta. 	Región.
+Maskay.	Registrar.
+Asiy.	Reir. 
+Llipya. 	Relámpago.
+Llipyay. 	Relampaguear.
+Qaqchay. 	Reñir.
+Partisyun. 	Repartición.
+Kutipay. 	Replicar.
+Miray.	Reproducirse.
+Lluchkay.	Resbalar.
+Wiqi. 	Resina.
+Anyay. 	Resondrar.
+Samay. 	Respiración.
+Samay. 	Respirar.
+Qichuy.	 Restar.
+Puchuy.	Resto.
+Muyuy. 	Retornar.
+Wintiy.	Retozar.
+Qipay.	Retrasarse.
+Huñuy. 	Reunir.
+Tuqyay. 	Reventar.
+Mañay. 	Rezar.
+Rikardu. 	Ricardo.
+Apu. 	Rico.
+Mayu. 	Río.
+Qaqa. 	Risco.
+Ruwirtu. 	Roberto.
+Muqu. 	Rodilla.
+Puka. 	Rojo.
+Pakiy. 	Romper.
+Pacha.	Ropa.
+Rusa. 	Rosa.
+Rusindu. 	Rosendo.
+Muyuy.	Rotar.
+Paqu. 	Rubio.
+Ruyda. 	Rueda.
+Rusu. 	Ruso.
+Yachay.	Saber.
+Qurquy.	Sacar.
+Taspiy.	Sacudir. 
+Kachi.	Sal.
+Lluqsiy.	Salir.
+Tuqay. 	Saliva.
+Paway.	Saltar.
+Allin.	Saludable.
+Yawar.	Sangre.
+Saksay.	Satisfecho.
+Chakiy.	Secarse.
+Tiyay.	Sedimentar.
+Qatipay.	Seguir una dirección. 
+Qatiy.	Seguir.
+Suqta.	Seis.
+Akllay.	Seleccionar.
+Simana.	Semana. 
+Tarpuy.	Sembrar.
+Kawsay.	Sementeras.
+Muhu. 	Semilla. 
+Ñan. 	Sendero.
+Ñuñu.	Seno.
+Taytáy. 	Señor. 
+Mama. 	Señora. 
+Tiyay.	Sentarse.
+Rakiy. 	Separar.
+Kay.	Ser.
+Pungu.	Servicio.
+Qaray.	Servir.
+Ñutqu.	Seso.
+Awriki.	Sí.
+Qanchis.	Siete.
+Churkuy. 	Sobreponer.
+Waska.	Soga. 
+Inti.	Sol.
+Chunniq. 	Solitario.
+Sapa.	Solo. 
+Kachariy. 	Soltar. 
+Ruqu.	Sombrero.
+Chalanyay.	Sonar.
+Asiy. 	Sonreir.
+Chupi.	Sopa.
+Laqichuy. 	Sopapear. 
+Wayray. 	Soplar el viento.
+Pukuy. 	Soplar.
+Siqay.	Subir.
+Susidiy. 	Suceder.
+Qanra.	Sucio.
+Pampa. 	Suelo.
+Haypay. 	Suficiente.
+Ñakariy.	Sufrir.
+Anchachuch. 	Tal vez.
+Wayaqa. 	Talego.
+Mayan. 	Tamaño.
+Sayay. 	Tamaño.
+Ima. 	También.
+Katatatay. 	Temblar.
+Timpranu.	Temprano.
+Mastay.	Tender.
+Anku. 	Tendón.
+Tukuy.	Terminar.
+Allpa. 	Terreno.
+Champa. 	Terrón.
+Runtu. 	Testículos.
+Ñawpaq. 	Tiempo.
+Unay. 	Tiempo largo.
+Pacha.	Tiempo.
+Tinda. 	Tienda.
+Allpa. 	Tierra.
+Maqma. 	Tinajón.
+Rikchaq.	Tipo.
+Chamqay. 	Tirar. 
+Wikapay. 	Tirar.
+Titikaka. 	Titicaca.
+Tukuy. 	Todo.
+Llapa. 	Todos.
+Manukuy. 	Tomar prestado.
+Putquy. 	Tomar.
+Lluqlla. 	Torrente.
+Kamcha. 	Tostado.
+Harwiy. 	Tostar.
+Llamkay. 	Trabajar.
+Apamuy. 	Traer.
+Rakray.	Tragar. 
+Tragu. 	Trago.
+Astay. 	Transportar.
+Latapa.	Trapo.
+Simpay.	Trenzar.
+Kimsa. 	Tres.
+Tunrururuy. 	Tronar.
+Haytay. 	Tropezar.
+Tunrururu.	Trueno.
+Qam. 	Tú.
+Maswa.	Tubérculo.
+Ulluku.	Tubérculo.
+Uqa. 	Tubérculo.
+Chilina. 	Tuétano.
+Ñuñu. 	Ubre.
+Ukayali. 	Ucayali.
+Huk.	Uno.
+Sillu. 	Uña.
+Kiki. 	Uno mismo.
+Qam.	Usted.
+Qamkuna. 	Ustedes.
+Taqtay. 	Vaciar.
+Qala.	Vacío.
+Hakuchik. 	Vamos.
+Qari.	Varón.
+Ma.	Veamos.
+Sirka. 	Vena.
+Luwichu.	Venado.
+Wankiy. 	Vendar. 
+Rantikuy. 	Vender.
+Aynikuy. 	Vengarse.
+Hamuy. 	Venir.
+Qaway. 	Ver. 
+Qumir.	Verde.
+Illay. 	Viajar.
+Wikuña.	Vicuña.
+Wikuña.	Paqu.
+Kawsay.	Vida.
+Qispi. 	Vidrio.
+Paya.	Vieja. 
+Ñawpa.	Viejo.
+Kallpa.	Vigor.
+Muru.	Viruela.
+Watukuy.	Visitar.
+Yachay.	Vivir.
+Wiskacha.	Vizcacha.
+Paway.	Volar.
+Wischuy.	Vomitar.
+Kutiy.	Volver.
+Ña.	Ya.
+Ñuqa.	Yo.
+Yugu.	Yugo.
+Yunta.	Yunta.
+Sanurya.	Zanahoria.
+Sapatu.	Zapato.
+Qarachupa.	Zarigüeya.
+Atuq.	Zorro.
+Ñuqayku.	Nosotros.
+Runakuna.	Hombres.
+Pukllanchik.	Jugamos.
+Wasiy.	Mi casa.
+Wiqawniy.	Mi cintura.
+Wasiyki.	Tu casa.
+Wiqawniyki.	Tu cintura.
+Wasin.	Su casa.
+Wiqawnin.	Su cintura.
+¡Lluqsiy!.	¡Salga! ¡Sal!.
+¡Lluqsichun!.	¡Que salga!.
+Llamkaniku.	Trabajamos.
+Llamkanku.	Trabajan.
+Llamkanchik.	Nosotros trabajamos.
+¡Lluqsiychik!.	¡Salgan!.
+Rimani.	Hablo.
+Rimanki.	Hablas.
+Rikchariy.	Despertarse. 
+Chayarquni.	Llegué. 
+Ñaupaq ñeqe.	Primero.
+Iskay ñeqe.	Segundo.
+Kinsa ñeqe.	Tercero.
+Tawa ñeqe.	Cuarto.
+Pisqa ñeqe.	Quinto.
+Soqta ñeqe.	Sexto.
+Ñaupaq ñeqe.	Primero.
+Ñaupaq ñeqe.	Primero.
+waqanaypaq.	para que yo llore.
+llakinaypaq.	para que yo sufra.
+Tiyakuy.	Tome asiento.
+Tiyakuychik.	Tomen asiento.
+Tiyarikuychik.	Tomen asiento.
+Tiyayukuychik.	Tomen asiento.
+¡Yanapariway!	¡Ayúdeme!
+Rantiy.	Comprar.
+Rantiq.	Comprador.
+Rantikuy.	Vender.
+Qatuy.	Vender.
+Rantikuq.	Vendedor.
+Quykuy.	Regalar.
+Chanin.	Precio.
+Manuy.	Prestar.
+Manuy.	Fiar.
+Manupakuy.	Endeudarse.
+Manukuy.	Fiarse.
+Manu.	Deuda.
+Manukuq.	Deudor.
+Manuq.	Prestamista.
+Kutichiy.	Devolver.
+Wakcha.	Pobre.
+Mana qullqiyuq.	Pobre.
+Wakchayay.	Volverse pobre.
+Wakchakay.	Pobreza.
+Mana imayuq runa.	Indigente.
+Qhapaqyay.	Progresar.
+Aya.	Cadáver.
+Wañusqa.	Muerto.
+Wañuchiy.	Matar.
+sipiy.	Matar.
+Runa wañuchiy.	Matar a una persona.
+Runa wañuchiq.	Asesino.
+Wañuchisqa.	Asesinado.
+Sipikuy. Suicidarse.	
+wañuchikuy.	Suicidarse.
+Sipikuq.	Suicida.
+wañuchikuq.	Suicida.
+Miyu.	Veneno.
+wañunayay.	Agonizar.
+Wañuypatay.	Agonizar.
+Pampay.	Enterrar.
+Pampasqa.	Enterrado.
+Yawarchasqa.	Ensangrentado.
+Nakay.	Degollar.
+Sulluy.	Abortar.
+Sulluchiy.	Hacer abortar.
+Wardiya.	Policía.
+Maqay.	Pegar.
+Panyay.	golpear.
+Laqichuy.	Abofetear.
+Maqasqa.	Golpeado.
+Waykay.	Pegar entre varios.
+Waqtay.	Golpear con un palo o garrote.
+Takay.	Pegar con puñetes.
+Haytay.	Patear.
+Haytapay.	Patear repetidas veces.
+Kuchuy.	Cortar.
+Kiriy.	Herir.
+Kirisqa.	Herido.
+Yawarchakuy.	Sangrar.
+Yawarchasqa.	Ensangrentado.
+Kañakuy.	Quemarse.
+Rupasqa.	Quemado.
+Nanay.	Dolor.
+Nanachiy.	Lastimar.
+Nanachisqa.	Lastimado.
+Ñakarichiy.	Torturar.
+Ñakarichiq.	Torturador.
+Llakiy.	Sufrir.
+Maqanakuy.	Pelear.
+Takanakuy.	Pelear a puñetazos.
+Hapiy.	Agarrar.
+Hapisqa.	Agarrado.
+Chaqway.	Desorden.
+Qapariy.	Gritar.
+Harkay.	Atajar.
+Harkakuy.	Defender.
+Chiqniy.	Odiar.
+Chiqninakuy.	Odiarse.
+Chiqnisqa.	Aborrecido.
+Manchachiy.	Atemorizar.
+Manchay.	Asustarse.
+Awqa.	Enemigo.
+Piñasqa.	Furioso.
+Piñasqa.	rabioso
+Piñay.	Enojo.
+Qatiykachay.	Perseguir.
+Suway.	Robar.
+Suwaq.	Ladrón.
+Suwasqa.	robado.
+Suwakunapa kamachiq.	Jefe de los ladrones, cabecilla.
+Uywa suwa.	Abigeato.
+hurtar Hurquy.	Sustraer.
+Chasay.	Apropiarse de algo.
+Munapayay.	Codiciar.
+Manchachiy.	Amenazar.
+Hukpa.	Ajeno.
+Pallquy.	Engañar.
+Saqiy.	Abandonar.
+Uywa suwa.	Abigeato.
+Laqichuy.	Abofetear.
+Sulluy.	Abortar.
+Pasña.	Adolescente mujer. 
+Maqta.	Adolescente varón.
+Hapiy.	Agarrar.
+Wañuy pata.	Agonía.
+Wañunayay.	Agonizar.
+Maqaq.	Agresor.
+Hukpa.	Ajeno.
+Kuyaq.	Amante.
+Qillu.	Amarillo.
+Manchachiy.	Amenazar.
+Ñaña.	Amiga.
+Wawqi.	Amigo.
+Paya.	Anciana.
+Machu.	Anciano.
+Allichay.	Arreglar. 
+Pituchakuy.	Arrepentirse.
+Wañuchiy.	Asesinar.
+Runa wañuchiq.	Asesino.
+Manchachiy.	Atemorizar.
+Nanachiy.	Atormentar.
+Kamachiq.	Autoridad.
+Pinqachikuy.	Avergonzar.  
+Pinqakuy.	Avergonzarse. 
+Willay.	Avisar.
+Yanapay.	Ayudar. 
+Yanapanakuy.	Ayudarse. 
+Anqas.	Azul.
+Wawa.	Bebé.
+Yuraq.	Blanco.
+sinka.	Borracho.
+Chaqwa.	Bulla.
+Asipayay.	Burlarse.
+Asipayaq.	Burlón. 
+Maskay.	Buscar.
+Aya.	Cadáver.  
+Yanqa.	Calumniador. 
+tumpaq.	Cansado. 
+Pisipasqa.	Cansancio. 
+Qusayuq.	Casada. 
+Warmiyuq.	Casado. 
+Pasña.	Chica.
+Maqta.	Chico.
+Llaqta.	Ciudad.
+Llaqtaruna.	Ciudadano. 
+Munapayay.	Codiciar.  
+Llamkamasi.	Colega. 
+Yachaymasi.	Compañero de colegio. 
+Rantiq.	Comprador. 
+Rantiy.	Comprar. 
+Allinpay.	Conciliar.
+Riqsisqa.	Conocido.
+Willay.	Contar. 
+Yupay.	Contar.
+Kutipakuy.	Contestar.
+Qari uywaq.	Conviviente.
+Kuchuy.	Cortar.
+Kuchuna.	Cuchillo.
+Hucha.	Culpa.  
+Huchayuq.	Culpable.  
+Huchachisqa.	Culpado.
+Tumpay.	Culpar. 
+Niy.	Decir.
+Sayapakuy.	Defender.  
+Nakay.	Degollar.  
+Chinkay.	Desaparecer.
+Manam llamkayuq.	Desempleado.  
+Chaqwa.	Desorden.
+Millay.	Despreciable.
+Usuchisqa.	Despreciado.
+Usuchiy.	Despreciar.
+Harkay.	atajar a alguien.
+Hapiy.	capturar. 
+Sayay.	detener.
+Chiqniy.	Detestar. 
+Manu.	Deuda.  
+Manukuq.	Deudor. 
+Kutichiy.	Devolver.
+Qullqi.	Dinero. 
+Willaykachay.	Divulgar. 
+Wiqsayuq.	Embarazada. 
+sinkakuy.	Emborracharse.
+Kuyaq.	Enamorado. 
+Uyanchay.	Encarar. 
+Tariy.	Encontrar. 
+Manurqukuy.	Endeudarse.  
+qipichiy.	Engañar.  
+Piñay.	Enojarse. 
+Piña.	Enojo.  
+Uyanchay.	Enrostrar.  
+Yawarchasq.	Ensangrentado. 
+Pampay.	Enterrar.
+Uyariy.	Escuchar. 
+Warmi.	Esposa. 
+Wikapay.	Expulsar. 
+Wischuy.	Expulsar.
+Huk suyu runa.	Extranjero.
+Manukuy.	Fiarse. 
+Hawa runa.	Foráneo.
+Chinkakuq.	Fugitivo. 
+Piñasqa.	Furioso.
+Piñasqa.	rabioso.
+Runakuna.	Gente.  
+Kamachiy.	Gobernar. 
+Maqay.	Golpear.
+Qapariy.	Gritar. 
+Kiriy.	Herir.
+pani.	Hermana.
+turi.	Hermano.
+Churi.	Hijo.
+Qari.	Hombre.
+Wakcha.	Huérfano. 
+Tapukuy.	Indagar. 
+Llaqta runa.	Indígena. 
+Mana huchayuq.	Inocente.
+Kamiy.	Insultar.
+kaminakuy.	Insultarse.
+Kami.	Insulto.  
+Tatichiy.	Interrumpir.
+Sipas.	Joven.
+Pampa Juez.	Juez de Paz. 
+Pukllay.	Jugar.
+Suwa.	Ladrón.
+Kachariy.	Liberar.
+Umalliq.	Líder.
+Mama.	Madre.
+Kamachikuy.	Mandar.
+Qusa.	Marido.
+Wañuchiy.	Matar.
+runa wañuchiy.	Matar a una persona.
+Llullakuy.	Mentir.
+Llulla.	Mentira.
+Manchay.	Miedo.
+Muchuy.	Miseria.
+Wañuy.	Morir.
+Wañukuq.	Muerto.
+Warmi.	Mujer.
+sipas.	Mujer joven.
+Yana.	Negro.
+Willka.	Nieto.
+Warmi warma.	Niña. 
+Qari warma.	Niño.
+Chiqniy.	Odiar.
+chiqninakuy.	Odiarse.
+Kamachi.	Orden.
+Tayta.	Padre.
+churyapakuq.	Padre soltero.
+Taytamama.	Padres.
+Llaqta.	País.
+Llaqtamasi.	Paisano. 
+Ayllu.	Pariente.
+Haytay.	Patear.
+Panyay.	Pegar.
+qatikachay.	Perseguir. 
+Runa.	Persona.
+Mana imayuq.	Pobre.
+Chanin.	Precio.
+Tapuy.	Preguntar. 
+Sayachi.	Prestado. 
+Qispiy.	Progresar.
+Runamasi.	Prójimo.  
+Llaqta.	Pueblo.
+Pusulluku.	Quemarse.
+Allinpay.	Reconciliar. 
+Allinpanakuy.	Reconciliarse.  
+Sapa kuti huchapakuq.	Reincidente.
+Willay.	Relatar. 
+qaqchay.	Reprender.
+Qaqchay.	Resondrar. 
+Qullqisapa.	Rico.
+Suway.	Robar.  
+Puka.	Rojo. 
+Paqu chukcha.	Rubio. 
+Yawarchay.	Sangrar.
+Runa pakay.	Secuestrar.
+runa pakaq.	Secuestrador.
+Masi.	Semejante. 
+Tiyay.	Sentarse. 
+Rakiy.	Separar. 
+Rakikuy.	Separarse.
+rakikuytam munani.	Quiero separarme. 
+Mana yanayuq warmi.	Soltera. 
+Mana yanayuq qari.	Soltero.
+Llakiy.	Sufrir.
+Sipikuq.	Suicida.  
+Sipikuy.	Suicidarse. 
+Hurquy.	Sustraer.
+Rikuq.	Testigo. 
+Allpa.	Tierra. 
+Nanachiy.	Torturar.
+Llamkay.	Trabajo.  
+Minka.	Trabajo comunal.
+Amachay.	Tranquilizar.
+Qari.	Varón.  
+Miyu.	Veneno. 
+Qumir.	Verde. 
+Kallpay.	Violar.
+Wañuq qusayuq.	Viuda.
+Kawsay.	Vivir.
+Allichay.	Arreglar.
+Allinpanakuy.	Reconciliarse.
+Allinpay.	Reconciliar.
+Allpa.	Tierra.
+Allquchay.	Maltratar.
+Amachay.	Pacificar.
+Anqas.	Azul. 
+anyanakuy.	reprender. 
+Apay.	Llevar.
+Apakuy.	Llevarse algo.
+Asipayaq.	Burlón.
+Asipayay.	Burlarse.
+Awqa.	enemigo.
+Chukcha.	Cabellos.
+Churay.	Poner.
+Churiay.	Engendrar. 
+Churichakuy.	Adoptar.
+Churyapakuq.	Padre soltero.
+Hampiy.	Curar.
+Hamutay.	Reflexionar.
+Hamuy.	Venir.
+Haytapay.	Dar varias patadas.
+Hucha.	Culpa.
+Hukpa.	Ajeno.
+Kachariy.	Liberar.   
+Kañay.	Quemar.
+Kañasqa.	quemado.
+Kuyaq.	amante.
+Laqichusqa.	abofeteado.
+Laqichurparin.	le abofeteó. 
+Laqichusunki.	te abofetea.
+Llamkay.	Trabajar.
+Llamkamasi.	Colega. 
+Llaqta.	Ciudad.
+Llaqtamasi.	Compoblano.  
+Llaqta runa.	Ciudadano.
+Llaqtarunakuna.	ciudadanos. 
+Lluqsiy.	Salir.
+Machakuy.	Emborracharse.
+Manukuq.	Deudor. 
+Manukuy.	Fiarse. 
+Manurqukuy.	Endeudarse.
+Manusqa.	la deuda. 
+Mañay.	Pedir.
+Maqanakuy.	Pelearse.
+Maqaq.	Agresor.
+Maskaspa.	Buscando.
+Millasqa.	Despreciado. 
+Millay.	Despreciable.
+Miyuy.	envenenar.
+Miyusqa.	envenenado. 
+Miyuwan.	con veneno. 
+Muquy.	Engañar.
+Muquq.	el que engaña.
+Muqun.	le engaña.
+Nakay.	Degollar.
+Nanachisqa.	Torturado.
+Nanachiy.	Atormentar.
+Ñakakuy.	Arrepentirse.
+Ñakarichiq.	Torturador. 
+Ñakarichiy.	Torturar.
+Pakay.	Esconder.
+Pampachay.	Perdonar.
+Pampay.	Enterrar.   
+Paqariy.	Nacer.
+Pinkakuy.	Estar avergonzado.
+Piñay.	Molestarse.
+Pisipay.	Cansarse.
+Pituchakuy.	Arrepentirse. 
+Puka.	rojo.
+Pusay.	Llevar.
+Pusullukuy.	Quemarse.
+Pusullusqa.	Quemado.
+Qapariy.	Gritar.
+Qaqchay.	Resondrar.
+Qapaqyay.	Enriquecerse.
+Qaparin.	grita. 
+Qullqi.	Dinero.
+Qullqisapa.	Rico. 
+Qullqiyuq.	Rico.
+Qumir.	Verde.
+Qusa.	Marido.
+Quy.	Dar.
+Rakiy.	Excluir.
+Rakinakuy.	Separarse mutuamente.
+Rantiq.	Comprador.
+Rantiy.	Comprar.
+Rikuq.	Testigo.
+Rimay.	Hablar.
+Riqsisqa.	Conocido.
+Riqsiy.	Conocer.
+Runa.	Persona.
+Ruway.	Hacer.
+Sinka.	Borracho. 
+Sipas.	Mujer joven.
+Sipikuq.	Suicida. 
+Sipikuy.	Suicidarse.
+Sullu.	Feto.
+Sulluy.	Abortar.
+Suti.	Nombre.
+Suwaq.	Ladrón.
+Suwa.	Ladrón.     
+Suyay.	Esperar.
+Tapuchiy.	Indagar. 
+Tapun.	él pregunta. 
+Tapuchkan.	está preguntando. 
+Tapukuy.	preguntarse.
+Taqanakuy.	Separarse. 
+Tariy.	Encontrar.
+Tatichiy.	Interrumpir.
+Tayta.	Padre.
+Taytamama.	Padres.
+Tiyay.	Vivir.
+Tumpay.	Echarle la culpa.
+Umalliq.	Líder. 
+Usuchisqa.	Despreciado. 
+Usuchiy.	Despreciar. 
+Uyanchay.	encarar.
+Uyariy.	Escuchar.
+Uywa.	Animales domésticos.
+Uywanakuy.	Convivir.
+Uyway.	Criar a los hijos.
+Wachapakuq.	Madre soltera. 
+Wakcha.	Huérfano.
+Wañuchisqa.	Asesinado.
+Wañuchiy.	Matar.
+Wañunayay.	Agoniza.
+Wañuq qusayuq.	Viuda.
+Wañuy.	Morir.
+Wañuy pata.	Agonía. 
+Waqtay.	Golpear con un objeto. 
+Warma.	Muchacho.
+Warmiqari.	Pareja de esposos.
+Waykay.	Pegar entre varios. 
+Wikapay.	Expulsar.     
+Willay.	Avisar.
+Willaykachay.	Divulgar.
+Willka.	Nieto.
+Wiqsayuq.	Embarazada.  
+Yachay.	conocer. Chutay.	jalar.
+Chupa.	cola.
+Choqllo.	choclo.
+Chayna.	así.
+Chhillpay.	desastillar. 
+Chhulla.	rocío de la mañana.
+Charki.	carne seca.
+Chutu.	jeta.
+Chutu.	Hocico.
+Huñuy.	juntar. 
+Hawa.	afuera.
+Hapiy.	agarra.
+Kamachiy.	ordenar.
+Kausay.	vivir.
+Kallpa.	fuerza. 
+huk.	uno.    
+Iskay.	Dos.
+Kinsa.	Tres.
+Tawa.	Cuatro.
+Pisqa.	Cinco. 
+Soqta.	Seis. 
+Qanchis.	Siete.
+Pusaq.	Ocho.
+Esqon.	Nueve.
+Chunka.	Diez.
+Chunka hoqniyoq.	11. 
+Chunka Iskayniyoq.	12.
+Chunka kinsayoq.	13.
+Chunka tawayoq.	14.
+Chunka pisqayoq.	15. 
+Chunka Soqtayoq.	16.
+Chunka qanchisniyoq.	17.
+Chunka Pusaqniyoq.	18. 
+Chunka esqonniyoq.	19.
+Iskay chunka.	20.
+Iskay chunka hoqniyoq.	21. 
+Esqon chunka esqonniyoq.	99.
+Pachaq.	100.
+Pachaq hokniyoq.	101.
+Pachaq esqonniyoq.	199.
+Esqon pachaq esqonniyoq.	999.
+Waranqa.	Mil.
+Ñaupaq ñeqe.	Primero. 
+Iskay ñeqe.	Segundo. 
+Kinsa ñeqe.	Tercero. 
+Tawa ñeqe.	Cuarto. 
+Pisqa ñeqe.	Quinto. 
+Soqta ñeqe.	Sexto. 
+Qanchis ñeqe.	Séptimo. 
+Pusaq ñeqe.	Octavo. 
+Esqon ñeqe.	Noveno.
+Chunka ñeqe.	Décimo. 
+Iskay chunka ñeqe.	Vigésimo. 
+Kinsa chunka ñeqe.	Trigésimo. 
+Tawa chunka ñeqe.	Cuadragésimo. 
+Yachaywasi.	Colegio.
+Yachaywasi.	escuela.
+Yana.	Negro.
+Yanapanakuy.	Ayudarse.
+Yanapay.	Ayudar.
+Yanqachay.	Depreciar. 
+Yanqa tumpaq.	Calumniador. 
+Yawarchakuy.	Sangrarse. 
+Yawarchasqa.	Ensangrentado.
+Yawarchay.	Sangrar.
+Yupay.	Contar.
+Yuraq.	Blanco.
+Yuyay.	Recordar.
+Hamauta.	Maestro. 
+Uma.	Cabeza. 
+Chukcha.	Cabello. 
+Uma qara.	Cuero cabelludo.     
+Sakaka.	Calavera. 
+Uya.	Cara.
+Rinri.	Oreja.
+Ninri k’apachu.	Pabellón del oído. 
+Qhechifra.	Pestañas. 
+Ñawi qara.	Párpados.
+Ñawi.	Ojo.
+Ñawi ruru.	Pupila. 
+Senqa.	Nariz.
+Senqa t’oqo.	Fosas nasales.
+Senqaq k’apan.	Cartílago nasal.
+Senqa suphu.	Bello nasal. 
+Qhoña.	Moco.   
+Simi.	Boca. 
+Lluch’a.	Encías.
+Kiru.	Diente.
+Qallu.	Lengua   
+Tonqor.	Garganta.   
+Samay.	Aliento.
+Thoqay.	Saliva. 
+Kunka.	Cuello.
+Qhasqo.	Pecho. 
+Wasa.	Espalda. 
+Ñuñu.	Seno.
+Rikra riqra.	Hombro. 
+Wallwak’u.	Axila.
+Wallwak’u suphu.	Bello axilar. 
+Qowin.	Bíceps.
+Maki.	Mano. 
+Maki qocha.	Palma de la mano doblada.
+Rauk’a.	Dedo. 
+Sillu.	Uña. 
+Moqo.	Rodilla. 
+Wiksa.	Barriga. 
+Muskhiy.	Oler. 
+Soqro.	Esqueleto. 
+Hanqara.	Cráneo. 
+Ñosqon.	Seso.
+Waqtan.	Costillas. 
+Rijra tullu.	Clavícula.  
+Maka tullu.	Húmero.  
+Tullu.	Hueso.  
+Kukupin.	Hígado.
+Ñaupaq Mak’a tullukuna.	Radio y cúbito. 
+Chaka tullu.	Fémur.
+Chaki senqa tullu.	Canilla. 
+Phillillo.	Rótula.
+Teqnin tullu.	Iliaco.  
+Waqtan tullu.	Costilla. 
+Weqau.	Cintura.
+Kapalli.	Plexo. 
+Siki chupa.	Coxis. 
+Teqnin.	Cadera. 
+Wankalli.	Columna vertebral.
+Chillan.	Ingle. 
+ullu.	Pene. 
+raka.	Vagina.
+Raka K’akara.	Clitoris.  
+Raka llika.	Himen.
+Uthapin.	Matrìz.  
+Siki.	Nalga.
+Yawar.	Sangre. 
+Yawar apariy.	Hemorragia.
+Aycha.	Carne. 
+Kiri.	Herida. 
+Qelete.	Incordio. 
+Qoyo.	Moretón.
+Ñosqon.	Seso.
+Sonqo.	Corazón.  
+Sorqan.	Pulmón. 
+Sirka.	Vena.  
+Kukupin.	Hígado.  
+Rurun.	Riñón.  
+Phusun.	Estómago.       
+Chunchul.	Intestino. 
+Ñañu Chunchul.	Intestino delgado.  
+Rakhu Chunchul.	Intestino grueso.  
+Kayrapin.	Pancréas.
+Hayaqe.	Bilis. 
+Oqoti.	Recto.  
+Siputi.	Ano.  
+Hisp’ay puru.	Vejiga.
+Qara.	Piel. 
+Chilina.	Médula de la columna vertebral. 
+Ñeqwi.	Médula.  
+Hanku.	Tendón. 
+Hunpi.	Sudor. 
+Qella.	Cicatriz.
+Soqo.	Cana. 
+Tijti.	Verruga. 
+Weqe.	Lágrima. 
+Uju.	Tos. 
+Chhulli.	Catarro. 
+Wanthi.	Venérea. 
+Sirka onqoy.	Várices.
+Kuraq rukana.	Pulgar.  
+Tuqsina rukana.	Índice.  
+Chaupi rukana.	Dedo Mayor.  
+Siwi rukana.	Anular.  
+Huchuy rukana.	Meñique.
+Pachakuna.	vestidos.      
+Wara.	Pantalón. 
+Lliqlla.	Manta.
+Wala.	Poncho. 
+Chunpi.	Cinturón.   
+Chullu.	Gorro. 
+Chuku.	Sombrero.   
+Kusma.	Camisa. 
+Husuta.	Sandalia.
+Usuta.	Sandalia. 
+Yanki.	Calzado.   
+Llaqolla.	Capa. 
+Ayllu.	Familia. 
+Mama.	Mamá.     
+Mamakuna.	Madres.     
+Tayta.	Papá.  
+Taytakuna.	Padres.
+Hatun mama.	Abuela.
+Hatun Tayta.	Abuelo.
+Qosa.	Esposo.  
+Qoya.	Esposa.
+Churi qhari wawa.	El padre al hijo varón.
+Kuraq churi.	Hijo mayor.
+Wawakuna.	Hijos. 
+Kuraq ususi.	Hija mayor.  
+Ususikuna.	Hijas.
+Willka.	Bisnieto.
+Kuncha.	Sobrino.
+Mulla.	Sobrina.  
+Kiwachi.	Suegro.
+Kisma.	Suegra.
+Qatay.	Yerno.
+Qhachun.	Nuera.
+Hawa churi.	Hijastro.  
+Hawa ususi.	Hijastra. 
+Hawa tayta.	Padrastro.  
+Hawa mama.	Madrastra.  
+Wispa.	Gemelo.  
+Yanay.	Novio.
+Aylluy.	Parientes.  
+Wawa.	Bebe.  
+Warma.	Muchacha Casadera.   
+Pasña.	Muchacha.
+Wayna maqta.	Joven Varón.
+Sipas pasña.	Joven Mujer.
+Runa.	Hombre.  
+Wakcha.	Huérfano.
+Wasi.	Casa. 
+Punku.	Puerta. 
+Away.	Tejer.
+Manka.	Olla.
+Wislla.	Cucharón. 
+Hatun wislla.	Cucharón grande.    
+Huchuy wislla.	Cucharita. 
+Qoncha.	Fogón.    
+Uspha.	Ceniza. 
+Qosñi.	Humo.    
+Tiyana.	Silla. 
+Hanpara.	Mesa.
+Pichana.	Escoba. 
+Qhechincha.	Hollín.                          
+Qopa oqarina.	Recogedor de basura. 
+Theqtina.	Sartén.   
+Puku.	Plato. 
+Tumi.	Cuchillo ceremonial.   
+Kuchuna.	Cuchillo.
+Puruña.	Lavador. 
+Mijuna.	Comida.   
+Ukyay.	Beber. 
+Ukyana.	Bebida.   
+Maran.	Batán.      
+Llanta.	Leña. 
+Lawa.	Crema salada.   
+Chupi.	Sopa contundente. 
+Loqloy.	Sorber.   
+Upiy.	Sorber despacio. 
+Waksi.	Vapor. 
+Tinpu.	Sancochado. 
+Tiyana.	Asiento.   
+Hanpara.	Mesa. 
+Kawitu.	Catre.   
+Puyñu.	cántaro.
+Hanpina wasi.	Hospital.   
+Warayoq wasi.	Municipio.    
+Inkill.	Parque.     
+Qhatuy rantina wasi.	Tienda.   
+Hanpi qhatuna wasi.	Farmacia.  
+Qhorurunpa pujllay wasi.	Estadio.     
+Taytachaq wasin.	Iglesia.     
+Mijuy wasi.	Restaurante.   
+Qelqa waqaychana wasi.	biblioteca.    
+Pujllana marka.	Parque de recreo.    
+Chujcha rutuna wasi.	Peluquería.      
+Eamana kancha.	Estación.      
+Qhatu panpa.	Mercado. 
+Amachaque.	Abogado.
+Paqtachaq.	Juez. 
+Huchalliq.	Fiscal. 
+Hanpi kamayoq.	Médico.
+Hanpi kamayoq yanapaq.	Enfermero. 
+Tujriy kamayoq.	Policía.
+Amauta.	Maestro. 
+Chaski runa.	Mensajero.
+Killichaka.	Ingeniero. 
+Nina thasnuq.	Bombero. 
+Tanta ruwaq.	Panadero. 
+Siray kamayoq.	Sastre.   
+Chujcha rutuq.	Peluquero. 
+Yupay kamayoq.	Contador. 
+Thupaq.	Carpintero. 
+Inkill llankaq.	jardinero. 
+Qhatuq.	Vendedor.
+Aqo.	Arena. 
+Aqo panpa.	Arenal. 
+Qhata.	Ladera. 
+Ichhu.	Paja. 
+Ichhu ichhu.	Pajonal.
+Yarqha.	Acequia. 
+Are.	Volcán. 
+Lloqlla.	Aluvión. 
+Machay.	Cueva.
+Mayu.	Río.
+Mayupata.	Rivera del río.
+Qocha Pata.	Playa. 
+Moqo.	Morro. 
+Orqo.	Cerro. 
+Orqo Mukuku.	cumbre.  
+Pujyu.	Manantial. 
+Phaqcha.	catarata. 
+Phauchi.	Torrente de agua sobre piedras. 
+Ponqo.	Pozo natural. 
+Qaqa.	Peña. 
+Qocha.	Laguna.
+Qasa.	Abra. 
+Wayqo.	Quebrada. 
+Yunka.	Selva. 
+Para.	Lluvia. 
+Chijchi.	Granizo. 
+Chhulla.	Rocío. 
+Riti.	Nieve. 
+Chullunku.	Hielo en caídas de agua. 
+Alqo.	Perro. 
+Waka.	Vaca. 
+Llama.	Llama. 
+Alpaka.	Alpaca.
+Wikuña.	Vicuña.
+Qowi.	Conejo. 
+Ukuku.	Oso. 
+Uturunku.	Tigre. 
+Puma.	Puma. 
+pichi.	gato. 
+Khuchi.	Chancho.
+Asnu.	burro.
+Wanaku.	Guanaco.
+Añas.	Zorrino. 
+Atoq.	Zorro. 
+Amaru.	Serpiente. 
+Wallpa.	gallina. 
+Kanka.	Gallo. 
+Chiuchi.	Pollo. 
+Kanka/utulo.	Gallo/sabio. 
+Waswa.	Pato. 
+Lluthu.	Perdiz. 
+tuku.	Búho. 
+Suri.	Avestruz. 
+Kallacha.	Lorito.
+Pariwana.	Pariguana. 
+Suyuntu.	Gallinazo. 
+Chayña.	Jilguero.
+Anka.	Gavilán. 
+Cheqollo.	Ruiseñor. 
+Kukuli.	Torcaza.
+Urpi.	Paloma. 
+Pichinku.	Gorrión. 
+Chiwaku.	Zorzal. 
+Yutu.	Perdíz. 
+Kullku.	Tórtola. 
+Killichu.	Cernícalo. 
+Qente.	Picaflor. 
+Qellwa.	Gaviota. 
+Leqecho.	Búho.
+Kuntur.	Cóndor. 
+Waman.	Halcón. 
+Khallwa.	Golondrina. 
+Wakamayu.	Papagayo.
+Wankar.	Garza blanca.
+Choseq.	Lechuza.
+Akatanqa.	Escarabajo.
+Pallayso.	Cucaracha.
+Tankayllo.	Tábano.
+Kachikachi.	Libélula. 
+Chuspi.	Mosca.
+Chujcha kutu.	Moscón. 
+Tente.	Saltamonte. 
+Qesqento.	Langosta cantora. 
+Chilliku.	Grillo. 
+Usa.	Piojo. 
+Piki.	Pulga. 
+Uru.	Araña. 
+Itha.	piojo diminuto. 
+Chiya.	Liendre. 
+Thuta.	Polilla. 
+Hamaku.	Garrapata. 
+Pinchinkuru.	Luciérnaga. 
+Sisi.	Hormiga. 
+Wanwa.	Zancudo. 
+Kuru.	Gusano. 
+Papa.	Papa. 
+Sara.	Maíz. 
+Choqllo.	Choclo. 
+Lisas.	Olluco. 
+Oqa.	Oca. 
+Kiwicha.	Quihuicha. 
+Apichu.	Camote. 
+palta.	Palta. 
+Rumu.	Yuca. 
+Hawas.	Habas. 
+Chuño.	Chuño.
+Kinuwa.	Quinua. 
+Raqacha.	Virraca. 
+Roqoto.	Rocoto. 
+Uchu.	Ají. 
+Mukura.	Ají silvestre. 
+Qochayuyu.	alga de mar. 
+Koka.	Coca. 
+Inchis.	Maní. 
+Sacha inchi.	Maní de árbol. 
+Lakawiti.	Calabaza. 
+Unkucha.	Uncucha. 
+Oqhoruru.	Berros. 
+Kachi.	Sal. 
+Aycha.	Carne. 
+Runtu.	Huevo. 
+Hanka.	Tostado. 
+Hayachiku.	Comida picante. 
+Ñujñu.	Leche. 
+Tinpu.	Puchero. 
+Pesqe.	Quinua reventada. 
+Muti.	Mote. 
+Wallpa hilli.	Caldo de gallina. 
+Uman hilli.	Caldo de cabeza. 
+Intichay.	Domingo. 
+Killachay.	Lunes. 
+Atipachay.	Martes. 
+Chaskachay.	Miércoles. 
+Qoyllurchay.	Jueves. 
+Illapachay.	Viernes. 
+Kuychichay.	Sábado. 
+Qontisuyo.	Región de la costa.
+Antisuyo.	Región de la sierra. 
+Chinchay suyo.	Región de la costa. 
+Qolla Suyo.	Región del altiplano. 
+Inti paqarina.	Este.
+Inti chinkarina.	Oeste.  
+Qayllarina.	Norte.
+Qheparina.	Sur. 
+Ruphay pacha.	Verano.  
+Qasay pacha.	Invierno.  
+Paukar waray mita.	Primavera. 
+Aparkilla mita.	Otoño.
+Qhapaq raymi.	Diciembre. 
+Kamay raymi.	Enero. 
+Hatun poqoy.	Febrero. 
+Paukar wara.	Marzo. 
+Ayriway.	Abril. 
+Aymuray.	Mayo.  
+Inti raymi.	Junio. 
+Anta situwa.	Julio. 
+Qhapaq situwa.	Agosto. 
+Unu raymi.	Setiembre. 
+Qoya raymi.	Octubre. 
+Ayamarqay.	Noviembre.  
+Kuskan muyu.	Semi círculo.  
+Kinsa kuchu.	Triángulo. 
+Tawa kuchu.	Cuadrado. 
+Waska.	Rectángulo. 
+Lunpu.	Ovoide.  
+Muyu.	Círculo. 
+Sayaq seqe.	Línea vertical.
+Choqñi.	Lagañaso. 
+Ñausa.	Ciego. 
+Khiki.	Sarnanoso. 
+Upa.	Sordo. 
+Roqro.	Sordo.
+Charchi.	Raquítico.
+Wistu.	Rengo.
+Khelli.	Sucio. 
+Khuchi.	sucio. 
+Hakllu.	Gago. 
+Wikllu.	Boca torcida. 
+Tanka.	bajo. 
+Kíchi.	Retaco. 
+Eqo.	Enano.
+Tustu.	baja.
+Kumu.	Agachado. 
+Qhopo.	Jorobado. 
+Kewi.	Torcido. 
+Qella.	Ocioso. 
+Thasta.	Dormilón.
+Qecha.	Diarrea. 
+Qechalli.	Majadero. 
+Aka.	Excremento.
+Akauya.	Malhumurado. 
+Akasimi.	Grosero.
+Supi.	Pedo. 
+Siki.	Trasero.
+Khunku.	Padrillo.
+Lloqllo.	tonto.
+Kumu.	Taimado.
+Qoto.	Que tiene bocio.
+Qechu.	Lumbago.
+Qoyo siki.	trasero morado. 
+Qea.	Pus.
+Qea uya.	Cara con acné. 
+Suytu uya.	Molesto.
+Rakrapu.	Tragón. 
+Qorso.	Bozarrón. 
+Pharqa.	Voz ronca. 
+Tanpa.	Despeinado.
+Asna.	pestilente. 
+Atoq.	Astuto. 
+Suwa.	Ladrón. 
+Llulla.	Mentiroso. 
+Chachu.	moroso. 
+Usasapa.	Piojoso. 
+Chiyakama.	Lindroso. 
+Leqe.	Flácido. 
+Leqle.	descompuesto. 
+Wapu.	Desafiante.
+Asnu.	Burro. 
+Wiksasapa.	barrigón. 
+Raqra.	despistado. 
+simi.	Boca.
+Qafñu.	Abollado. 
+Chipu.	Arrugado.  
+Ñapu.	Flácido. 
+Khasa.	Erupto. 
+Saqey.	Abandonar.
+Takiy.	Cantar.    
+tusuy.	Bailar.        
+Waqay.	Llorar.   
+Pujllay.	Jugar.           
+Saruchay.	Abatir.
+Apichay.	Ablandar.      
+Amatay.	Abolir.  
+Cheqniy.	Aborrecer.     
+Sulluy.	Abortar.   
+Punkillikuy.	Abotagarse.    
+Marqay.	Abrazar.
+Kichay.	Abrir.       
+Sinpiy.	Abrochar.  
+Cheqniy.	Aborrecer.      
+Pistuy.	Abrigar.    
+Chonqay.	Absorber.      
+Tukuy.	Acaba.     
+Luluy.	Acariciar.      
+Waylluy.	Amar.  
+Astay.	Acarrear.      
+Suyapakuy.	Acechar.  
+Osqhaychay.	Acelerar.     
+Chaskiy.	Aceptar.  
+Achhuyachiy.	Acercar.     
+Tunpay.	Achacar.   
+Tastay.	Achatar.      
+Haylliy.	Aclamar.   
+Chuyanchay.	Aclarar.     
+Manchachiy.	Acobardar.  
+Llakichiy.	Acongojar.      
+Huñuy.	Acopiar.   
+Tinkiy.	Acoplar.     
+Huchuyachiy.	Acortar.  
+Qatikachay.	Acosar.      
+Kiray.	Acostar.  
+Yachakuy.	Acostumbrar.     
+Taqey.	Acumular.                                                      
+Tunpa.	Acusar.   
+Manukuy.	Adeudarse.      
+Kaskachiy.	Adherir.  
+Yapay.	Adicionar.      
+Watuy.	Adivinar.   
+Paltay.	Adjuntar.      
+Utirayay.	Admirar.  
+Wawachakuy.	Adoptar.     
+Munaychay.	Adornar.  
+Hapipakuy.	Adueñarse.     
+Llunkuy.	Adular.   
+Rikuchiy.	Advertir.      
+Pinqachiy.	Afear.  
+Qemiy.	Afianzar.      
+Ñawchiyachiy.	Afilar.  
+Takyachiy.	Afirmar.      
+Llakichiy.	Afligir.   
+Wayayachiy.	Aflojar.      
+Hapiy.	Agarrar. 
+Pisipay.	Agotarse.     
+Añanchay.	Agradecer.  
+Hatunyachiy.	Agrandar.     
+Maqay.	Agredir.   
+Mukiy.	Ahogar.       
+Toqoy.	Ahondar.  
+Seqoy.	Ahorcar.      
+Waqaychay.	Ahorrar.  
+Taqay.	Aislar.       
+Hawchay.	Ajar.   
+Mat’iy.	Ajustar.      
+Yupaychay.	Alabar.
+Qorpachay.	Albergar.     
+Kusikuy.	Alegrar.  
+Karunchay.	Alejar.      
+Kallpachay.	Alentar.   
+Raphapapay.	Aletear.      
+Wakiy.	Aliar.  
+Wachuchay.	Alinear. 
+Kamariy.	Alistar.  
+Taqey.	Almacenar.     
+Payqoy.	Almorzar.   
+Qorpachay.	Alojar.      
+Arinsay.	Alquilar.  
+Seqachinakuy.	Altercar.     
+K’anchachiy.	Alumbrar.   
+Oqariy.	Alzar.       
+Watay.	Amarrar. 
+Taqllay.	Amasar.     
+Manchachiy.	Amenazar.       
+Puriy.	Andar.      
+Qochachay.	Anegar.  
+Q’esachakuy.	Anidar.      
+Tutayay.	Anochecer. 
+Ñaupariy.	Anteceder.       
+Runtuy.	Aovar.  
+Thasnuy.	Apagar.      
+P’anay.	Apalear.                      
+Masachakuy.	Aparear.     
+Rikhurimuy.	Aparecer.  
+Chaqey.	Apedrear.      
+Llakiy.	Apenar.  
+Asnay.	Apestar.      
+Ñitinachiy.	Apiñar. 
+Taqllakuy.	Aplaudir.      
+Qhepachiy.	Aplazar.   
+Sutiyay.	Apodar.      
+Hallmay.	Aporcar.  
+Qoy.	Dar.            
+Misay.	Apostar.    
+Qemiy.	Apoyar.  
+Yachay.	Aprender.      
+Hapiy.	Apresar.   
+Osqhaychay.	Apresurar.     
+Ñupuy.	Apretar.   
+Haptay.	Apuñar.      
+Toqsiy.	Apuntar.   
+Haspiy.	Arañar.    
+Yapuy.	Arar.     
+Yauray.	Arder.       
+Kutipakuy.	Argüir.  
+Qapay.	Aromar.      
+Saphinchay.	Arraigar. 
+Tiray.	Arrancar.      
+Taqmay.	Arrasar.    
+Qatiy.	Arrear.       
+Qechuy.	Arrebatar.  
+Allichay.	Arreglar.      
+Phawaykuy.	Arremeter.  
+Chayamuy.	Arribar.       
+Achhuyachiy.	Arrimar.  
+Kuchuchay.	Arrinconar.     
+Qonquriy.	Arrodillar. 
+Qonqorikuy.	Arrodillarse.     
+Chaqey.	Arrojar.   
+Wikchuy.	Arrojar.     
+Hauchay.	Arrugar.  
+Thuniy.	Arruinar.      
+Kankay.	Asar.   
+Wichay.	Ascender.      
+Llunpaychay.	Asear.  
+Qemichay.	Asegurar.      
+Rikchakuy.	Asemejar.  
+Wañuchiy.	Asesinar.     
+Amachay.	Asesorar.  
+Mukiy.	Asfixiar.       
+Hapiy.	Asir.   
+Naqechiy.	Asolar.     
+Samay.	Aspirar.   
+Millakuy.	Asquear.     
+Manchachiy.	Asustar.  
+Harkay.	Atajar.      
+Watay.	Atar.    
+Thanquy.	Atarantar.      
+Kachallichiy.	Ataviar. 
+Uyarikuy.	Atender.      
+Qaqchachiy.	Aterrorizar.  
+Upayachiy.	Atontar.      
+Ñakarichiy.	Atormentar.  
+Hapiy.	Atrapar.      
+Qhepachiy.	Atrasar.   
+Chinpay.	Atravesar.      
+Tunpay.	Atribuir. 
+Umulliy.	Augurar.      
+Yapay.	Aumentar.   
+Hoqllanchay.	Aunar.      
+Yanapay.	Auxiliar.   
+Usachiy.	Avanzar.      
+Wayrachiy.	Aventar.  
+Pinqachiy.	Avergonzar.     
+Tapupakuy.	Averiguar.  
+Willa.	Avisar.       
+Yanapay.	Ayudar.   
+Sasiy.	Ayunar.       
+Waqtay.	Azotar.  
+Tusuy.	Bailar.       
+Yapuy.	Barbechar.    
+Pichay.	Barrer.       
+Ukyay.	Beber.   
+Wikchuy.	Botar.     
+Urmay.	Caer.
+Qoñichiy.	Calentar.      
+Upallay.	Callarse.   
+Takiy.	Cantar.      
+Wesqay.	Cerrar.  
+Waykuy.	Cocinar.      
+Mikhuy.	Comer.  
+Rantiy.	Comprar.      
+Reqsiy.	Conocer.   
+Yupay.	Contar.       
+kuchuy.	Cortar.    
+Seray.	Coser.       
+Kamay.	Crear.  
+Wiñay.	Crecer.       
+Iñiy.	Creer. 
+Qatay.	Cubrir.     
+Hanpiy.	Curar.    
+Qoy.	Dar.       
+Manuy.	Deber de deuda.  
+Niy.	Decir.       
+Paskay.	Desatar.   
+Samay.	Descansar.      
+Qoray.	Deshierbar.   
+Kutichiy.	Devolver.      
+Nanay.	Dolor.    
+Puñuy.	Dormir.       
+Kuskachay.	Emparejar.  
+Qallariy.	Empezar.      
+Tanqay.	Empujar.   
+Kanay.	Encender.       
+Tariy.	Encontrar.  
+Tinkuy.	Encontrarse.      
+Onqoy.	Enfermar.   
+Tulluyay.	Enflaquecer.     
+Tupay.	Enfrentar.   
+Chiriyay.	Enfriar.      
+Qotuy.	Engañar. 
+Werayay.	Engordar.      
+Phiñakuy.	Enojar.   
+Yachachiy.	Enseñar.      
+Haykuy.	Entrar.   
+Suchiy.	Enviar.      
+Moqey.	Envidiar.   
+Kaspiyay.	Erectar.      
+Pantay.	Errar.    
+Haspiy.	Escarbar.      
+Taqwiy.	Escarbar.  
+Ajllay.	Escoger.      
+Pakay.	Esconder.  
+Qelqay.	Escribir.      
+Uyarikuy.	Escuchar.   
+Kallpachay.	Esforzar.      
+Suyay.	Esperar.    
+Kay.	Estar.       
+Ariy.	Estrenar.  
+Charway.	Exprimir.     
+Mastariy.	Extender.    
+Paqarichiy.	Fabricar.      
+Wañuy.	Fallecer.    
+Saykuchiy.	Fatigar.      
+Kusichay.	Felicitar.  
+Hauqay.	Festejar.     
+Manuy.	Fiar.     
+Takyachiy.	Fijar.      
+Chillchiy.	Filtrar.  
+Tukuy.	Finalizar.      
+Wañuy.	Finar.  
+Mukmiy.	Fingir.     
+Selqoy.	Firmar.   
+Qelqay.	Firmar.     
+Waqtay.	Flagelar.  
+Raphapapay.	Flamear.     
+Panrakachay.	Flojear. 
+Qaranchay.	Forrar.      
+Kallpacha.	Fortificar. 
+Pakiy.	Fracturar.      
+Qhetuy.	Fregar.    
+Theqtichiy.	Freír.     
+Pillchay.	Frisar.  
+Qhakoy.	Frotar.      
+Chinkay.	Fugar.    
+Ayqey.	Fugar.       
+Sayriy.	Fumar.   
+Patakay.	Galopar.     
+Llalliy.	Ganar.  
+Qhanquy.	Ganguear.      
+Seqey.	Garabatear. 
+Iphuy.	Garuar.
+Lloqhay.	Gatear.
+Mujmuy.	Germinar.    
+Muyuy.	Girar.  
+Kamachikuy.	Gobernar.     
+Takay.	Golpear.   
+Phallallay.	Gorgear.     
+Sutuy.	Gotear.    
+Qochurikuy.	Gozar.      
+Chekoy.	Grabar.  
+Chikchiy.	Granizar.     
+Ñutuy.	Granular.  
+Reksikuy.	Gratitud.     
+Qapariy.	Gritar.   
+Waqaychay.	Guardar.      
+Pusay.	Guiar. 
+Qellmay.	Guiñar.      
+Waykuy.	Guisar.   
+Malliy.	Gustar.        
+Kay.	Haber.   
+Yachayniyuq.	Habilidad.    
+Tiyay.	Habitar. 
+Yachakuy.	Habituar.      
+Rimay.	Hablar.   
+Ruway.	Hacer.     
+Chiriyachiy.	Hacer enfriar.
+Tawqay.	Hacinar.     
+Tariy.	Hallar.  
+Amichiy.	Hartar.     
+Layqay.	Hechizar.    
+Asnay.	Heder.     
+Qasay.	Helar.     
+Kiriy.	Herir.       
+Munaychay.	Hermosear.  
+Tinpuy.	Hervir.     
+Unuyachiy.	Hidratar.    
+Phuskay.	Hilar.       
+Turpuy.	Hincar.   
+Punkiy.	Hinchar.     
+Hekiy.	Hipar.   
+Yupaychay.	Honrar.      
+Qaqchay.	Horrorizar.  
+Uskhiy.	Hosicar.      
+Qorpachay.	Hospedar.  
+Ayqiy.	Huir.       
+Qosñiy.	Humear.  
+Charanchay.	Humedecer.    
+Ullphuchay.	Humillar. 
+Chinkayachiy.	Hundir.    
+Wilqay.	Hurgar.  
+Suway.	Hurtar.       
+Muskhiy.	Husmear.  
+Kikinchay.	Identificar.     
+Manayachay.	Ignorar.  
+Kanchachiy.	Iluminar.    
+Yachapakuy.	Imitar. 
+Harkay.	Impedir.     
+Mañakuy.	Implorar.  
+Kutipakuy.	Impuganar.    
+Tonpay.	Imputar.  
+Yawrachiy.	Incendiar.      
+Usphayachiy.	Incinerar. 
+Phiñay.	Increpar.     
+Oqllay.	Incubar.  
+Tunpay.	Inculpar.      
+Rikuchiy.	Indicar.   
+Yaurariy.	Inflamar.     
+Willay.	Informar.  
+Haykuy.	Ingresar.      
+Qallariy.	Iniciar.
+P’alqachiy.	Injertar.     
+Llaqtachakuy.	Inmigrar. 
+Atipakuy.	Insistir.      
+Q’ochachiy.	Insolar. 
+Yachachiy.	Instruir.     
+K’amiy.	Insultar. 
+Kutipay.	Intentar.     
+Tatichiy.	Interrumpir. 
+Haykuchiy.	Introducir.     
+Lluqllay.	Inundar.  
+Kuskiy.	Investigar.                
+Watukachay.	Investigar. 
+Aypuriy.	Invitar.     
+Ripuy.	Ir.    
+Liphlliy.	Irradiar.    
+Anqhipay.	Jadear. 
+Pujllay.	Jugar.      
+Huñuy.	Juntar.  
+Apuq sutinta uqariy.	Jurar.     
+Ruray.	Laborar. 
+Yapuy.	Labrar.      
+Ñuñuy.	Lactar. 
+Kinranchay.	Ladear.      
+Chaqway.	Ladrar.    
+Waqay.	Lagrimear.              
+Llakikuy.	Lamentar.  
+Llaqway.	Lamer.     
+Choqay.	Lanzar. 
+Nanachiy.	Lastimar.    
+Phatatatay.	Latir .
+Taqsay.	Lavar.      
+Saqey.	Legar. 
+Hoqariy.	Levantar.      
+Suqoy.	Libar. 
+Tinkay.	Agradecer.     
+Qespichiy.	Libertar. 
+Qollanay.	Liderar.      
+Chatay.	Ligar.  
+Wahay.	Llamar.     
+Chayay.	Llegar.  
+Huntachiy.	Llenar.     
+Apay.	Llevar. 
+Waqay.	Llorar.     
+Paray.	Llover. 
+Maqanakuy.	Luchar.      
+Saqtay.	Machacar.
+Tutapay.	Madrugar.     
+Poqoy.	Madurar.  
+Ñakay.	Maldecir.    
+Waqllichiy.	Malear.  
+Alqochay.	Maltratar.     
+Ñuñuy.	Mamar. 
+Kamachiy.	Mandar      
+Apay.	Manejar. 
+Haywapakuy.	Manotear.     
+Tuyruy.	Marcar.  
+Naqeyachiy.	Marchitar.   
+Khamuy.	Masticar  
+Sapsay.	Masturbarse.     
+Chawpinchay.	Mediar.        
+Mañapakuy.	Mendigar.  
+Pisipay.	Menguar.     
+Llullakuy.	Mentir.     
+Chaqruy.	Mezclar.     
+Qhuruy.	Mochar.
+Yupaychay.	Venerar.      
+Wayray.	Ventear. 
+Wayrachiy.	Ventilar.      
+Rikuy.	Ver.  
+Chiqanchay.	Verificar.      
+Hichay.	Verter.  
+Pachachiy.	Vestir.   
+Puriy.	Viajar.   
+Raqsay.	Vigilar.     
+Watukuy.	Visitar.  
+Penqachiy.	Vituperar.     
+Kausay.	Vivir. 
+Qapariy.	Vocear.      
+Qaparqachay.	Vociferar.  
+Phalay.	Volar.       
+Tikray.	Voltear.  
+Kutimuy.	Volver.      
+Aqtoy.	Vomitar.  
+Kunparayay.	Yacer.     
+Lloqsiy.	Zafar. 
+Challpukuy.	Zambullir.                                 
+Taqtapeyay.	Zapatear.
+Apichay.	Mojar.
+Kutay.	Moler.  
+Ichiy.	Montar.       
+Kaniy.	Morder.  
+Wañuy.	Morir.       
+Rikuchiy.	Mostrar.  
+Kuyuchiy.	Mover.      
+Tikrachiy.	Mudar. 
+Wituy.	Mutilar.     
+Qespiy.	Nacer. 
+Watatatay.	Nadar.    
+Willay.	Narrar.  
+Amatay.	Negar.      
+Ritiy.	Nevar.  
+Yupaychay.	Numerar.      
+Uyakuy.	Obedecer.  
+Qhaway.	Observar.      
+Qhawapayay.	Observar.  
+Allpay.	Obtener.      
+Pakay.	Ocultar.  
+Cheqniy.	Odiar.      
+Qoy.	Ofrecer.  
+Anqosay.	Brindar.     
+Uyariy.	Oír. 
+Qhawaykuy.	Ojear.      
+Muskhiy.	Oler.   
+Muskhipakuy.	Olfatear.     
+Qonqay.	Olvidar. 
+Qonqay.	Omitir.      
+Sarunchay.	Oprimir. 
+Akllay.	Optar.      
+Allchay.	Orden. 
+Kamachiy.	Ordenar.  
+Chaway.	Ordeñar. 
+Phaskichiy.	Orear.     
+Hispay.	Orinar.  
+Tutayay.	Oscurecer.     
+Ñakariy.	Padecer. 
+Taqllakuy.	Palmear.      
+Llamiy.	Palpar.  
+Sayay.	Parar.       
+Rikchakuy.	Parecer.  
+Wachay.	Parir.       
+Rimay.	Parlar. 
+Chillmipakuy.	Parpadear.    
+Pakiy.	Partir. 
+Purikuy.	Pasear.      
+Michiy.	Pastar.  
+Haytay.	Patear.      
+Tatiy.	Pausar. 
+Huchachay.	Pecar.     
+Mañakuy.	Pedir.        
+Maqay.	Pegar. 
+Ñaqchay.	Peinar. 
+Maqanakuy.	Pelear.    
+Tipsiy.	Pelliscar.   
+Satiy.	Penetrar.   
+Hamutay.	Pensar. 
+Chinkachiy.	Perder.      
+Panpachay.	Perdonar.  
+Chachay.	Perecer.      
+Wankhay.	Perforar.
+Qapachiy.	Perfumar.
+Wiñaychay.	Perpetuar.
+Qatikachay.	Perseguir.
+Tatichiy.	Perturbar.
+Challway.	Pescar.
+Rumichay.	Petrificar.
+Turpuy.	Picar.
+Llinphiy.	Pintar.
+Saruy.	Pisar.
+Sarunchay.	Pisotear.
+Mallkichay.	Plantar.
+Taparay.	Plegar.
+Llaqtachay.	Poblar.
+Kallmay.	Podar.
+Churay.	Poner.
+Apay.	Portar.
+Qhipachiy.	Postergar.
+Ruwapakuy.	Practicar.
+Ñawpariy.	Preceder.
+Tapuy.	Preguntar.
+Tipay.	Prender.
+Tastay.	Prensar.
+Riqsichiy.	Presentar.
+Watupakuy.	Presentir.    
+Umalliy.	Presidir.
+Manuy.	Prestar.
+Kamariy.	Prevenir.
+Qallariy.	Principiar.
+Malliy.	Probar.
+Mirachiy.	Procrear.
+Ruray.	Producir.
+Hatarichiy.	Prosperar.
+Turpuy.	Punzar.
+Chuyanchay.	Purificar.
+Pakiy.	Quebrar.
+Qhipay.	Quedar.
+Ruphachiy.	Quemar.
+Munay.	Querer.
+Qichiy.	Quitar.
+Illay.	Radiar.
+Khituy.	Raer.
+Chiqtay.	Rajar.
+Thupay.	Rallar.
+Hallphiy.	Rascar.
+Qhasuy.	Rasgar.
+Thupay.	Raspar.
+Taqay.	Rebajar.
+Pinkiy.	Rebotar.     
+Kuskiy.	Rebuscar.  
+Manchapakuy.	Recelar.     
+Chaskiy.	Recibir.  
+Manuchay.	Reclamar.    
+Huñuy.	Recoger.  
+Allipunay.	Reconciliar.    
+Yuyariy.	Recordar.  
+Kuchupay.	Recortar.      
+Sirichiy.	Recostar. 
+Qochuchiy.	Recrear.     
+Muyuyachiy.	Redondear. 
+Pisiyachiy.	Reducir.     
+Hamutay.	Reflexionar.  
+Qhetuy.	Refregar.     
+Chiriyachiy.	Refrescar. 
+Kutipakuy.	Refutar.      
+Suñay.	Regalar.
+Anyay.	Regañar.     
+Qarpay.	Regar. 
+Kutimuy.	Regresar.     
+Rurapay.	Rehacer.  
+Asikuy.	Reír.       
+Wijijijiy.	Relinchar.  
+Llinpay.	Rellenar.     
+Qallpay.	Remangar.  
+Yachapayay.	Remedar.    
+Apachiy.	Remitir.  
+Chulluchiy.	Remojar.      
+Qhinuy.	Remoler.  
+Qaywiy.	Remover.      
+Atipay.	Rendir.
+Allichay.	Reparar.     
+Rakiy.	Repartir.  
+Kutipay.	Repetir.      
+Samariy.	Reposar.  
+Khusñay.	Represar.      
+Lluqhay.	Reptar.  
+Lluskhay.	Resbalar.    
+Chhullichiy.	Resfriar.  
+Kawsariy.	Resusicitar.      
+Yuyaychay.	Respetar. 
+Puchuy.	Restar.    
+Kawsariy.	Resurgir.  
+Suchurichiy.	Retirar.     
+Qewiy.	Retorcer. 
+Huñuy.	Reunir.     
+Huñunakuy.	Reunirse.  
+Kausariy.	Revivir.     
+Qhospay.	Revolcar. 
+Rawiy.	Revolver.     
+Harawikuy.	Rimar. 
+Llallinakuy.	Rivalizar.     
+Suway.	Robar.  
+Challay.	Rociar.      
+Pakiy.	Romper.  
+Qhorquy.	Roncar.      
+Qoray.	Rozar. 
+Ayqoy.	Rugir.      
+Yachay.	Saber.  
+Yachayniyoq.	Saber.    
+Miskichikuy.	Saborear.  
+Orqoy.	Sacar.      
+Saksay.	Saciar. 
+Chhafchiy.	Sacudir.               
+Khallay.	Sajar. 
+Kachichay.	Salar.     
+Lloqsiy.	Salir. 
+Chiqichiy.	Salpicar.     
+Pitay.	Saltar.  
+Napaykuy.	Saludar.    
+Qespichiy.	Salvar.  
+Qhaliyay.	Sanar.      
+Waykuy.	Sancochar.  
+Sirkay.	Sangrar.      
+Chakichiy.	Secar.  
+Rutuy.	Segar.    
+Qatiy.	Seguir.    
+Tarpuy.	Sembrar.     
+Rikchakuy.	Semejar. 
+Topsiy.	Señalar.    
+Tiyay.	Sentarse.
+Kay.	Ser.      
+Qaray.	Servir.  
+Khuyuy.	Silvar.    
+Churay.	Situar. 
+Titichay.	Soldar.      
+Musphay.	Soñar.   
+Asirikuy.	Sonreir.      
+Pukayachiy.	Sonrojar. 
+Chapuy.	Sopar.     
+Phukuy.	Soplar.  
+Upiy.	Sorber.      
+Kachariy.	Sotar.  
+Wichay.	Subir.       
+Hatarichiy.	Sublevar.  
+Kausay.	Subsistir.      
+Chunqay.	Succionar.  
+Ñakariy.	Sufrir.     
+Yapay.	Sumar.  
+Challpuy.	Sumergir.      
+Llallipay.	Superar.  
+Wachuchay.	Surcar.      
+Warluy.	Suspender. 
+Khallay.	Tajar.       
+Wituy.	Talar. 
+Chiqoy.	Tallar.      
+Kirpay.	Tapar.  
+Chaninchay.	Tasar.      
+Away.	Tejer.  
+Khatatatay.	Temblar.      
+Manchakuy.	Temer. 
+Manchakuy.	Temer.      
+Kapuy.	Tener.  
+Tullpuy.	Teñir.      
+Tukuy.	Terminar.  
+Chutay.	Tesar.     
+Cheqaqchay.	Testificar. 
+Cheqanchay.	Testimoniar.    
+Lliphipipiy.	Titilar.     
+Qhellichay.	Tiznar.  
+Llamiy.	Tocar.    
+Ukyay.	Tomar.  
+Takay.	Topar.      
+Qiwiy.	Torcer.  
+Ñakarichiy.	Torturar.      
+Uhuy.	Toser.
+Hankay.	Tostar.     
+Llankay.	Trabajar. 
+Tinkiy.	Trabar.      
+Kutichiy.	Traducir.  
+Apamuy.	Traer.     
+Millpuy.	Tragar.  
+Sirpay.	Traicionar.      
+Miniy.	Tramar.  
+Chakay.	Trancar.      
+Puriy.	Transitar. 
+Hunpiy.	Transpirar.     
+Astay.	Trasladar.  
+Wasapay.	Trasmontar.    
+Paqariy.	Trasnochar.  
+Hunpiy.	Traspirar.      
+Rutuy.	Trasquilar.  
+Sinpay.	Trenzar.     
+Qhellay.	Trillar. 
+Chaqnay.	Trincar.      
+Kimsachay.	Triplicar. 
+Ñutuy.	Triturar.      
+Llalliy.	Triunfar.  
+Muskay.	Tropezar.     
+Chaqchay.	Trotar. 
+Kuchuy.	Trozar.     
+Kunpay.	Tumbar.
+Mitay.	Turnar.      
+Hoqninchay.	Unificar. 
+Huñuy.	Unir.
+Hawiy.	Untar.       
+Qechuy.	Usurpar.  
+Hichay.	Vaciar.    
+Chinpay.	Vadear.  
+Sumaqchakuy.	Vanagloriarse.                            
+Qellayay.	Vagar.  
+Watuy.	Visitar.      
+Llalliy.	Vencer. 
+Wankuy.	Vendar. 
+Mana yachaspa ruway.	Accidente.
+Chaskiy.	Acoger.
+Sulluy.	Abortar.
+Qatiy.	Acosar.
+Huñunakuy simi qelqa.	Acta.
+Paqtay mañakuq.	Actor.
+Huñuy.	Acumular.
+Tumpasqa.	Acusado.
+Chaskiy.	Admitir.
+Anyay.	Amonestación.
+Waqaychapuy.	Archivamiento.
+Allin.	Bien.
+Umani.	Cabecilla. 
+Willaywan manchachiy.	Chantaje.
+Minkay.	Citación.
+Hayrata.	Condena.
+Manu panpachay.	Condonación.
+Qechuy.	Decomisar.
+Willay.	Declarar.
+Hucha.	Delito.
+Paqtaywan mañay. 	Demandar.
+Wiksayoq kay.	Encinta.
+Pantay.	Error.
+Suyay.	Espera.
+Harkay.	Evitar.
+Yanapay.	Favor.
+Sullu.	Feto.
+Ruwasqa.	Hecho.
+Mana chanin.	Ilegal.
+Chuya sonqo.	Inocencia.
+Atipanakuy.	Juicio.
+Paqtay.	Justicia.
+Paqtay wasi.	Juzgado. 
+Paqtachaq wasi.	Juzgado.
+Patay kamayoq.	Juez.
+¡Akakaw!	¡Qué dolor!
+¡Akakaw!	¡Qué caliente!
+akakllu.	pájaro carpintero.
+akllawasi.	casa de las escogidas.
+asnaq yaku.	agua olorosa.
+¡Alalaw!	¡Qué frío!
+¡Allillanmi!	¡Estoy bien!
+¡Allillanpuni!	¡Estoy bien!
+¡Atataw!	¡Qué feo!
+¡Atataw!	¡Qué asco!
+¡Atataw!	¡Qué asqueroso!
+antaykira.	recién nacido.
+araqchaki.	pie sucio.
+¡Aqá!	¡Ah ya!
+¡Asá!	¡Así se llama!
+¡Añallaw!	¡Qué rico!
+¡Añallaw!	¡Qué hermoso!
+¡Añallaw!	¡Qué lindo!
+ayni.	trabajo comunal.
+kaykama.	hasta aquí.
+kaymanta.	desde aquí.
+kaymantapacha.	desde ahora.
+kayna.	como esto.
+kayna.	de este modo.
+kayna.	en tal manera.
+kayna.	de esta manera.
+kayna.	de esta forma.
+kayna.	de esta modo.
+chaykama.	hasta allí.
+¡Chaskillaykim!	¡Asimismo!; 
+¡chaykama!	¡Hasta entonces!
+chaykama.	hasta entonces.
+chaykama.	hasta mientras.
+chaypaq.	para eso.
+chayraq killa.	luna nueva.
+chaychá.	tal vez.
+chayna.	de ese modo.
+chayna.	como eso.
+chayna.	en tal manera.
+chayna.	en esa manera.
+chaylla.	nada más.
+chaylla.	solo eso.
+chaylla.	eso no más.
+chaylla.	eso sólo.
+chaylla.	nada mas.
+chaylla.	en seguida.
+chay kama.	hasta allí.
+chay kama.	hasta ahí.
+chayman.	hacia ahí.
+chayman.	hacia allí.
+chayman.	hacia allá.
+chayman.	a ese lugar.
+chaymanta.	de ahí.
+chaymanta.	desde entonces.
+chaymanta.	después de eso.
+chaynin.	por ahí.
+chaynin.	por allí.
+chaypi.	en ese lugar.
+chayqa.	ahí está.
+chaysi.	en ese tiempo.
+chikama.	hasta luego.
+chimpa.	al otro lado.
+chimsiy.	cerrar los ojos.
+chiriwanmi.	tengo frío.
+allquykuna.	Mis perros.
+allquykikuna.	Tus perros.
+allqunkuna.	Sus perros.
+allqunchikkuna.	Nuestros perros.
+allquykuna.	Nuestros perros.
+allquykichikkuna.	Vuestros perros.
+allqunkuna.	Los perros de ellos.
+¿Imaynalla?	¿Cómo estás?
+imayna?	¿De qué manera?
+imaynallataq?	¿Cómo estas?
+Imaynallataq kachkanki?	¿cómo estás?
+imaynapi?	¿para cuánto?
+imaynapi?	¿de qué manera?
+imaynapi?	¿cuánto cuesta?
+imaynapitaq?	¿para cuánto?
+imaynapitaq?	¿cuánto cuesta?
+imaynataq?	¿de qué modo?
+imaynataq?	¿de qué forma?
+imaynataq?	¿de qué manera?
+imamanta?	¿por qué?
+imamanta?	¿por qué razón?
+imamanta?	¿porqué?
+imanasqa?	¿por qué?
+imanasqa?	¿por qué razón?
+imanasqa?	¿porqué?
+imapaq?	¿para qué?
+imapaq?	¿Con qué fin?
+imapas.	cualquier cosa.
+imapas.	lo que sea.
+kachariy.	poner en libertad.
+kasarakuy.	contraer matrimonio.
+imawan?	¿con qué?
+imawantaq?	¿con qué?
+imay?	¿qué hora?
+imay?	¿qué tiempo?
+Yuyaykim.	Te recuerdo.
+Misk’illay.	Mi dulzura.      
+Urpichallay.	Mi palomita.     
+¡Ananáu!	¡Qué bonito!
+Achaláu!	¡Qué rico!
+¡Añañáu!	¡Qué lindo!
+¡Akakalláu!	¡Qué pena!
+¡Ima munay!	¡Qué amable!
+¡Achhakáu!	¡Qué dolor!
+¡Akhakháu!	¡Qué calor!
+¡Alaláu!	¡Qué frío!
+¡Ananay!	¡Qué cansancio!
+¡Atatáu!	¡Qué feo!
+Munayki.	Te deseo. 
+Munakuyki.	Te quiero.
+Llamkaniku. 	trabajamos.
+Lamkanku.	Ellos trabajan.
+Riman.	Ella habla.
+Kuyasunki.	El te quiere. 
+Kuyawan.	Ella me ama.
+Kuyawanki.	Me quieres.
+Kuyayki.	Te quiero.
+Rupapakuy. 	Tener fiebre.
+Huktawan.	Una vez más.
+Wiñaypaq.	Por siempre.
+¿Hakuchu?	¿Podemos ir?
+Millakuy.	asco.
+Yupaychay.	Respetar.
+Laway.	Preparar lawa.
+Lima.	Lima.
+Limachi.	Limachi.
+May law.	Qué lado.
+Mayu.	Mayo.
+Pidru.	 Pedro.
+Qawana.	Qawana.
+Titikaka.	Titicaca.
+Warku.	Ochenta centavos.
+¡Ananallaw!	¡Qué dolor!
