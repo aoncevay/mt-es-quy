@@ -1079,7 +1079,7 @@ Hatun llaqtakunapiqa, sisi hinañam karukuna muyunku.	En ciudades grandes los ca
 Suni llañuniq kullu imapaqpas aptapaslla.	Madera larga poco delgada y fácil de manipularla.
 Huk kaspita kallmaykusaq kay sachamanta, chaywan takyapakukspa purinaypaq.	Quebraré un palo de este árbol, para caminar apoyándome en él.
 Puchka tullu.	Varilla de hilar.
-Qapaq waminqa iskay kuti Piruw llaqta umanchaq (1845-1851. 1854-1862).	Nombre de un General que fue presidente del Perú de 1845 a 1851 y de 1854 a 1862.
+Qapaq waminqa iskay kuti Piruw llaqta umanchaq (1845-1851854-1862).	Nombre de un General que fue presidente del Perú de 1845 a 1851 y de 1854 a 1862.
 Tukuchirqa Puruwpi millay runa kumuyta.	El abolió la esclavitud en el Perú.
 Paymi paqarirqa 1797, wañukurqa 1867.	Vivió entre 1797 y fallecio en 1867.
 Ramun Kastillaqa kumusqa runakunatam qispichirqa.	Ramón Castilla liberó a los esclavos.
@@ -1399,7 +1399,7 @@ Allqu qichurqun misipa mikunanta.	El perro le quitó la comida al gato.
 “Ama suwa, ama qilla, ama llulla,” nispam inkakunaqa kawsakuqku.	“No seas ladrón, no seas perezoso, no seas mentiroso,” fue el principio bajo el cual los inkas vivieron.
 ¿Imanasqaraq kay warmaqa qillakun chakra riyta?.	¿Me pregunto por qué este muchacho tendrá pereza de ir a la chacra?.
 Wak sumaq sachakunata, waytakunata qillqarqusaq pirqapi.	Dibujaré en la pared esos bonitos árboles y flores.
-Mansana pukay-pukaycha, / rurasnu qilluy- qilluycha. / Pipaqraq  pukayallachkanki, / pipaqraq qilluyallachkanki.	Manzana muy roja, / durazno muy amarillo. / Para quién maduras (te pones roja) / para quién maduras (te pones amarillo).
+Mansana pukay-pukaycha, / rurasnu qilluyqilluycha. / Pipaqraq  pukayallachkanki, / pipaqraq qilluyallachkanki.	Manzana muy roja, / durazno muy amarillo. / Para quién maduras (te pones roja) / para quién maduras (te pones amarillo).
 Wak llaqtapa qipanpi huk hatun qucha kan.	Hay un lago grande detrás de ese pueblo.
 “Las dusta hamusaq” niwarqa, ñataq dus midyaña; payqa hinam qipan.	“Vendré a las dos,” me dijo pero ya son las dos y media; él siempre se hace tarde.
 Kay qipiqa llumpay llasaq kasqa, manam qipiyta atiymanchu.	Esta carga es muy pesada, no creo que podría llevarla.
@@ -3832,4 +3832,987 @@ Yuraq titiqa allin mikuykuna waqaychanapaq.	Los envases de estaño es bueno para
 Mulli yurata machitiwan kuchumunku.	Cortan la planta de molle con el machete.
 Yututa tuqllarqusun.	Vamos a atrapar las perdices.
 Yuyaysapam wakin yachachiqkunaqa.	Algunos profesores tienen buena memoria.
+Warma kaspam rurasqanta yuyan.	Recuerda todo lo que hizo siendo niño.
+Abrahanmi karqa Isaacpa taytan.	Abrahán fue padre de Isaac.
+Isaacñataq Jacobpa taytan.	Isaac fue padre de Jacob.
+Jacobpas karqa Judapawan wawqenkunapa taytanmi.	Jacob fue padre de Judá y de sus hermanos.
+Salomonmi karqa Roboampa taytan.	Salomón fue padre de Rehoboam.
+Roboamñataq Abiaspa taytan.	Rehoboam fue padre de Abías.
+Abiasñataqmi karqa Asapa taytan.	Abías fue padre de Asá.
+Uziasmi karqa Jotampa taytan.	Uzías fue padre de Jotán.
+Jotamñataq Acazpa taytan.	Jotán fue padre de Acaz.
+Acazñataqmi karqa Ezequiaspa taytan.	Acaz fue padre de Ezequías.
+Tukuy kaykunam pasakurqa Diosmanta willakuqpa kayna nisqan cumplikunanpaq.	Todo esto de hecho pasó para que se cumpliera lo que Jehová había dicho por medio de su profeta.
+Zorobabelmi karqa Abiudpa taytan.	Zorobabel fue padre de Abiud.
+Abiudñataq Eliaquimpa taytan.	Abiud fue padre de Eliaquim.
+Eliaquimñataqmi karqa Azorpa taytan.	Eliaquim fue padre de Azor.
+Qari wawatam wachakunqa.	Ella dará a luz un hijo.
+paytam sutichanki Jesuswan.	y tienes que llamarlo Jesús.
+paymi runankunata salvanqa huchankumanta.	él salvará a su pueblo de sus pecados.
+Abrahanmi karqa Isaacpa taytan.	Abrahán fue padre de Isaac.
+Isaacñataq Jacobpa taytan.	Isaac fue padre de Jacob.
+Jacobpas karqa Judapawan wawqenkunapa taytanmi.	Jacob fue padre de Judá y de sus hermanos.
+Ichaqa manam kuskachu puñurqaku wawan wachakunankama.	Pero no tuvo relaciones sexuales con ella hasta que ella dio a luz al niño.
+wachakuruptinñam suticharqa Jesuswan.	cuando dió a luz lo llamó Jesús.
+Puñusqanmanta rikcharispanmi Josey.	Cuando José despertó.
+rurarqa angelpa kamachisqanta hina.	hizo lo que el ángel de Jehová le había mandado.
+hinaspam Mariawan casarakurqa.	entonces se casó con María.
+Asam karqa Josafatpa taytan.	Asá fue padre de Jehosafat.
+Josafatñataq Jorampa taytan.	Jehosafat fue padre de Jehoram.
+Joramñataqmi karqa Uziaspa taytan.	Jehoram fue padre de Uzías.
+Azormi karqa Sadocpa taytan.	Azor fue padre de Sadoc.
+Sadocñataq Aquimpa taytan.	Sadoc fue padre de Aquim.
+Aquimñataqmi karqa Eliudpa taytan.	Aquim fue padre de Eliud.
+Eliudmi karqa Eleazarpa taytan.	Eliud fue padre de Eleazar.
+Eleazarñataq Matanpa taytan.	Eleazar fue padre de Mattán.
+Matanñataqmi karqa Jacobpa taytan.	Mattán fue padre de Jacob.
+Doncellam wiksayakuruspan wachakunqa qari wawata.	La virgen quedará embarazada y dará a luz un hijo.
+Emanuel nispam sutichanqaku chay wawata.	aquel niño lo llamarán Emmanuel.
+Kayqa Diosmi ñuqanchikwan ninanmi.	que quiere decir Dios con nosotros.
+Ram karqa Aminadabpa taytan.	Ram fue padre de Aminadab.
+Jesucristopa nacekusqanqa kaynam karqa.	así fue el nacimiento de Jesucristo.
+Mariam Joseywan casarakunanpaq rimapayasqaña karqa.	María estaba comprometida para casarse con José.
+manaraq kuska kachkaptinkum Maria wiksayakururqa Chuya Espiritupa.	pero antes de que se unieran quedó embarazada por espíritu.
+Yachay wasinchikta achalasun.	Adornemos nuestra escuela.
+Achanqaray rapichawan achalasun.	Adornemos con hojitas de begonia.
+Achikyay chayaramunña.	Ya llegó el amanecer.
+Hawkallam achikyaniku.	Hemos amanecido tranquilos.
+Achuwiti rantiqmi, warma, rinki.	Niño, tienes que ir a comprar achiote.
+Runapa chiwchintam achuqalla tukurquchkanña.	La comadreja ya está exterminando los pollitos de la gente.
+Payqa achuqcha uchuchata ruran.	El o ella prepara ají de caigua.
+Akaqa millaytam asnan.	El excremento huele horrible.
+Achka tunasta mikuspaqa manam hamkata mikunachu, aka kichkim hapikun.	Cuando se come harta tuna, no se debe consumir cancha, pues puede darnos estreñimiento.
+Akaklluhinam qaqata tuquchkanki.	Estás cavando en el abismo como el pito.
+Ama akatanqahina akata kurpachiychu.	No hagas rodar el excremento como el escarabajo.
+Manam wasi punkupiqa akanachu.	No se debe defecar en la puerta de la casa.
+Tutanqa akchiwanmi mikuna.	En la noche se debe comer con luz.
+Wak akllaqa sumaqcham kachkan.	Qué bonita está esa mujer escogida.
+Papata akllay, Markuscha.	Marcos, escoge la papa.
+Uqa allaqmi risaqku.	Iremos a escarbar la oca.
+Awqanchikwan allinpasun.	Amistemos con nuestro enemigo.
+Alliq makiwanmi yaqa lliw runakuna mikunchik.	La mayoría de la gente come con la mano derecha.
+Runakunapa alliqninqa yarupasqam.	Los derechos del hombre son ignorados.
+Allpa mana kaptinqa, manayá ima sachapas wiñanmanchu.	No crecería ningún árbol si no hubiera tierra.
+Allqa pachayuqkuna pukllachkanku.	Los que están vestidos de blanco y negro están jugando.
+Allqutaqa wasi qawananpaqmi uywanku.	Al perro se le cría para que cuide la casa.
+Kay allwinaqa pakikurqusqam.	Esta urdidera se había roto.
+Alwirqas pikantita yanurukuychik.	Preparen un picante de arvejas.
+Allqu maqanakuqta amachanku	Separan a los perros que se pegan.
+Anacha ninata amachan.	Anita apaga la candela.
+Wawaypa amaninta maskachkani.	Estoy buscado la nodriza de mi hijo.
+Amaruqa wañuchiq hampiyuqmi, amam asuykunachu.	La serpiente es venenosa, no nos debemos acercar.
+Ama piwanpas maqachikuychu, amatakuy.	No permitas que alguien te golpee, impídelo.
+Amu warmataqa manam pinqachinachu.	No se debe avergonzar al niño mudo.
+Kiru nanaypaqqa kachi yakutam amuna.	Para el dolor de muelas es bueno retener en la boca agua con sal.
+Anchaq kurum pinchi killa.	La luciérnaga es un insecto luminoso.
+¿Imamantam anchinki?	¿Por qué suspiras?
+Suwa ankam chiwchichayta aparqun.	El gavilán ladrón se llevó a mi pollito.
+1Machu uywakunapa aychanqa anku ankum.	La carne de animales viejos es muy dura.
+Ankuy nanawachkan.	Me está doliendo el tendón.
+Anqas waratam llikisqaku.	Habían roto un pantalón azul.
+Taytayqa anta minapim llamkan.	Mi padre trabaja en la mina de cobre.
+Anta rikukuptinqa, muchuymi kanqa.	Cuando aparece el celaje significa que habrá hambruna.
+Antaraqa llakitam waqan.	La zampoña suena triste.
+Allqum suwata anyachkan.	El perro está ladrando al ladrón.
+Añas ispayninwan amachakun.	El zorrino se defiende con su orina.
+Pipas yanapasuptiykiqa, añaychakuy.	Si alguien te ayuda, agradécele.
+Apachitaman chayaspanku puriqkuna rumichata churaykunku.	Llegando al abra los caminates dejan piedras.
+Wak apanquraqa manam kachukunchu.	Esa araña grande no muerde.
+Apasankay kachusuptiykiqa punkipakuwaqmi.	Si te mordiera la tarántula puede darte inflamación.
+Yachay wasiman quqawniykita apay.	Lleva a la escuela tu fiambre.
+Apaychakchaqa allpa pirqakunapi wasichakun.	Las avispas construyen sus casas en las paredes de tierra.
+Kalawasa apita hawan simana yanusun.	La próxima semana vamos a preparar mazamorra de calabaza.
+Apichuqa qillupas pukapas kullipas yuraqpas kanmi.	Hay camotes de color de amarillo, rojo, morado y blanco.
+Sapa punchawmi aptisqa makinta qawachiwan.	Todo los días me hace ver sus puños.
+Apu Rasuwillkaqa apu Sara Sarawan rimanakunmi.	El dios tutelar Razuhuillca y el Sara Sara conversan entre ellos.
+Qinchu Sunchu Aylluqa llumpay apukunam.	La familia Qinchu Sunchu es muy poderosa.
+Tunas aqachata upyaykusun.	Bebamos chichita de tuna.
+Sara aqallpachawan lawakurqusun.	Preparemos una sopita de maíz molido.
+Tarpuytam aqaruway pasaypaqta tukurqun.	La langosta terminó por completo el sembrío.
+Aqchi waka akapi kuruchakunata maskaspa mikun.	El milano come buscando los gusanos que se encuentra en el excremento de la vaca.
+Huk kilu kuchinillapi ¿hayka aqnutaq kan?.	¿Cuántos gramos hay en un kilo de cochinilla?
+Sumaq aqsuta rantirqusqanki.	Habías comprado una túnica hermosa.
+Aquta huñukusun rantikunanchikpaq.	Reunamos la arena para vender.
+Ayakuchupi ayllupa kawsaynin aranwata qawakusun.	Veamos la comedia sobre la vida de la familia ayacuchana.
+Amawtanchikqa aranwaychatam sumaqta takin.	Nuestro profesor canta bien la canción jocosa.
+Allinlla kawsayta munaspaqa sapa punchaw armakuy.	Si quieres vivir sano, báñate todos los días.
+Aranwaywanqa asinchikmi.	Nos reímos con las canciones jocosas.
+Askankupa wasanqa kichkallañam.	El lomo del erizo es espinoso.
+Rusas waytaqa sumaq asnayuqmi.	La rosa tiene un olor aromático.
+Chay lawaman asnapata hinaykuy.	Ponle yerbas aromáticas a esa sopa.
+Asnaq chakikita mayllikuy.	Lava tus pies malolientes.
+Qam miskichata asnanki.	Tú hueles rico.
+Asnu hawchityamuchkan.	El burro está rebuznando.
+Wak maqtataqa asnu ninkum.	A ese muchacho le dicen burro.
+Wasi ruranankupaq rumita astanku.	Ellos acarrean piedras para construir la casa.
+Atipaqta qipisun.	Carguemos al vencedor.
+Runaqa pitapas atipayta munan.	El hombre quiere ganar a todos.
+Wayrapa atiyninqa manchakuypaqmi.	El poder del viento causa miedo.
+Atiy atiy qipiyuqmi rirqani.	Yo he ido sobrecargado.
+Atuqñataq wallpaykita suwarqunman.	Cuidado que el zorro se lleve tu gallina.
+Atuq atuq ullurquwaptinchikqa qanchis rikchaq waytawansi qaqukurquna.	Si te pica el alacrán frótate con siete clases de flores.
+Ñawpaq runakunaqa sumaqchatam pachakunata awarqanku.	Nuestros antepasados tejían muy bien las ropas.
+Wakin runaqa yachay wasipa awqanmi.	Algunos hombres son enemigos de la escuela.
+Pampana wasiman ayata apanku.	Llevan el cadáver al cementerio.
+Aya uyayuq sipas kinraypi sayachkan.	La señorita de cara pálida está parada en la esquina.
+Allqu aychataqa manam mikunchikchu.	Nosotros no comemos la carne de perro.
+Aylluykita riqsichiway.	Preséntame a tu familia.
+Ayniqa ama chinkachunchu.	Que no desaparezca el trabajo recíproco.
+Yachay wasimantaqa manam ayqinachu.	No se debe escapar de la escuela.
+Warma unkunawan yakuta aysan.	El niño lleva agua en balde.
+Wawahina aysakuchkan.	Está reptando como el bebé.
+Makiykita aywiy.	Enjuágate las manos.
+Warmata qatuman rinanpaq kachay.	Envía para que el niño vaya al mercado.
+Tumaspa wasinpim kacharpariy kachkan.	En la casa de Tomás hay una despedida.
+Kachita waka llaqwachkan.	La vaca está lamiendo la sal.
+¡Kachi kachicháy quri rapracháy!, ¿pich chayamunqa?	¡Libelulita alas de oro!, ¿quién llegará?
+Mutita kachukusun.	Comamos mote.
+Asnupa kakichun pakirqukusqa.	La quijada del burro se había roto.
+Saksaruspam kakyakuykun.	Al saciarse eructó.
+Llullu kalawasata chupinkichik.	Van a preparar sopa de calabaza tierna.
+Kallanata rantirqamuni.	Compré una tostadera.
+Kallapapim millwata wankinku.	Envuelven la lana en la rueca.
+Paykunaqa alwirhas kallchaypim kachkanku.	Ellos está en la cosecha de arvejas.
+Mullipa kallman manam llasanchu.	Las ramas del molle no pesan.
+Kallpasapa warmi chayamurqa.	Una mujer forzuda llegó.
+Pay runakunata kallpachan.	Él fortalece a las personas.
+Chay kamachiq suwa suwa kasqa.	Esa autoridad había sido ladronísima.
+Llaqta kamachiq allinta kamachichkan.	La autoridad del pueblo está gobernando bien.
+Llaqtapa kamachinanta uyarispaqa allintam kawsasun.	Si actuamos conforme a las normas del pueblo conviviremos bien.
+Payqa nisyutam runa masinta kamin.	El insulta demasiado a su compañero.
+Manam sachata kañanachu.	No hay que quemar los árboles.
+Chitapa kanchanta rurasun.	Hagamos el corral de las ovejas.
+Allqu suwata kanirqun.	El perro mordió al ladrón.
+Kuchi kankaqa miskillañam.	El asado de chancho es riquísimo.
+Kaqu unquywanmi kachkani.	Estoy con la enfermedad del beriberi.
+Karkawan ninata qullinku.	Con la bosta se conserva la brasa.
+Karum Lima llaqtaqa.	La ciudad de Lima queda lejos.
+Kuraq wawqiymi mincha kasarakunqa.	Mi hermano mayor se casará pasado mañana.
+Ama kaspiwan wakata maqaychu.	No golpees a la vaca con el palo.
+Tayta mamanchiktaqa kasukunam.	Hay que obedecer a nuestros padres.
+Chukchuwanmi katatatachkan.	Está temblando con el paludismo.
+¡Huk kawata rantikuway!	¡Véndeme una madeja!
+Qalallapim kawalluyman sillani.	Monto mi caballo en pelo.
+Kawituqa allichanam.	El catre está para arreglar.
+Mamayqa yana qaytutam kawpuchkan.	Mi mamá está torciendo lana negra gruesa.
+Huk ayas kawsarirqun.	Dicen que un difunto ha resucitado.
+Kay pachapi llakisqahinam runa kawsan	La gente vive entristecida en esta vida.
+Kawsayta ama usuchiychu, waqanmi.	No desperdicies los alimentos, ellos lloran.
+Kawsuchawan ullukuta allarquy.	Escarba el olluco con el escarbador.
+Kay yana kuchi.	Este chancho negro.
+Allin kay.	Estar bien.
+Kaya yanuytam qaraykusqa.	Le había servido caya sancochada.
+Kayllapim yachay wasiyqa.	Mi escuela está cerca.
+Kayra chupiqa allinmi qaliyanapaq.	El caldo de rana es bueno para sanar.
+Ñanllayta kichay; maykamapas risaqmi.	Sólo abre mi camino; iré donde sea.
+Tunaspa kichkanwan uruchakunata tipasun.	Con espinas de tuna haremos nuestro insectario.
+Kichki ñanpi tuparqunchik.	Nos encontramos en un camino estrecho.
+Kichpan tiqtiqa ancha sumaqmi.	El hígado frito es muy bueno.
+Kamachikuqkunam runakunata kikinchachkanku.	Las autoridades están identificando a las personas.
+Sipasqa kikuchkasqam.	La muchacha estaba menstruando.
+Killa wañuchkanña.	La luna está entrando al cuarto menguante.
+Sapa killam wasi masiy kutimun.	Mi vecino retorna cada mes.
+Kaypim killimsawan qillqasaq.	Aquí escribiré con el carbón.
+Chachasmantam killimsata rurachkani.	Estoy haciendo carbón de chachacoma.
+Killinchu uywakusqaytam allqu manchachin.	El perro asustó al cernícalo que crío.
+Wakaykiqa kinraytam chinkaykun.	Tu vaca se perdió en el horizonte.
+Kinwata tarpukusun.	Cultivemos la quinua.
+Paskasun kay kiputa.	Desatemos este nudo.
+Kipupim Inkakuna yachayninta taqiqku.	Los Incas guardaron sus saberes en el Quipu.
+Yantata kipuy mana wichinanpaq.	Amarra la leña para que no caiga.
+Kiriy nanawachkan.	Me duele mi herida.
+Kirkinchu piskaqa rumiy rumi waqram.	La bolsa del armadillo es dura como el cuerno.
+Chay kirpanata maylliy.	Lava esa tapadera.
+Pirqapa uchkunkunata mituwan kirpay.	Tapen los huecos de la pared con barro.
+Kirunchiktaqa puñunapaqmi aywina.	Antes de dormir debemos lavar nuestros dientes.
+Awilaymi kispiñuta llukiykamuwan.	Mi abuela me ha invitado panecillos.
+¿Kisu tiqtita mikurqankichu?	¿Has comido queso frito?
+Kiswartaña yantarqusun.	Hagamos leña de quishuar.
+Karka papata kituy.	Limpia la papa sucia.
+Tarpunapaq papapa sapichankunata kituy.	Quiten las raíces de la papa para sembrarlas.
+Allin yuyaysapa kanapaq kiwichata mikusun.	Comamos quihuicha para tener buena memoria.
+Kuchita nakakusun.	Degollemos el chancho.
+Rumi kuchpakamuchkan.	La piedra está rodando.
+Uywata kuchpaykuy	Tumba al animal.
+Kuchusninta llaqllarukusqa.	Se había desollado el codo.
+Allichananpaq kuchusta apan.	Lleva el ángulo para que guarde.
+Sansapi kankanapaq aychata kuchuykuy.	Corta la carne para asar en la brasa.
+Kukulikunaqa sumaqtam kuyanakunku.	Las torcazas se cuidan muy bien.
+Chay kullanchata challwanapaq apasun.	Llevaremos esa red para pescar.
+Kulli saramanta aqakurqusun.	Preparemos chicha de maíz morado.
+Parischanwanmi kullku purin.	La tórtola anda de par en par.
+Wak kulluta yantarqusun.	Hagamos leña de ese tronco.
+Pinqakuspanqa uman kumusqan purin.	Al avergonzarse camina con la cabeza agachada.
+¡Amawtapas manam kumuchisunkimanchu!	¡Ni aún el profesor te debe humillar!
+Kunanmi qillqa likayta yachachisqayki.	Ahora te voy a enseñar a leer un texto.
+Kunkasapa llamata puquchisun.	Engordemos a la llama de cuello largo.
+Kuntur muyuchkan wañusqa uywata.	El cóndor está dando vueltas buscando animales muertos.
+¡Kuraq churiyta qayarqamuy!	¡Llama a mi hijo mayor!
+Wak runaqa yurisqanmantapunim kurku.	Ese señor es jorobado de nacimiento.
+Kurnitata warmakuna waqachin.	Los niños tocan la trompeta.
+Kurpawanqa amam chamqanakunachu.	No hay que tirarse con terrones.
+Mamaymi kisilluta kurpan.	Mi madre hace quesillo.
+Papa kurutaqa wañuchinam.	Hay que eliminar los gusanos de la papa.
+Tawa kururmi punchuykipaq kanman.	Cuatro ovillos alcanzan para tu poncho.
+Puka qaytuta kururaychik.	Ovillen el hilo rojo.
+Allin kasqaykiwan anchata kusikuni.	Me alegro mucho con tu bienestar.
+Kusiy pacha.	Tiempos de alegría.
+Sara kutata rantikusun.	Vamos a vender maíz molido.
+Chuqlluta kutasun humintapaq.	Vamos a moler el choclo para hacer humitas.
+Kuti chukcha warmachatam rikurqamuni.	He visto un niñito crespo.
+Takipi kuti niptinqa iskay kutim takinki.	Si en la canción dice «kuti» entonarás dos veces.
+Llamkayninkuta kutichinakunku.	Se devuelven el favor que se hicieron en el trabajo.
+Manam warmakunaqa tayta mamanta kutipakunanchu.	Los hijos no deben rebelarse contra sus padres.
+Llumpay maqasqa allquqa kutipakunmi.	Si el perro es muy maltratado tiende a defenderse.
+¡Maypiña kaspapas kutimuy!.	¡De donde estés regresa!
+Ukucham sarata kutkuchkan.	El ratón está royendo el maíz.
+Mincham kututukunata mana maqanakunanpaq rakisun.	Pasado mañana separaremos a los cuyes.
+Ichu ichupi samariq puyu.	Nube que descansas entre las pajas.
+Papata ikachkay yanukunanchikpaq.	Anda picando la papa para cocinar.
+Mulli yapamanta ikllirqamusqa.	El molle nuevamente había brotado.
+Inchikta uchu kutapaq hamkarquy.	Tuesta el maní para ají molido.
+Inka Pachakutiqqa Tawantinsuyu llaqtata wiñachirqa.	El Inca Pachacútec expandió el territorio del Tahuantinsuyo.
+Tayta Urqupipas iñinim.	También creo en el Cerro.
+¡Mana inti kaptin, imaynaraq kachwan!	¡Cómo estaríamos si no hubiera sol!
+Inkakunaqa inti watanapim pachata qawasqaku.	Los incas controlaban el tiempo en el inti huatana.
+Qillqaypiqa amawtam lliwta ipawanku.	El profesor nos gana escribiendo a todos.
+Ipu parachapas nuyukuntaqmi.	La garúa también moja.
+Panamitutam kanan irasun.	Hoy vamos a trillar el panamito.
+Irqikuna yachay wasiman rinku.	Los niños van a la escuela.
+Wakaqa waylla ichuta mikuchkan.	Las vacas están comiendo paja brava.
+Isankapi tunasta pallasun.	Cojamos tunas en la canasta.
+Ischu ischupi samariq puyu.	Nube que descansa entre los ichus.
+Yachay wasinchikta iskuwan llusirqusun.	Vamos a tarrajear con yeso nuestra escuela.
+¡Muruchu sarata iskurqaysimuway!	¡Ayúdame a desgranar maíz morocho!
+Rupaywan aycha ismurqusqa.	La carne se había podrido con el sol.
+Ispanay nanawachkan.	Me duele el aparato urinario.
+Ispanamam runa richkan.	La gente va al urinario.
+Uywapa ispaynin wanupaq allinmi.	El excremento del animal es bueno para abono.
+Ispakarqamusaq hawapi.	Voy a orinar afuera. 
+Mastasqa istirapi puñunata allichanku.	Arreglan la cama sobre la estera tendida.
+Makiypi qiyata istirqusaq.	Punzaré la pus de mi mano.
+Maki wañuptinqa itañawanmi qaquna.	Cuando la mano se entumece hay que frotarla con ortiga.
+Alliqninku qawasqa kananpaq mañanku.	Reclaman para que sus derechos sean respetados.
+Mana amawtata quwaptinchikqa huqarikuymi kanqa.	Si no nos envía un maestro habrá levantamiento.
+Ichu ichupi samariq puyu.	Nube que descansas entre las pajas.
+Papata ikachkay yanukunanchikpaq.	Anda picando la papa para cocinar.
+Mulli yapamanta ikllirqamusqa.	El molle nuevamente había brotado.
+Inchikta uchu kutapaq hamkarquy.	Tuesta el maní para ají molido.
+Inka Pachakutiqqa Tawantinsuyu llaqtata wiñachirqa.	El Inca Pachacútec expandió el territorio del Tahuantinsuyo.
+Tayta Urqupipas iñinim.	También creo en el Cerro.
+¡Mana inti kaptin, imaynaraq kachwan!	¡Cómo estaríamos si no hubiera sol!
+Inkakunaqa inti watanapim pachata qawasqaku.	Los incas controlaban el tiempo en el inti huatana.
+Qillqaypiqa amawtam lliwta ipawanku.	El profesor nos gana escribiendo a todos.
+Ipu parachapas nuyukuntaqmi.	La garúa también moja.
+Panamitutam kanan irasun.	Hoy vamos a trillar el panamito.
+Irqikuna yachay wasiman rinku.	Los niños van a la escuela.
+Wakaqa waylla ichuta mikuchkan.	Las vacas están comiendo paja brava.
+Isankapi tunasta pallasun.	Cojamos tunas en la canasta.
+Ischu ischupi samariq puyu.	Nube que descansa entre los ichus.
+Yachay wasinchikta iskuwan llusirqusun.	Vamos a tarrajear con yeso nuestra escuela.
+¡Muruchu sarata iskurqaysimuway!	¡Ayúdame a desgranar maíz morocho!
+Rupaywan aycha ismurqusqa.	La carne se había podrido con el sol.
+Ispanay nanawachkan.	Me duele el aparato urinario.
+Ispanamam runa richkan.	La gente va al urinario.
+Uywapa ispaynin wanupaq allinmi.	El excremento del animal es bueno para abono.
+Ispakarqamusaq hawapi.	Voy a orinar afuera.
+Mastasqa istirapi puñunata allichanku.	Arreglan la cama sobre la estera tendida.
+Makiypi qiyata istirqusaq.	Punzaré la pus de mi mano.
+Maki wañuptinqa itañawanmi qaquna.	Cuando la mano se entumece hay que frotarla con ortiga.
+Alliqninku qawasqa kananpaq mañanku.	Reclaman para que sus derechos sean respetados.
+Mana amawtata quwaptinchikqa huqarikuymi kanqa.	Si no nos envía un maestro habrá levantamiento.
+Warmata qatuman rinanpaq kachay.	Envía para que el niño vaya al mercado.
+Tumaspa wasinpim kacharpariy kachkan.	En la casa de Tomás hay una despedida.
+Kachita waka llaqwachkan.	La vaca está lamiendo la sal.
+¡Kachi kachicháy quri rapracháy!, ¿pich chayamunqa?	¡Libelulita alas de oro!, ¿quién llegará?
+Mutita kachukusun.	Comamos mote.
+Asnupa kakichun pakirqukusqa.	La quijada del burro se había roto.
+Saksaruspam kakyakuykun.	Al saciarse eructó.
+Llullu kalawasata chupinkichik.	Van a preparar sopa de calabaza tierna.
+Kallanata rantirqamuni.	Compré una tostadera.
+Kallapapim millwata wankinku.	Envuelven la lana en la rueca.
+Paykunaqa alwirhas kallchaypim kachkanku.	Ellos está en la cosecha de arvejas.
+Mullipa kallman manam llasanchu.	Las ramas del molle no pesan.
+Kallpasapa warmi chayamurqa.	Una mujer forzuda llegó.
+Pay runakunata kallpachan.	Él fortalece a las personas.
+Chay kamachiq suwa suwa kasqa.	Esa autoridad había sido ladronísima.
+Llaqta kamachiq allinta kamachichkan.	La autoridad del pueblo está gobernando bien.
+Llaqtapa kamachinanta uyarispaqa allintam kawsasun.	Si actuamos conforme a las normas del pueblo conviviremos bien.
+Payqa nisyutam runa masinta kamin.	El insulta demasiado a su compañero.
+Manam sachata kañanachu.	No hay que quemar los árboles.
+Chitapa kanchanta rurasun.	Hagamos el corral de las ovejas.
+Allqu suwata kanirqun.	El perro mordió al ladrón.
+Kuchi kankaqa miskillañam.	El asado de chancho es riquísimo.
+Kaqu unquywanmi kachkani.	Estoy con la enfermedad del beriberi.
+Karkawan ninata qullinku.	Con la bosta se conserva la brasa.
+Karum Lima llaqtaqa.	La ciudad de Lima queda lejos.
+Kuraq wawqiymi mincha kasarakunqa.	Mi hermano mayor se casará pasado mañana.
+Ama kaspiwan wakata maqaychu.	No golpees a la vaca con el palo.
+Tayta mamanchiktaqa kasukunam.	Hay que obedecer a nuestros padres.
+Chukchuwanmi katatatachkan.	Está temblando con el paludismo.
+¡Huk kawata rantikuway!	¡Véndeme una madeja!
+Qalallapim kawalluyman sillani.	Monto mi caballo en pelo.
+Kawituqa allichanam.	El catre está para arreglar.
+Mamayqa yana qaytutam kawpuchkan.	Mi mamá está torciendo lana negra gruesa.
+Huk ayas kawsarirqun.	Dicen que un difunto ha resucitado.
+Kay pachapi llakisqahinam runa kawsan	La gente vive entristecida en esta vida.
+Kawsayta ama usuchiychu, waqanmi.	No desperdicies los alimentos, ellos lloran.
+Kawsuchawan ullukuta allarquy.	Escarba el olluco con el escarbador.
+Allin kay.	Estar bien.
+Kaya yanuytam qaraykusqa.	Le había servido caya sancochada.
+Kayllapim yachay wasiyqa.	Mi escuela está cerca.
+Kayra chupiqa allinmi qaliyanapaq.	El caldo de rana es bueno para sanar.
+Ñanllayta kichay; maykamapas risaqmi.	Sólo abre mi camino; iré donde sea.
+Tunaspa kichkanwan uruchakunata tipasun.	Con espinas de tuna haremos nuestro insectario.
+Kichki ñanpi tuparqunchik.	Nos encontramos en un camino estrecho.
+Kichpan tiqtiqa ancha sumaqmi.	El hígado frito es muy bueno.
+Kamachikuqkunam runakunata kikinchachkanku.	Las autoridades están identificando a las personas.
+Sipasqa kikuchkasqam.	La muchacha estaba menstruando.
+Killa wañuchkanña.	La luna está entrando al cuarto menguante.
+Sapa killam wasi masiy kutimun.	Mi vecino retorna cada mes.
+Kaypim killimsawan qillqasaq.	Aquí escribiré con el carbón.
+Chachasmantam killimsata rurachkani.	Estoy haciendo carbón de chachacoma.
+Killinchu uywakusqaytam allqu manchachin.	El perro asustó al cernícalo que crío.
+Wakaykiqa kinraytam chinkaykun.	Tu vaca se perdió en el horizonte.
+Kinwata tarpukusun.	Cultivemos la quinua.
+Paskasun kay kiputa.	Desatemos este nudo.
+Kipupim Inkakuna yachayninta taqiqku.	Los Incas guardaron sus saberes en el Quipu.
+Yantata kipuy mana wichinanpaq.	Amarra la leña para que no caiga.
+Kiriy nanawachkan.	Me duele mi herida.
+Kirkinchu piskaqa rumiy rumi waqram.	La bolsa del armadillo es dura como el cuerno.
+Chay kirpanata maylliy.	Lava esa tapadera.
+Pirqapa uchkunkunata mituwan kirpay.	Tapen los huecos de la pared con barro.
+Kirunchiktaqa puñunapaqmi aywina.	Antes de dormir debemos lavar nuestros dientes.
+Awilaymi kispiñuta llukiykamuwan.	Mi abuela me ha invitado panecillos.
+¿Kisu tiqtita mikurqankichu?	¿Has comido queso frito?
+Kiswartaña yantarqusun.	Hagamos leña de quishuar.
+Karka papata kituy.	Limpia la papa sucia.
+Tarpunapaq papapa sapichankunata kituy.	Quiten las raíces de la papa para sembrarlas.
+Allin yuyaysapa kanapaq kiwichata mikusun.	Comamos quihuicha para tener buena memoria.
+Kuchita nakakusun.	Degollemos el chancho.
+Rumi kuchpakamuchkan.	La piedra está rodando.
+Uywata kuchpaykuy	Tumba al animal.
+Kuchusninta llaqllarukusqa.	Se había desollado el codo.
+Allichananpaq kuchusta apan.	Lleva el ángulo para que guarde.
+Sansapi kankanapaq aychata kuchuykuy.	Corta la carne para asar en la brasa.
+Kukulikunaqa sumaqtam kuyanakunku.	Las torcazas se cuidan muy bien.
+Chay kullanchata challwanapaq apasun.	Llevaremos esa red para pescar.
+Kulli saramanta aqakurqusun.	Preparemos chicha de maíz morado.
+Parischanwanmi kullku purin.	La tórtola anda de par en par.
+Wak kulluta yantarqusun.	Hagamos leña de ese tronco.
+Pinqakuspanqa uman kumusqan purin.	Al avergonzarse camina con la cabeza agachada.
+¡Amawtapas manam kumuchisunkimanchu!	¡Ni aún el profesor te debe humillar!
+Kunanmi qillqa likayta yachachisqayki.	Ahora te voy a enseñar a leer un texto.
+Kunkasapa llamata puquchisun.	Engordemos a la llama de cuello largo.
+Kuntur muyuchkan wañusqa uywata.	El cóndor está dando vueltas buscando animales muertos.
+¡Kuraq churiyta qayarqamuy!	¡Llama a mi hijo mayor!
+Wak runaqa yurisqanmantapunim kurku.	Ese señor es jorobado de nacimiento.
+Kurnitata warmakuna waqachin.	Los niños tocan la trompeta.
+Kurpawanqa amam chamqanakunachu.	No hay que tirarse con terrones.
+Mamaymi kisilluta kurpan.	Mi madre hace quesillo.
+Papa kurutaqa wañuchinam.	Hay que eliminar los gusanos de la papa.
+Tawa kururmi punchuykipaq kanman.	Cuatro ovillos alcanzan para tu poncho.
+Puka qaytuta kururaychik.	Ovillen el hilo rojo.
+Allin kasqaykiwan anchata kusikuni.	Me alegro mucho con tu bienestar.
+Kusiy pacha.	Tiempos de alegría.
+Sara kutata rantikusun.	Vamos a vender maíz molido.
+Chuqlluta kutasun humintapaq.	Vamos a moler el choclo para hacer humitas.
+Kuti chukcha warmachatam rikurqamuni.	He visto un niñito crespo.
+Takipi kuti niptinqa iskay kutim takinki.	Si en la canción dice «kuti» entonarás dos veces.
+Llamkayninkuta kutichinakunku.	Se devuelven el favor que se hicieron en el trabajo.
+Manam warmakunaqa tayta mamanta kutipakunanchu.	Los hijos no deben rebelarse contra sus padres.
+Llumpay maqasqa allquqa kutipakunmi.	Si el perro es muy maltratado tiende a defenderse.
+¡Maypiña kaspapas kutimuy!.	¡De donde estés regresa!
+Ukucham sarata kutkuchkan.	El ratón está royendo el maíz.
+Mincham kututukunata mana maqanakunanpaq rakisun.	Pasado mañana separaremos a los cuyes machos para que no peleen.
+Tutanmi illa turu waqamun.	En las noches brama el toro mágico.
+Laqu kuchilluta ñawchichay.	Afila ese cuchillo motoso.
+Laqutaqa uywakuna mikunmi.	Los animales acostumbran comer alga.
+Lastarqamuptinqa uywakunaqa yarqaymantam purinku.	Cuando nieva los animales caminan con hambre.
+Sara lawachata mikumuni.	He comido sopita de maíz.
+¡Lawsaykita pichakuy!	¡Límpiate la baba!
+Liqliqam lliwqata mikun.	El ave centinela come lombrices.
+Hatun lirpupim lliw wirpuy rikukun.	En un espejo grande se ve todo mi cuerpo.
+Lirqu wawata hampichimuy.	Haz curar al niño bizco.
+Umanpim liwiwan waqtarqun.	Le ha golpeado con una boleadora en la cabeza.
+Liwi siki warayuqmi purichkan.	Camina con un pantalón holgado.
+Yachaq masiy qillqa maytuta ñawinchaychik.	Lean el texto Yachaq masiy.
+Wantapiqa sumaqllañam luqma wiñan.	Hermosas lucumas crecen en la ciudad de Huanta.
+Turupa luqsunqa allin mikuymi.	El escoroto del toro es buen alimento.
+Llakim hapiruwan.	Me dio una tristeza.
+Llaklla runakunaqa manam wasi punkutapas lluqsiyta munanchu.	Los hombres cobardes no quieren salir ni a la puerta de su casa.
+Llama rutuy chayaramuchkanña.	Ya está llegando la esquila de llamas.
+Yarqa aspiypi llamkamusun.	Trabajemos en la limpieza de la acequia.
+Palta Rumiman llamputa pukuykuy.	Sopla la piedra caliza a Palta Rumi.
+Wawapa uyanqa llampullam.	El rostro del niño es suave.
+Kay wata iskaytañam llankita taytay tukurqun.	En el presente año mi padre terminó dos ojotas.
+Llantunwan mancharikuni.	Me asusté con su sombra.
+Paramanta machaypi llantukun.	Se protege de la lluvia en la cueva.
+Llañu waskatam kuchi tipirun.	El chancho arrancó la soga delgada.
+Llapchaykuptiymi qaparin.	Apenas lo toqué, gritó.
+Sinqantam llapirqun.	Le aplastó la nariz
+¡Llaqi llaqita timpurqachiy!	¡Haz hervir la zarzaparrilla!
+Qiruta tumpata llaqllaykuy.	Labra un poquito el palo.
+Hatun llaqtakunapiqa manañam kawsay wiñanñachu.	En las ciudades ya no crece la sementera.
+Chitanchik kachita llaqwachkan.	Nuestras ovejas están lamiendo la sal.
+Llasaq rumim kasqa.	Había sido una piedra pesada.
+Hatun rumiqa llumpaytam llasan.	La piedra grande pesa demasiado.
+Llatata allinchasun.	Arreglemos el lavador de arcilla.
+Llatanniyuq quwi tiqtiqa miskisum.	El cuy chactado con guiso picante es riquísimo.
+Qampupa llikanta awan mikuynin hapinanpaq.	La araña está tejiendo su telaraña para atrapar sus alimentos.
+Ama qillqa rapiykichikta yanqapuni llikiychikchu.	No rompan sus hojas por las puras.
+Achka llikllakunata awaspa rantikuchwan.	Podríamos tejer muchas mantas y venderlas.
+Wawapa llillintaqa akuwanmi hampina.	La escaldadura del niño se cura con harina.
+Puka llimpim yawarqa.	La sangre es de color rojo.
+Kay riqita qumirwan llimpisun.	Vamos a pintar con verde esta figura.
+Puka llinkiwan ruyruchakunata rurasun.	Moldeemos bolitas con arcilla roja.
+Llipipi quchatam riqsimuniku.	Hemos conocido una laguna reluciente.
+Kay simiypi lliqtita imawanraq hampiruyman.	No sé con qué curaría la úlcera de mis labios.
+Challwanapaq lliwqata hurqumusun.	Vamos a sacar lombrices para pescar.
+Lluchka qatapi urmaruni.	Me caí en la ladera resbaladiza.
+Mitupi purichkaspa uywa lluchkarqun.	Caminando en el barro se resbaló el animal.
+Miskiyuq lluklluta qusqayki.	Te voy a dar nata con miel.
+Pukllanachata llukiykun.	Le regalan juguete.
+Llukuta mayu apakun.	El río se llevó la red.
+Wak llulla warmi awqachiwan.	Esa mujer mentirosa me hace enemistar.
+Llullu papata allaykuy.	Escarba la papa tierna.
+Churiypa warminqa allin sunquyuqmi.	La esposa de mi hijo es una mujer de buen corazón.
+Paytam taytachata hinaña llunkupayan.	A él lo adula como si fuera Dios.
+Kuchinchik lluptirqusqa.	Escapó nuestro chancho.
+Sumaqllata sachaman lluqasun.	Subamos despacio al árbol.
+Lluqi makiykichikta huqariychik.	Alcen la mano izquierda.
+Lluqllam kawsaykunata aparqusqa.	El aluvión había arrasado la sementera.
+Wasiymantaqa manam lluqsinichu.	Yo no salgo de mi casa.
+Sara lluqsimuchkanña.	El maíz ya está germinando.
+Uyantam wirachawan llusikuchkan.	Se unta con mucho cuidado su rostro.
+Tutapas machaqwayqa sukamunmi.	La culebra silba también de noche.
+Machaypim puñurqani.	He dormido en la cueva.
+Inti raymipim warmikuna macharqa musqaku.	Las mujeres se habían emborrachado en la fiesta del sol.
+Machinakunata ruraspa huklawpi rantikuchwan.	Construyendo cubos podríamos venderlos en otro sitio.
+Payqa siwara machkatam kutan.	El prepara machca de cebada.
+Machu runaqa manañam machaypi purinañachu.	Un anciano ya no debe emborracharse.
+¡Malliykuy kay apita!.	¡Prueba esta mazamorra!.
+Maman michakuchkaptinmi kasarakun.	Sin que quiera su madre se casó.
+Mamakutaqa yanapanam.	A la anciana hay que ayudarla.
+Tanta qunanpaq mamanta mañakun.	Le pide pan a su mamá.
+Warmam taytan muchaykunanpaq mañakun.	El niño le pide a su padre que le bese.
+Manchachinata saranchikpi churamusun.	Hay que colocar espantapájaros en nuestro maizal.
+Tuta puriytam manchakuni.	Temo andar en las noches.
+Ratam misita qawarquspa manchakun.	La rata se asusta viendo al gato.
+Allpa mankapim patachiqa sumaqta chayan.	El mondongo se cocina bien en olla de barro.
+Mulli aqata manukuykuni.	Me he fiado chicha de molle.
+Manu mañaqmi hamusqa.	Vino a cobrar la deuda.
+Pitapas manam yanqapuniqa maqanachu.	A nadie se le debe golpear por las puras.
+Raku maqanawanmi waqtarqun.	Le pegó con un garrote grueso.
+Siwarata maqchichkan.	Está esparciendo la Cebada.
+¡Yakuta maqchirqamuy!	¡Rocía el agua!
+Maqlla runaqa kay pachapim manan imata tarinqachu.	El hombre tacaño no encontrará nada en este mundo.
+Huk maqma aqatam tukurqunku.	Lograron terminar un recipiente grande de chicha.
+Maqta kaspa llamkaysapa karqa.	Siendo joven fue muy trabajador.
+Marayta wasiypi munayman.	Quisiera un batán en mi casa.
+Kullutahinam qamta marqachkayki.	Te estoy abrazando como si fueras un tronco.
+Masaytam hampichimusaq.	Haré curar a mi yerno.
+Mastakusunña puñunapaq.	Ya hay que tender la cama para dormir.
+Machuyasqa ukuchamantas masu rikurin.	Dicen que el murciélago proviene del ratón viejo.
+Maswa yanuyta mikuniku.	Comemos mashua sancochada.
+Anqara matipi papata qaramuy.	Sirve en el mate grante la papa.
+Runapa matinpi rumiwan chuqarqamun.	Le tiró con piedra en la frente.
+Maytu qachachakurqun.	Se ensució el libro.
+Putka mayuta chimpasunchik.	Cruzaremos el río turbio.
+Kananmi wakanchikunata michimusun.	Hoy vamos a pastear nuestras vacas.
+Amahina kaspayki mikuyta qaraykamuway.	Sírveme la comida, por favor.
+Chuñuta mikun.	Come el chuño.
+Llumpayta saksarquspaqa mikuyta millakurqunñam.	Al hartarse demasiado siente asco por la comida.
+Millay uyayuqtam rikurqani.	Lo vi con una cara horrible.
+Uqupampa wallpata millpum	El pantano se traga a la gallina.
+¡Wallpahina millpuchkanki!	¡Estás tragando como la gallina!
+Llamapa millwanmanta waskatam kawpunku.	Se tuercen las sogas de lana de llama.
+Punchuypa mininta mamay awan.	Mi madre teje la trama de mi poncho.
+Pacha taqsay minkaman hakuchik.	Vamos a la minga de lavar ropas.
+Kulli sarata mirachin.	Está haciendo reproducir maíz morado.
+Llama mirachichkan.	La llama está procreando.
+Chiya umaykipi mirarqusqa.	Había aumentado liendres en tu cabeza.
+Misiqa allquwanpas pukllanmi.	El gato también juega con el perro.
+Yukalitutam miskiyuqta upyana uhupaq.	Hay que tomar eucalipto con miel de abejas contra la tos.
+Urqupi ischu kañasqay mismichkan.	La paja que quemé en la puna se propaga.
+Paray mitañam.	Es época de lluvia.
+Wawapa mitanta haywamuway.	Alcánzame el pañal de la bebé.
+Ñanqa mitullañam kachkan.	El camino está lleno de barro.
+Puriq allqukunaman miyuta mikurqachinku.	Envenenaron a los perros callejeros.
+Makiykita muchaykusqayki.	Te besaré las manos.
+Uyaypi muchikuna rikurirqusqa.	Ha aparecido acné en mi rostro.
+Suqta watayuq turupa muchunqa hatunsum.	La nuca del toro de seis años es muy grande.
+Muchuypim uywakunapas charkiyarqun.	En tiempos de hambruna los animales enflaquecen.
+Muhuta rantimusun.	Vamos a comprar semilla.
+Mukiwanmi wañurusqa.	Había muerto con asfixia.
+Anchatam aychata munani.	Me gusta demasiado la carne.
+Awilaypa muntirantam taqsasaq.	Voy a lavar la montera de mi abuela.
+Asnumanta wichiykuspan kuchusninta muqakurqun.	Al caerse del asno se dislocó el codo.
+Muquymi chiripi utin.	Mi rodilla se adormece en el frío.
+Muqupi llama mikun.	La llama come en la loma.
+Murayayuq puchiruqa miskisum.	El puchero con chuño blanco es riquísimo.
+Asnaqkunata muskispa imatapas riqsichwan.	Oliendo las cosas podemos conocerlas.
+Qammi musquyniypi ñuqawan takana kuchkasqanki.	En mis sueños tú y yo estábamos golpeándonos.
+Mutita allinta kachukusun llamkananchikpaq.	Comamos bien el mote para trabajar.
+Muyanchikta qurasunchik.	Vamos a deshierbar nuestro jardín.
+Muyukunata qillqasun.	Tracemos círculos.
+Wanukunata qurastin muyuq wayra rikurirqamun.	Levantando basura apareció el remolino.
+Kay rumita muyuchiychik.	Den vueltas a esta piedra.
+Chaki nanaywanmi churiy kachkan.	Mi hijo está con dolor de piernas.
+Sapa hatarispam tayta mamanchikta napakunanchik.	Cada vez que nos levantemos debemos saludar a nuestros padres.
+Hatun taytaqa hamuy ninmi.	El abuelo dijo: ven.
+Paqpata nuyuchin waska rurananpaq.	Remoja la cabuya para hacer soga.
+¡Llumpaytam qanrachachkanchik yachanachik pachata!	¡Demasiado estamos contaminando el mundo en que vivimos!
+Sumaq sumaqta pachakarqamusqa.	Se había vestido hermosamente.
+Pachak watayuqñam kay yachay wasinchik.	Nuestra escuela ya tiene cien años.
+Pachak chakiqa kachusunkimanmi.	El ciempiés puede morderte.
+Pakisqa qillqanatam quwarqa.	Me ha dado un lápiz roto.
+Yanukunanpaq yanatata pakin.	Quiebra la leña para cocinar.
+Wañunanpaqmi pakpaka waqachkan.	La lechuza se queja para que alguien muera.
+Kay raymipiqa palikachaykita churakuykuy.	Ponte tu faldita en esta fiesta.
+Kukata pallasun.	Recojamos la coca.
+Chalapi supay pallaysukuna kan.	En la costa hay abundante cucaracha.
+Paltata kachichayuqta mikukusun.	Comamos palta con sal.
+Wak pampapi pukllamusun.	Vamos a jugar en esa pampa.
+Saqiwasqaykitaqa pampachaniñam.	Ya te perdoné haberme abandonado.
+Waytapa taytanta haku pampaysimusun.	Acompañemos el entierro del padre de Wayta.
+Paykunapas panakayku rantim.	Ellos también pertenecen a nuestro linaje.
+Rumi panchirqusqa.	La piedra se había rajado.
+Paniytam kanan tuta rimaykukunqaku.	A mi hermana van a pedirle la mano esta noche.
+Pankachu ruqu warmiwanmi tuparquni.	Me encontré con una mujer de sombrero acampanado.
+Kamachikuqkuna llaqta runakunata pantachin.	Los gobernantes engañan a la población.
+Yupayta pantaruni.	Me equivoqué en contar.
+Paña makinmi muqakurqun.	Se luxó su mano derecha.
+Paqarinmi papayata mikusun.	Mañana comeremos papaya.
+Kay llaqtapi yachay wasita paqarichisun.	Vamos a crear una escuela en este pueblo.
+Paqarin tutapayta hamunkichik.	Mañana vengan temprano.
+Paqariy chayaykamuchkanña.	Ya está llegando el amanecer.
+Saracha paqariramusqa.	Había brotado el maicito.
+Llaqtaypi paqchaqa sumaqtam qawakun.	La catarata de mi pueblo se ve bonita.
+Paqchapiña pachaykita aywirqamuy.	En la cascada ya lava tu ropa.
+Machuyasqanmanhinaqa qarikuna paqlayanmi.	Conforme envejecen los varones se vuelven calvos.
+Pirqanchik kurawanapaq paqpata kuchumusunchik.	Vamos a cortar cabuyas para las bardas.
+Paqtachay kaptinqa manam pipas waqanmanchu.	Su hubiera justicia nadie sufriría.
+Sapa runam paqtachiyuq kanchik.	Todos los hombres tenemos libertad.
+Paqu aychatam rantikuchkanku.	Están vendiendo carne de alpaca.
+Chuqllupa chukchanmi paqu llimpiyuq.	El pelo del choclo es rubio.
+Para chayamuptinqa qiwapas wiñanmi.	Cuando llega la lluvia hasta el pasto crece.
+Chitapa parisnintam allqu mikurun.	El perro se comió la placenta de la oveja.
+Pariwanatam uywakurqani qamkuna riqsinaykichikpaq.	Yo crié un flamenco para que conozcan ustedes.
+Sara tarpunapaq parqumusun.	Vamos a regar para sembrar maíz.
+Sarapa parwansi wiksa punkipaq allin kan.	Dicen que la flor de maíz es buena contra la hinchazón de estómago.
+Sarata tarpuptiy achkam pasanqallakuna rikurimun.	Cuando siembro maíz aparecen muchas rosetas de maíz.
+Chuñu pasita warmakunaman qaraykapullaway.	Sírveles chuñu sancochado a los niños.
+¡Wakanchikta paskay!	¡Desata nuestras vacas!
+Papa akllananpaq tawa pasñakunata munani.	Quiero cuatro muchachas para que escojan la papa.
+Haku wak patata.	Vamos a ese muro.
+Patachi qaramuwananta munani.	Quiero que me sirva patachi.
+Pata patapi purututa tarpukusun.	Sembremos frijoles en los andenes.
+Waskata pataray.	Dobla la soga.
+Hawasqa patarqunñam, allinñam mikunapaq.	Las habas ya están reventadas, están listas para comer.
+Wak sallar qumiryarinanpaq patita tarpuchwan.	Sembraríamos pati para que esos pedregales se tornen verdes.
+Kallpaylla yachay wasita rinki.	Corriendo nomás irás a la escuela.
+Wallpanchikmi pawarikun.	Nuestra gallina ha volado.
+Hatun mamanqa payachañam.	Su abuela ya está viejita.
+Chay qupakunata pichaykunki.	Vas a barrer esa basura.
+Pichiwsa wallpapa mikunanta mikuchkan.	El gorrión está comiendo la comida de la gallina.
+Piki yawarniyta suqurquwan.	La pulga me chupó la sangre.
+Waytan waytan pillpintu pawaykachachkan.	La mariposa vuela de flor en flor.
+Pilluta ruraykusun.	Hagamos una corona de flores.
+Wak runaqa piña piñam kachkan.	Ese hombre está muy enojado.
+Amawtaqa mana warmakuna allinta llamkaptinku piñakun.	El profesor se molesta cuando los niños no trabajan bien.
+Pinchikillaqa tutanmi kanchan.	La luciérnaga alumbra en las noches.
+Pinkulluqa miskita waqachinapaqmi.	La quena es para tocarla dulcemente.
+Amam runa masinchikta pinqachinachu.	No debemos avergonzar a nuestros semejantes.
+Runakuna pinqayllapaq kaqkuna kanmi.	Hay personas que sólo viven para criticar.
+Humintata pintumusun.	Vamos a envolver las humitas.
+Wasipa pirqan tuñirqamuchkanña.	La pared de la casa ya está derrumbándose.
+Qayna punchaw rumiwan pirqarqani.	Ayer levanté el muro con piedra.
+¡Pirwamanta sarata hurqumuy!	¡Saca el maíz de la pirwa!
+Pisillatam quykuwanki.	Me diste poco.
+Tukuy punchaw llamkasqaymanta pisipasqam kachkani.	Estoy cansado por haber trabajado todo el día.
+Pisqi mikuyqa allinmi umapaq.	El puré de quinua es vitamina para el cerebro.
+Pisqukuna siwarata mikuchkan.	Los pájaros están comiendo la cebada.
+Piwi churiyqa amawtam.	Mi primer hijo es profesor.
+¡Puchkata millwa kawpunapaq apay!	¡Lleva la rueca para hilar la lana!
+¡llamapa millwanta kawpuchun!	¡Que hile la lana de la llama!
+Puchqu pikantiqa yakunayachikunmi.	El picante salado provoca sed.
+Llumpaytam puchqurqachisqa mikuyta.	Lo ha salado demasiado la comida.
+Yaw, puka pulliracha, ¿maytataq richkanki?	Oye, pollerita colorada, ¿a dónde vas?
+Saksaywaman pukarataqa hatunkaray rumikunawanmi pirqasqaku.	La fortaleza de Sacsayhuman está construida con piedras inmensas.
+Warmakunam pukuchuwan pukllachkanku.	Los niños juegan con la pelota.
+¡Pukruman wanuta ischumuy!	¡Arroja el guano a la hondonada!
+¡Pukunawan ninata pukuy!	¡Aviva la candela con el soplador!
+Wawaqa allinta ninata pukun.	El niño sopla muy bien la candela.
+Pukyumanta yakuta apamuy.	Trae agua del manatial.
+Wawapa pukyun timputiyamun.	La fontanela del bebé late.
+¡Mamaykipa pulliranta taqsay!	¡Lava la pollera de tu madre!
+Pullkanqataqa ichuq makipim apaqku.	El escudo lo llevaban en el brazo izquierdo.
+Llampullam wikuña millwamanta rurasqa pullu.	La manta hecha de la lana de vicuña es muy suave.
+Mayus pumpu kulluta apamusqa.	Dicen que el río trajo un tronco podrido.
+Kunan punchaw llamkaq hamunqa.	Hoy día vendrá a trabajar.
+Punchiykita rantikuway.	Véndeme ponche.
+Punchuta awiluy awapuwachkan.	Mi abuelo me está tejiendo un poncho.
+Yakupi nuyuchisqa sara punkirqusqa.	El maíz remojado se había hinchado.
+Wasipa punkun wichqasqa kachkan.	La puerta de la casa está abierta.
+Allquqa puñuchkanmi.	El perro está durmiendo.
+Wawapa pupun chakichkanña.	El ombligo del bebé ya está secándose.
+Intiwan mikuy puqun.	La comida madura con el sol.
+Mikuykuna puqumuchkanñam.	Ya es tiempo de maduración.
+Uywakuna pampapi purinku.	Los animales andan en el campo.
+Wallpa purunta tikrachkan.	La gallina está mudando su plumaje.
+Purun allpaqa manam tarpunapaq allinchu.	El terreno eriazo no sirve para sembrar.
+Purututa tarpumusun.	Sembremos frijol.
+¡ Yachay wasinman wawata apay!	¡Lleva al niño a su escuela!
+Kamchasqa hawasmanta puspun.	Sancocha haba tostada.
+Unaymanta llamkaykuptiymi makiy pusullukurqun.	Por haber trabajado después de mucho tiempo mi mano se hizo ampollas.
+Mayupa pusuqunchu ñuqaqa karqani muyu muyurispa chinkarqunaypaq.	¿Acaso yo soy espuma del río para desaparecer dando vueltas y vueltas?
+Chakapampa putka yakuqa sachakunata apan.	El río Chakabamba de agua turbia arrastra árboles.
+Putquy machkata ayniykuway.	Préstame un puñado de machca.
+¡Kalawasa putupi yakuta apamuy!	¡Trae el agua en la vasija de calabaza!
+Wakchayasqa ayllu llamkaywan puturichkanña.	La familia empobrecida comienza a sobresalir con el trabajo.
+Putututa apamuy runakuna qayananchikpaq.	Trae el pututo para llamar a la gente.
+Taytankuman puylluta mallichinku.	Convidan a su padre panecillos.
+Mamaypa puchkantam puyu tukurqusqa.	La polilla terminó con el hilado de mi madre.
+Puyu intita harkarqun.	La nube tapó al sol.
+Qasquypim anacha kan.	En mi pecho hay un lunar.
+Chay qatapi manam tarpuymanchu.	En esa ladera no podría sembrar.
+¡Uywakuna mikunanpaq qatiy!	¡Arrea a los animales para que coman!
+Wiksa nanaypaqqa qatqi qurachata upyay.	Debes tomar yerbita amarga contra el dolor de estómago.
+Wanka Willka llaqtaqa sumaq qatuyuqmi.	La ciudad de Huancavelica tiene un buen mercado.
+Runakuna imayna purisqanta qawanki.	Verás cómo camina la gente.
+Runakuna huñunakunanpaq qayay.	Llama a la gente a una reunión.
+Mana mikunanpaq kaptin runa masinkunata qayakun.	Al no tener que comer invoca a sus semejantes.
+¡Chitakunata qinchanman qaykuramuy!	¡ Arrea las ovejas al corral!
+Chakrapa qayllan rikurimuchkan.	Se ve el límite de la chacra.
+Qaynaqa allintam mikurqaku awilunchikkuna.	Antes se alimentaban muy bien nuestros abuelos.
+Manam qayna punchaw kasqanchikmanta yuyakunchikchu.	No nos acordamos de lo que fuimos ayer.
+Qayninpa punchawmi Ayakuchuman illarqa.	Antes de ayer viajó hacia Ayacucho.
+¡Yana qaytuta haywamuway!	¡Alcánzame el hilo negro!
+¡Mankata mana tasnumunanpaq qaywiy!	¡Bate la olla para que no rebalse!
+Kuchinchik qichawan kachkan.	Nuestro chancho está con diarrea.
+Qichincha kirusiniwan llumpayta rikurimun.	Se forma mucha tizne con el kerosene.
+Chukllaqa qichinchasqam kachkan.	La choza está tiznada por el humo.
+Qichipraqa ñawitam amachan imamantapas.	Las pestañas defienden a los ojos de cualquier objeto.
+Qillqananta qichurqapun.	Le quitaron su lapicero.
+Kimsamanta hukta qichuptinchikqa iskayllañam.	Si restamos uno de tres sólo queda dos.
+Qichwapiqa sara wiñanmi.	En el valle crece el maíz.
+Qichwaqa miski simim.	El quechua es una lengua afectiva.
+Qilla runa upyaylla upyan.	Hombre ocioso solamente bebe y bebe.
+Qillaymanta kuchunata rurachisun.	Mandemos hacer cuchillo de hierro.
+Qillichayqa manam allinchu, unquchiwanchikmi.	No es bueno contaminar; nos causa enfermedad.
+Llaqta runakunam mayuta qillinku.	Los habitantes de las ciudades contaminan el río.
+Kullu qillpam makiyman satikurqun.	Una astilla se introdujo en mi mano.
+Qillqanawan rikchakuyta llimpiy.	Dibuja mi retrato con el lápiz.
+Rimasqanchikta qillqana panqapi qillqay.	Escribe en el cuaderno lo que hablamos.
+Chanka qichwa simipaqa kimsallam luqyanankuna, luqyanayuqkunañataqmi chunka pichqayuq.	En el quechua chanka hay tres vocales y quince consonantes.
+Sunchu waytaqa qillu llimpiyuqmi.	La flor del suncho es de color amarillo.
+Ñawinman qupa yaykurquptin qimchiykachachkan.	Debido a la basura que le entró en sus ojos viene parpadeando.
+Warmapura qimchinakunku.	Entre niños se guiñan los ojos.
+Takinaypaq qinawan yanapawanki.	Me acompañarás con tu quena para cantar.
+Qumirwan anqasniraq llimpiyuqmi qintiqa kan.	El picaflor es de color verde azulado.
+Chiri allpakunapim qiñwa sachaqa wiñan.	El quinual crece en tierras frìas.
+Ama qipaman qawaychu.	No mires hacia atrás.
+Urpiqa qistanpim kachkan.	La paloma está en su nido.
+Warmi qipinta qunqarqun.	La mujer se olvidó su bulto.
+Qipichakuyña rikunanchikpaq.	Alista tu bulto para irnos.
+Wawata waytawan qipichay.	Emplasta al bebé con flores.
+Qirupi aqata qaray.	Sirve chicha en el quero.
+Urpiqa qisanpi tiyarqunñam.	La paloma ya está empollando en su nido.
+Kuchurqusuptikitaq chay qispi.	No vaya a ser que te corte ese vidrio.
+Piru suyunchik qispichiqmi José de San Martín karqa.	José de San Martín fue el libertador del Perú.
+Ñakakuyninta qispirqachinñam.	Ya se liberó de sus problemas.
+Pata patata siqay.	Sube las escaleras.
+Qisqisqa chisinkuytaqa pawaytam qallaykun.	La cigarra comienza a volar al comenzar la noche.
+Qiswawan kaspikunata wasi qatanapaq watay.	Amarra los palos con soga de ichu para techar la casa.
+Qiwata pallamuy quwi mikunanpaq.	Coge pasto para que coman los cuyes.
+Qiwllaqa imaymana yakupi kaq urukunawanmi kawsan.	La gaviota se alimenta de todo tipo de gusanos que encuentra en el agua.
+Warmapa makinmanta qiya lluqsirqa.	Salió pus de la mano del niño.
+Hatun hatun qucham Titikakaqa.	El lago Titicaca es muy grande.
+Inka qullanakunaqa allin qawasqam karqa.	La nobleza Inca fue muy considerada.
+Akllasqanchik qullanam llaqtanchikta wiñachichkan.	La autoridad que elegimos hace posible el desarrollo de nuestro pueblo.
+Uywakunaqa sapa punchawmi qullpan waqtapi.	Los animales lamen el salitre en la pendiente todos los días.
+Allpa uku, mina nisqanmantam qullqita hurqumunku.	De la mina extraen la plata.
+Yachay wasiman riypas achka qullqipaqmi.	Asistir a la escuela cuesta mucho dinero.
+Kikinkupura qumallinakunku.	Entre ellos(as) se acusan.
+Unkuqa qumir awasqawan rurasqam.	La camisa está hecha de tela verde.
+Mana wiksayki nanasunaykipaq quñi yakuta upyay.	Toma agua caliente para que no te duela el estómago.
+Rumipi qunqurinta waqtakurqun.	Se golpeó la rodilla en la piedra.
+Ama qunqurikuychu.	No te arrodilles.
+Qupa wischunaykipaq pichay.	Barre la basura para que la botes.
+Payqa anchatam quqawta munan.	A él le gusta mucho el fiambre.
+Sallqa allpakunapi quqututa qawarqani.	Vi a la torcaza en tierras altoandinas.
+Mana qipiyta atispa warma quqman.	Puja el niño al no poder cargar.
+Chakraypi qura puraminti wiñarqamun.	En mi chacra ha crecido mucha mala hierba.
+Chimpa alwirhas chakrata quraysimuway.	Ayúdame a deshierbar la chacra de alverjas del frente.
+Qurimanta qullqi.	Moneda de oro.
+Supa supaytam puñuspan qurquryan.	Ronca como el diablo al dormir.
+Qari runapapas machu uywakunapas qurutanqa iskaymi.	Dos son los testículos de los varones y de los animales machos.
+Paniypa qusanqa llamkaq runam.	El esposo de mi hermana es trabajador.
+Qusi walichatam rantipusqayki.	Voy a comprarte una pollerita celeste.
+Sansa qusñichkan.	El carbón está humeando.
+Kunkapim qutu rikurimun.	El bocio sale en la garganta.
+Miski miskim quwipa aychan.	La carne del cuy es muy agradable.
+Misipa ñawin quyllurhinam tutayaypi kancharin.	Los ojos del gato brillan como la estrella en la noche.
+Chinakunallapan rakan kan.	Sólo las hembras tienen vagina.
+Raku kullu.	Tronco grueso.
+Rakta kaqnintam qatanataqa rantimunki.	Vas a comprar la frazada más gruesa.
+Ranrallañam chakraqa.	La chacra es muy pedregosa.
+Ayllu chakraqa ranra ranrallañam.	La chacra de la comunidad es un pedregal.
+Chani chaninwanmi wasita rantini.	Compro la casa con harto dinero.
+Qariqa qatupim rantikun.	El hombre vende en el mercado.
+Raprapi harawikunata qillqasaq.	En un papel escribiré poesías.
+Qillqana maytupa rapinqa sumaqmi.	La hoja del cuaderno es buena.
+Yutupa huknin rapranta pakirqusqaku.	Quebraron una de las alas de la perdiz.
+Qarachaqa ñuqamanpas rataykuwanmi.	A mí también me contagió la sarna.
+¡Rawkanawan papata hallmamuy!	¡Aporca la papa con el azadón!
+Nina llumpayta rawran.	Hay mucho fuego.
+¿Kunkaykichu rawrachkan?	¿Acaso tu garganta está ardiendo?
+Paqarimusqanrayku raymita ruranku.	Festejan el día de su nacimiento.
+Rikchapakuyllam rikchapakun, mana munasqanta ruraspa.	Sólo se imagina, sin concretar sus ideales.
+¡Wawa rikcharikunñam!	¡Ya despertó el bebé!
+Rikraymi nanawachkan.	Me está doliendo el hombro.
+Yachay wasiman risqaykita rikurqanim.	Ví que fuiste a la escuela.
+Amawtawan warmapa taytan rimanakunku.	El maestro y el padre de familia dialogan.
+Hatun rimanakuymi kachkan.	Se está llevando una gran asamblea.
+Tarpusqanchikmanta rimasun.	Hablemos de nuestra siembra.
+Rinri wirachata hurqunanchikmi.	Hay que sacarse el cerumen.
+Wanta llaqtata riqsinim.	Conozco el pueblo de Huanta.
+Riti achikyarqusqa urqu umanpi.	Había amanecido nieve en la punta del cerro.
+Chikchi para chayamuptin ritin urqukunata.	Cuando llega granizada se forma nevada en los cerros.
+¡Yachay wasiman riy!	¡Anda a la escuela!
+Kichkam raku rukananman tiparqun.	La espina le pinchó el dedo gordo.
+Wawachakuna rumasiru hapirquptinqa wañunmanmi.	Cuando les agarra el resfriado a los bebés pueden morir.
+¡Chakramanta rumikunata wischuy!	¡Bota las piedras de la chacra!
+Uywapa tullun rumiyarqusqa.	Se había petrificado el hueso del animal.
+Achka runakunam ñanpi kan.	En el camino hay muchas personas.
+Wakin wallpakuna sapa punchawmi runtuta wachan.	Algunas gallinas ponen huevo todos los días.
+Runtuchkanñam patukunaqa.	Ya están poniendo huevo los patos.
+Llumpaytam rupapakurquni.	Me he sofocado demasiado.
+Llumpaytam rupamuchkan.	Hace un fuerte calor.
+Wayra mamaypa ruqunta qichurqun.	El viento quitó el sombrero a mi madre.
+Kananmi tantata ruranqa.	Hoy hará panes.
+Paqaypa rurunqa utkuhinam.	El fruto del pacae es como el algodón.
+Wawacham wañurqun ruru unquywan.	El bebé murió con el sarampión.
+Wallpapaqa manam rurun kanchu.	La gallina no tiene riñones.
+Paqarinmi sullka turiypa rutuchiynin kanqa.	Mañana será el corte de pelo de mi hermano menor.
+¡Rutunata haywamuway!	¡Alcánzame la hoz!
+Llamapa millwantam rantikunankupaq rutunqaku.	Van a esquilar la lana de la llama para que vendan.
+Rutunawan sarata rutumun.	Corta el maíz con la hoz.
+Tiqsi muyu pachanchikqa ruyrum.	La tierra tiene la forma de esfera.
+Misipahinam pisqukunapa sillunqa.	Las uñas de las aves son como las garras del gato.
+Simi wichqasqapiqa manam chuspi yaykunchu.	En boca cerrada no entra mosca.
+Simpanwanmi warmiqa sumaqcha.	La mujer se ve hermosa con la trenza.
+Sapa punchawmi chukchanta simpakun.	Todos los días se trenza el cabello.
+Allin sinqayuqmi wak runaqa.	Aquel hombre tiene buena nariz.
+Kaspikunatam sinrichkani.	Estoy ordenando los palos.
+Yachay wasipiqa warmikunaqa sipasllaraqmi.	Las mujeres del colegio son todavía jóvenes.
+Altusman siqay.	Sube al segundo piso.
+Siqipi runakuna sayanku.	Los hombres se paran en fila.
+Allpapim siqichkani.	Estoy trazando una línea en el suelo.
+Itanaqa llumpaytam siqsichikun.	La hortiga produce comezón.
+Awiluypa siquynin manam tukurikunchu.	Las ojotas de mi abuelo no se acaban.
+Siratu uya runam.	Es un hombre con la cara cicatrizada.
+Llikisqa waraytam sirarqusaq.	Coseré mis pantalones rotos.
+Sirkanta kuchukurqun.	Se ha cortado las venas.
+Hawaspa sisanta pisqu tuspachkan.	El pájaro está picoteando las flores de las habas.
+Sisim wampukuchkan chaki paqpa sikinpi.	Hay muchísima hormiga debajo de la cabuya seca.
+Siwaramantam machkata ruranku.	De la cebada hacen la machka.
+Quri siwitam rurachimuchkan warminman qunanpaq.	Está mandando hacer anillo de oro para que le dé a su esposa.
+Achkatam siwullata tarpurqun rantikunapaq.	Ha sembrado harta cebolla para vender.
+Suchuyarqunmi awiluy.	Se ha vuelto paralítico mi abuelo.
+Manam kaypiqa kaymanchu suchukusaqmi.	Me retiraré porque no podría estar aquí.
+Papa tarpunapaqqa hatun hatunmanta sukata kichana.	Los surcos deben abrirse más para sembrar la papa.
+Sukakustin purini.	Camino silbando.
+Sukullukuy rupaychakuchkan.	La lagartija está soleándose.
+Sullapiqa manam papata hallmanachu.	Cuando el follaje de la papa está con rocío no debe aporcarse.
+Paypa sullkanqa warmicham.	La menor de él es una mujercita.
+Wakapa sullun hatunmi kasqa.	El feto de la vaca era grande.
+Munapayay hapirquptin warmi sullurqun.	La mujer abortó por sus antojos.
+Sumaqmi mamayqa.	Mi madre es hermosa.
+Wasita sumaqchay allin kananpaq.	Arregla la casa para que se vea bien.
+Tawnahina suni papa.	Papa larga parecida al bastón.
+Warmakunaqa manam sunkayuqchu.	Los niños todavía no tienen barba.
+Uywapa sunqunta hurqurqa.	Sacó el corazón del animal.
+Asnu llumpayta qipispam supita kachaykun.	El burro cargado demasiado arroja pedos.
+Suqruy matiwachkan.	Mis zapatos me están apretando.
+Suqusmanta pallanata ruranku.	Hacen del carrizo rocogedora de tuna.
+Humintanapaq suqututa hurqusun.	Vamos a sacar pancas parahacer humitas.
+Uywanchikkunaqa yakutam suquchkanku.	Nuestros animales están sorbiendo el agua.
+Suriqa sumaq sumaq puruyuqmi.	El ñandú tiene plumas muy hermosas.
+Llumpay chiri surqanman yaykurquptinqa runaqa unqunmi.	Si se enfrían demasiado los pulmones las personas se enferman.
+Kay uywapa sutinqa kuchim.	El nombre de este animal es chancho.
+Llaqtaykita sutinchay.	Describe tu pueblo.
+Yakuqa sutuchkan.	Está goteando el agua.
+Suwam kunan tuta uywata aparqun.	El ladrón se llevó el animal esta noche.
+Misi tuta aychata suwan.	El gato roba la carne de noche.
+Paqarin mincha allinruna kaytam suyapakuni.	Tengo la esperanza de ser un hombre bueno en el futuro.
+¡Chayllapi suyanki!	¡Espera ahí!
+Suysunawan machkapa pusunta rakiy.	Con el cernidor separa el afrecho de la machca.
+¡Suysunata apamuy!	¡Trae el colador!
+Machkapa pusunta suysunku.	Ciernen el afrecho de la machca.
+Suyunchikpa sutinqa Piruwmi.	El nombre de nuestro territorio es Perú.
+Suyuchanchikpa sutinqa Wantam.	El nombre de nuestra provincia es Huanta.
+Yachay wasipi wawakuna kusikuywan takinku.	Los niños en la escuela cantan con alegría.
+Ñuqaykupa takllaykuna lluqi kaspimantam.	Nuestro arado es de lloque.
+Uchuy allqutam uywani.	Crío un perro pequeño.
+Taksaniraqlla runa hamusqa.	Vino un hombre mediano.
+Tankaqa lluqi kaspimanta rurasqam karqa.	La horqueta fue hecha del palo de lloque.
+Tankayllum yawarniyta suquyta munaspa muyupayawan.	El moscón da vueltas queriendo chuparme la sangre.
+Tiyanata tanqasun kuchuman.	Empujemos la silla hacia el rincón.
+¡Tantata quqawniykipaq rantimuy!	¡Compra pan para tu fiambre!
+Tarpunankupaq paramunan mana paramunanmanta tantiyachkanku.	Están calculando si lloverá o no lloverá para sembrar.
+Taparakuhina tutallan puriq.	Solo camina de noche como si fuera mariposa nocturna.
+Taqi saratam apamuni.	Traje rosetas de maíz.
+Takiqta uyarispa taqllakunku.	Aplauden después de escuchar la canción.
+Masinta wasanpi taqllapayaykun.	A su amigo le palmeó en la espalda.
+Chakipa taqrin puriptin nanan.	Cuando camina le duele el callo de los pies.
+Taqyata huñunku yanukunankupaq.	Reúnen el estiércol de los caméldidos.
+Yuraq sarata tarpun.	Siembra maíz blanco.
+Hatunñam tarpuyniyku kachkan.	Ya está grande nuestra siembra.
+Yarqa aspiypi tarqata waqachin.	En la limpieza de la acequia tocan la flauta de madera.
+Tarukapa aychan miskikullanmi.	La carne del venado es muy agradable.
+Tarwi pikantita llamkaqkunapaq yanukunku.	Cocinan picante de chocho para los trabajadores.
+Manka tasnuchkan.	La olla está rebalsando.
+Warmipa tatkinqa uchuyllam.	Los pasos de la mujer son cortos.
+Wasiypa punkunqa iskay tatkin sayaynin.	La puerta de mi casa mide dos metros de alto.
+Awiluypa tawnanqa lluqimantam.	El bastón de mi abuelo es de lloque.
+Taytanchiktaqa kuyapayanam.	Debemos querer a nuestros padres.
+Tikayasqatam chupita qaramuchkan.	Está siriviendo la sopa con grasa congelada.
+Mayupa patankuna tikayarqusqa.	Los bordes del río se habían congelado.
+Tikraswan awasqata siranchikpaq kaptay.	Corta la bayeta con las tijeras para coser.
+Champata tikrasunchik.	Vamos a voltear la grama.
+Yaku timpuchkanñam.	Ya está hirviendo el agua.
+Qatqiniraqmi tintinpa mikuyninqa.	Es medio agrio el fruto del tumbo.
+Uywakunapa punchawninpi tinyawan miskita takinku.	Cantan bien con la tinya en el día de los animales.
+Pulluykita hapichiy tipanawan.	Asegura con el imperdible tu mantita.
+Hunta killapi sarata tipimusun.	En la noche de luna despancaremos el maíz.
+Yanusqa papapa qaranta tipllay.	Pela la cáscara de la papa cocida.
+Musuq tiqtinata rantirqamun.	Ha comprado un sartén nuevo.
+Quqawninpaq aychata tiqtichkan.	Está friendo carne para su fiambre.
+Hakuta tirihuta kutaspa ruranku.	Hacen la harina moliendo el trigo.
+Achka millwatam tisachkan.	Está escarmenando harta lana.
+Tisi tisim wasiyman yaykurqamun.	La libélula ingresó a mi casa.
+Titiwan ñawpa runakunaqa umata uchkuspa wichqaqku.	Los hombres antiguos tapaban con plomo los huecos del cráneo.
+Qiru tiyanapim samachkan.	Está descansando en el asiento de madera.
+Kuchi wañuchinankupaq sunqunta tuksinku.	Para matar al chancho punzan su corazón.
+Tuku warakaypim paykuna purichkanku.	Ellos caminan hondeando búhos.
+¡Tullpaman yantata winay!	¡Mete leña al fogón!
+Yuraq warata yanaman tullpuna.	Hay que teñir de negro el pantalón blanco.
+Warmiypa tulumpinqa qurillamantam.	Los aretes de mi mujer son de oro.
+Runa wañusqa rikurisqanmanta turiyta tumpaykun.	A mi hermano lo culparon por el hombre que apareció muerto.
+Tunawqa alaymuska rumimanta rurasqam.	El moledor del batán se hace de la piedra alaymosca.
+Uywapa tunqurinqa hatunmi.	La laringe del animal es grande.
+Tunquriman mikuy yaykuptinqa hiqipanchikmi.	Si es que entra la comida a la tráquea nos atoramos.
+Tuntaqa llampuy llampuy mikuymi.	La tunta es una comida muy suave.
+Hatun sachapa tununqa rakum.	El tallo del árbol grande es grueso.
+Wallpa uruta tuspan.	La gallina picotea al gusano.
+Wallpa kuchita tuspapayan.	La gallina le picotea frecuentemente al chancho.
+Tuqayniymi anchata rimaptiy chakin.	Cuando hablo mucho mi saliva se seca.
+Tuqurupi yakuta wasiman apay.	Lleva agua a la casa en el cilindro.
+Chinapa turinqa Limatam illakun.	El hermano de la China viajó a Lima.
+Wisllapaqmi turpachkani.	Estoy tallando para hacer cucharón.
+Kay turuqa kimsa watayuqñam.	Este toro ya tiene tres años.
+Utulupa tuspanqa ñawchim.	El pico del gallo es puntiagudo.
+Waynuta uyarispa warmikuna tusukuykunku.	Escuchando el huaino las mujeres gozaron bailando.
+Sapa llaqtapan imayna tusuynin kan.	Cada pueblo tiene bailes diferentes.
+Kunan tutaqa manam killa kanchu.	Esta noche no hay luna.
+Paranayamuptin tutur wayra rikurimun.	Aparece un remolino de viento cuando está por llover.
+Chiwakuwan tuyaqa chiqninakunmi.	La calandria y el zorzal se odian.
+Unay unaytam tuytun.	Flota por un tiempo prolongado.
+Tuyu wichikaykamuptinqa wayquqa mikuykunatam apakun.	Cuando llega la tormenta la avenida se lleva la sementera.
+Yunkapi yachaqkunaqa allintam tuyunku.	Los que viven en la selva reman muy bien.
+Runaqa allintam tuyun mayupi.	La gente nada bien en el río.
+Uchpaqa sachapa urunkuna wañuchinapaq allinmi.	La ceniza es bueno para matar las enfermedades de las plantas.
+Uchu kachipantinta kutay papawan mikunapaq.	Muele el ají juntamente con el queso para comer con la papa.
+Uchuy warata rantiramusqanki.	Habías comprado un pantalón pequeño.
+Iskay punchawñam uhusqanqa.	Ya son dos días que está tosiendo.
+Misiqa wasi ukupim kachkan.	El gato está dentro de la casa.
+Ukuchatam misi qatikachachkan.	El gato está persiguiendo al ratón.
+Ukukuqa ritipipas, sunipipas, yunkapipas yachanmi.	El oso vive ya sea en el ártico, en la puna o en la selva.
+Saqisqa aychata ullatuqa mikun.	El gallinazo se alimenta de la carne dejada.
+Wawapa ulluchanmi llillirqun.	El pene del bebé se ha escaldado.
+Ulluku pikantita yanupuway.	Prepárame picante de olluco.
+Umapim rinri, ñawi, simi, uya, sinqa kan.	En la cabeza se encuentra la naríz, los ojos, la boca, las orejas y la cara.
+Llaqtanchik umalliq runaqa allin rimayniyuqmi.	El dirigente de nuestro pueblo es bien hablado.
+Uma muyum hapirquwan.	Me dio mareo.
+Uywamantaqa runaqa umayuqmi.	A diferencia de los animales el hombre es inteligente.
+Qumir qispi umiñata maskachkani.	Estoy buscando una esmeralda.
+Umutu allinllamanta hamuchkan.	El enano viene lentamente.
+Wakapa uñan pawaykachan.	La cría de la vaca corretea.
+Piruw suyunchikpa unanchanqa pukawan yuraq llimpiyuqmi.	La bandera del Perú tiene los colores rojo y blanco.
+Musuq utkumanta rurasqa unkutam rantimusaq.	Compraré una camisa nueva hecha de algodón.
+Warmachaqa unquchkanmi.	El niño está enfermo.
+Kimsa killatañam unquchkan.	Ya son tres meses que está embarazada.
+Ratakuq unquymi hapirqun.	Tiene una enfermedad contagiosa.
+Hatun mamayqa unquchkan.	Mi abuela se enfermó.
+Upa runa llaqtaypi kanmi.	Hay un hombre tonto en mi pueblo.
+Awiluyqa upañan kachkan.	Mi abuelo ya está sordo.
+Sapa punchawmi uyanchiktaqa upakuna.	Todos los días debemos lavarnos la cara.
+Mana allinta mikuspanmi Upichusqa kachkan.	Por no comer bien se encuentra anémico.
+Hatun punchawkunapi runakuna upyanku.	La gente bebe en los días festivos.
+Uqata tarpuna papatahinam.	La oca se siembra igual que la papa.
+Uqi uqi uyayuqmi chiripi chayarqamun.	Con el rostro plomizo llegó en el frío.
+Akayta tukuruspaqa allintam uqitita pichakuna.	Después de defecar debe limpiarse bien el ano.
+Pukyupi uqulluchakunata riqsimusun.	Vamos a estudiar los renacuajos en el puquial.
+Uqururuqa allinmi kipchan hampinapaq.	El berro es bueno para curar el hígado.
+Kallpayllam uraytaqa rin.	Corriendo va hacia abajo.
+Qipiykita uraykachiy samanaykipaq.	Baja tu bulto para que descanses.
+Urpiqa llampu sunquyuq hawka yachakuqmi.	La paloma en un ave tranquilo y bondadoso.
+Chunyaq urqukunapim taruka yachan.	El venado vive en los cerros más alejados.
+Urqu allquqa puñuchkan.	El perro macho duerme.
+Sara tarpukusqaqa manchanami uru rikurimun.	Aparecen muchos gusanos cuando se siembra el maíz.
+Urunquyqa achka achka huñunasqam yachan.	La abeja vive formando colmenas.
+Uña wakata hampisun usamanta.	Curemos a la ternera de la piojera.
+Manam wasiman usqu misiqa yaykumunmanchu.	El gato montés no podría entrar a la casa.
+Sarata uchkuspa qaytuta ustuchiy.	Ensarta el maíz con el hilo.
+Qaytuta ustuchiy yawriman.	Introduce el hilo a la aguja gruesa.
+Puñunaykipaq puñunaman ustuy.	Deslízate a la cama para que duermas.
+Sipasñam amawtapa ususin.	Ya está joven la hija del profesor.
+Tayta mamay wañuptinmi ususqayta usuni.	Por la muerte de mis padres sufro mucho.
+Ñawpa runakunapa pachanqa utkumanta rurasqam karqa.	La ropa de los hombres antiguos estaba confeccionada a base de algodón.
+Utqayllaman mikuy yanukunapaq yakuta apamusaq.	Para cocinar la comida traeré rápido agua.
+Puka utuluqa yana wallpata sarurqun.	El gallo rojo ha domado a la gallina negra.
+Uturunkuqa manam runataqa mikunchu.	La pantera no come a las personas.
+Uwihapa aychanqa manam llumpay miskichu.	La carne de la oveja no es muy agradable.
+Machuyasqa uyapa qaran sipuyanñam.	Cuando envejecemos la piel de la cara comienza a arrugarse.
+Sapa punchawmi kukulipa takisqanta uyarini.	Escucho todos los días el canto de la paloma cuculi.
+Amahina kaspayki, tantaykita quykuway.	Por favor, dame pan.
+Wallpa uytuta mikunam.	Se debe comer el buche de la gallina.
+Kanchantin uywatam runa suwarqun.	El ratero robó todo el corral de ganado.
+Wasinpi wallpakunata kuchikunanta uywan.	Cría gallinas y chanchos en su casa.
+Allintam yachachin yachachiqqa.	Enseña muy bien el profesor.
+Karu llaqtachakunamantam yachakuqkuna hamunku.	Los alumnos vienen de los pueblitos alejados.
+Llapa imatam yachan yachaqqa.	Sabe de todo el sabio.
+Yachaysapan wak warmaqa.	Aquel niño conoce mucho.
+Qichwa simita allintam yachan.	Aprendió hablar bien el quechua.
+Sumaq sumaqmi yachay wasiyqa.	Es muy hermosa mi escuela.
+Yakutaqa allintam timpuchina upyanapaq.	Debemos hacer hervir bien el agua para beber.
+Yakunayay hapisuptikiqa, aqachata upyaykuy.	Si tienes sed, bebe chichita.
+Killimsaqa yanam.	El carbón es negro.
+Sapa punchawmi tayta mamanchikta yanapana.	Todos los días debemos ayudar a nuestros padres.
+Yanqa hamuni.	Vine en vano.
+Yantaqa allinta rupan.	La leña arde bien.
+Mikunankupaq papata yanuchkanku.	Están cocinando papa para que coman.
+Iskay tantatawan yapaykun.	Le agregó dos panes más.
+Yachasqanchik takiqa kimsa yaraymayuqmi.	La canción que sabemos tiene tres estrofas.
+¡Yarqata aspiy chakraman yaku pusanapaq!	¡Habre la acequia para llevar agua a la chacra!
+Yarqay punchawkuna.	Llegan los días de hambre.
+Yawarnin tukurquptin wañurqun.	Al terminársele la sangre, murió.
+Winkuniraqmi kustal siranapaq yawriqa.	La aguja que sirve para cocer los costales es un tanto torcida.
+Yachay wasiman yaykuspa amawtata suyay.	Entra al salón de clases y espera al profesor.
+Tiqtisqa yukaqa miskikullanmi.	Es muy agradable la yuca frita.
+Yukrata mama quchamanta hapispanku qatuman apanku.	Agarrando los camarones del mar llevan al mercado.
+Tayta mamay huk qarichatawan yumarqunku.	Mis padres engendraron un varón.
+Qari runa wawallaraq kaptinqa manam yumaynin kanraqchu.	Cuando el varón es todavía niño no tiene semen.
+Yunkata kakaw pallaq illanku.	Se fueron a la selva a recoger cacao.
+Kimsa yuntakunawan chakraykuta yapuniku.	Con tres yuntas aramos nuestra chacra.
+¡Wallpakunata yupay!	¡Cuenta las gallinas!
+Taytachatam sinchita yupaychanku llaqtakunapi.	Demasiado veneran al Señor en los pueblos.
+Yupinta qatipaspam suwata tarirqamunku.	Agarraron al ladrón siguiendo sus huellas.
+Mulli yurata machitiwan kuchumunku.	Cortan la planta de molle con el machete.
+Runa machuyaptin chukchan ritihinam yuraqyamun.	Cuando envejece el hombre sus cabellos comienzan a blaquearse como la nieve.
+Yuraq titiqa allin mikuykuna waqaychanapaq.	El estaño es bueno para conservar los alimentos.
+Yututa tuqllarqusun.	Vamos a poner trampa para la perdiz.
+Yuyaysapam wakin amawtakunaqa.	Algunos profesores tienen mucha memoria.
 Warma kaspam rurasqanta yuyan.	Recuerda todo lo que hizo siendo niño.
